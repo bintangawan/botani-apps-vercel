@@ -1,0 +1,248 @@
+[
+  {
+    "id": "flora_124",
+    "nama": "Anggur",
+    "nama_ilmiah": "Vitis vinifera",
+    "lokasi": {
+      "tempat": "Taman Buah Lubuk Pakam",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Vitales",
+      "famili": "Vitaceae",
+      "genus": "Vitis",
+      "spesies": "Vitis vinifera"
+    },
+    "image": {
+      "file_name": "anggur_002.png",
+      "link": "/storage/images/anggur_002.png"
+    }
+  },
+  {
+    "id": "flora_125",
+    "nama": "Jambu Biji",
+    "nama_ilmiah": "Psidium guajava L.",
+    "lokasi": {
+      "tempat": "Taman Buah Lubuk Pakam",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Myrtales",
+      "famili": "Myrtaceae",
+      "genus": "Psidium",
+      "spesies": "Psidium guajava L."
+    },
+    "image": {
+      "file_name": "jambu_biji_005.png",
+      "link": "/storage/images/jambu_biji_005.png"
+    }
+  },
+  {
+    "id": "flora_126",
+    "nama": "Jambu Air",
+    "nama_ilmiah": "Syzygium aqueum",
+    "lokasi": {
+      "tempat": "Taman Buah Lubuk Pakam",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "domain": "Eukaryota",
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Myrtales",
+      "famili": "Myrtaceae",
+      "genus": "Syzygium",
+      "spesies": "Syzygium aqueum"
+    },
+    "image": {
+      "file_name": "jambu_air_003.png",
+      "link": "/storage/images/jambu_air_003.png"
+    }
+  },
+  {
+    "id": "flora_127",
+    "nama": "Sukun",
+    "nama_ilmiah": "Artocarpus altilis",
+    "lokasi": {
+      "tempat": "Taman Buah Lubuk Pakam",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Rosales",
+      "famili": "Moraceae",
+      "genus": "Artocarpus",
+      "spesies": "Artocarpus altilis"
+    },
+    "image": {
+      "file_name": "sukun_002.png",
+      "link": "/storage/images/sukun_002.png"
+    }
+  },
+  {
+    "id": "flora_128",
+    "nama": "Rambutan",
+    "nama_ilmiah": "Nephelium lappaceum L.",
+    "lokasi": {
+      "tempat": "Taman Buah Lubuk Pakam",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Sapindaceae",
+      "genus": "Nephelium",
+      "spesies": "Nephelium lappaceum L."
+    },
+    "image": {
+      "file_name": "rambutan_004.png",
+      "link": "/storage/images/rambutan_004.png"
+    }
+  },
+  {
+    "id": "flora_129",
+    "nama": "Pohon Pisang",
+    "nama_ilmiah": "Musa paradisiaca L.",
+    "lokasi": {
+      "alamat": "Jl. Pancing",
+      "desa_kelurahan": "Medan Tembung",
+      "kecamatan": "Percut Sei Tuan",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Zingiberales",
+      "famili": "Musaceae",
+      "genus": "Musa",
+      "spesies": "Musa paradisiaca L."
+    },
+    "image": {
+      "file_name": "pisang_002.png",
+      "link": "/storage/images/pisang_002.png"
+    }
+  },
+  {
+    "id": "flora_130",
+    "nama": "Pohon Mangga",
+    "nama_ilmiah": "Mangifera indica L.",
+    "lokasi": {
+      "alamat": "Jl. Setia Budi",
+      "desa_kelurahan": "Medan Selayang",
+      "kecamatan": "Medan Selayang",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Anacardiaceae",
+      "genus": "Mangifera",
+      "spesies": "Mangifera indica L."
+    },
+    "image": {
+      "file_name": "mangga_003.png",
+      "link": "/storage/images/mangga_003.png"
+    }
+  },
+  {
+    "id": "flora_131",
+    "nama": "Pohon Kelapa",
+    "nama_ilmiah": "Cocos nucifera L.",
+    "lokasi": {
+      "alamat": "Jl. Marelan Raya",
+      "desa_kelurahan": "Rengas Pulau",
+      "kecamatan": "Medan Marelan",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Arecales",
+      "famili": "Arecaceae",
+      "genus": "Cocos",
+      "spesies": "Cocos nucifera L."
+    },
+    "image": {
+      "file_name": "kelapa_002.png",
+      "link": "/storage/images/kelapa_002.png"
+    }
+  },
+  {
+    "id": "flora_132",
+    "nama": "Tanaman Jagung",
+    "nama_ilmiah": "Zea mays L.",
+    "lokasi": {
+      "alamat": "Jl. Pancing",
+      "desa_kelurahan": "Tanjung Selamat",
+      "kecamatan": "Sunggal",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Poales",
+      "famili": "Poaceae",
+      "genus": "Zea",
+      "spesies": "Zea mays L."
+    },
+    "image": {
+      "file_name": "jagung_001.png",
+      "link": "/storage/images/jagung_001.png"
+    }
+  },
+  {
+    "id": "flora_133",
+    "nama": "Pohon Rambutan",
+    "nama_ilmiah": "Nephelium lappaceum L.",
+    "lokasi": {
+      "alamat": "Jl. Bunga Turi",
+      "desa_kelurahan": "Tanjung Selamat",
+      "kecamatan": "Sunggal",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Sapindaceae",
+      "genus": "Nephelium",
+      "spesies": "Nephelium lappaceum L."
+    },
+    "image": {
+      "file_name": "rambutan_005.png",
+      "link": "/storage/images/rambutan_005.png"
+    }
+  }
+]

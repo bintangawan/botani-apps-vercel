@@ -1,0 +1,186 @@
+[
+  {
+    "id": "flora_001",
+    "nama": "Salak",
+    "nama_ilmiah": "Salacca zalacca",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Arecales",
+      "famili": "Arecaceae",
+      "genus": "Salacca",
+      "spesies": "Salacca zalacca"
+    },
+    "image": {
+      "file_name": "salak_001.png",
+      "link": "/storage/images/salak_001.png"
+    }
+  },
+  {
+    "id": "flora_002",
+    "nama": "Sawit",
+    "nama_ilmiah": "Elaeis guineensis",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Arecales",
+      "famili": "Arecaceae",
+      "genus": "Elaeis",
+      "spesies": "Elaeis guineensis"
+    },
+    "image": {
+      "file_name": "sawit_001.png",
+      "link": "/storage/images/sawit_001.png"
+    }
+  },
+  {
+    "id": "flora_003",
+    "nama": "Kelengkeng",
+    "nama_ilmiah": "Dimocarpus longan",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Sapindaceae",
+      "genus": "Dimocarpus",
+      "spesies": "Dimocarpus longan"
+    },
+    "image": {
+      "file_name": "kelengkeng_001.png",
+      "link": "/storage/images/kelengkeng_001.png"
+    }
+  },
+  {
+    "id": "flora_004",
+    "nama": "Buni",
+    "nama_ilmiah": "Antidesma bunius",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Malpighiales",
+      "famili": "Phyllanthaceae",
+      "genus": "Antidesma",
+      "spesies": "Antidesma bunius"
+    },
+    "image": {
+      "file_name": "buni_001.png",
+      "link": "/storage/images/buni_001.png"
+    }
+  },
+  {
+    "id": "flora_005",
+    "nama": "Pinang",
+    "nama_ilmiah": "Areca catechu",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Arecales",
+      "famili": "Arecaceae",
+      "genus": "Areca",
+      "spesies": "Areca catechu"
+    },
+    "image": {
+      "file_name": "pinang_001.png",
+      "link": "/storage/images/pinang_001.png"
+    }
+  },
+  {
+    "id": "flora_006",
+    "nama": "Nangka",
+    "nama_ilmiah": "Artocarpus heterophyllus",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Rosales",
+      "famili": "Moraceae",
+      "genus": "Artocarpus",
+      "spesies": "Artocarpus heterophyllus"
+    },
+    "image": {
+      "file_name": "nangka_001.png",
+      "link": "/storage/images/nangka_001.png"
+    }
+  },
+  {
+    "id": "flora_007",
+    "nama": "Langsat",
+    "nama_ilmiah": "Lansium domesticum",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Meliaceae",
+      "genus": "Lansium",
+      "spesies": "Lansium domesticum"
+    },
+    "image": {
+      "file_name": "langsat_001.png",
+      "link": "/storage/images/langsat_001.png"
+    }
+  },
+  {
+    "id": "flora_008",
+    "nama": "Kemiri",
+    "nama_ilmiah": "Aleurites moluccanus",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Malpighiales",
+      "famili": "Euphorbiaceae",
+      "genus": "Aleurites",
+      "spesies": "Aleurites moluccanus"
+    },
+    "image": {
+      "file_name": "kemiri_001.png",
+      "link": "/storage/images/kemiri_001.png"
+    }
+  }
+]

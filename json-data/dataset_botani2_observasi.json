@@ -1,0 +1,1151 @@
+[
+  {
+    "id": "flora_009",
+    "nama": "Eceng Gondok",
+    "nama_ilmiah": "Eichhornia crassipes",
+    "lokasi": {
+      "tempat": "Taman Candika",
+      "kecamatan": "Medan Johor",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Commelinales",
+      "famili": "Pontederiaceae",
+      "genus": "Eichhornia",
+      "spesies": "Eichhornia crassipes"
+    },
+    "image": {
+      "file_name": "eceng_gondok_001.png",
+      "link": "/storage/images/eceng_gondok_001.png"
+    }
+  },
+  {
+    "id": "flora_010",
+    "nama": "Kapuk Randu",
+    "nama_ilmiah": "Ceiba pentandra",
+    "lokasi": {
+      "tempat": "Taman Candika",
+      "kecamatan": "Medan Johor",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Malvales",
+      "famili": "Malvaceae",
+      "genus": "Ceiba",
+      "spesies": "Ceiba pentandra"
+    },
+    "image": {
+      "file_name": "kapuk_randu_001.png",
+      "link": "/storage/images/kapuk_randu_001.png"
+    }
+  },
+  {
+    "id": "flora_011",
+    "nama": "Teratai",
+    "nama_ilmiah": "Nymphaea sp.",
+    "lokasi": {
+      "tempat": "Taman Candika",
+      "kecamatan": "Medan Johor",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Nymphaeales",
+      "famili": "Nymphaeaceae",
+      "genus": "Nymphaea",
+      "spesies": "Nymphaea sp."
+    },
+    "image": {
+      "file_name": "teratai_001.png",
+      "link": "/storage/images/teratai_001.png"
+    }
+  },
+  {
+    "id": "flora_012",
+    "nama": "Murbei",
+    "nama_ilmiah": "Morus alba",
+    "lokasi": {
+      "tempat": "Taman Candika",
+      "kecamatan": "Medan Johor",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Rosales",
+      "famili": "Moraceae",
+      "genus": "Morus",
+      "spesies": "Morus alba"
+    },
+    "image": {
+      "file_name": "murbei_001.png",
+      "link": "/storage/images/murbei_001.png"
+    }
+  },
+  {
+    "id": "flora_013",
+    "nama": "Asoka",
+    "nama_ilmiah": "Ixora sp.",
+    "lokasi": {
+      "tempat": "Taman Candika",
+      "kecamatan": "Medan Johor",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Gentianales",
+      "famili": "Rubiaceae",
+      "genus": "Ixora",
+      "spesies": "Ixora sp."
+    },
+    "image": {
+      "file_name": "asoka_001.png",
+      "link": "/storage/images/asoka_001.png"
+    }
+  },
+  {
+    "id": "flora_014",
+    "nama": "Mawar Merah",
+    "nama_ilmiah": "Rosa sp.",
+    "lokasi": {
+      "alamat": "Gg. Madirsan",
+      "kecamatan": "Tanjung Morawa",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Rosales",
+      "famili": "Rosaceae",
+      "genus": "Rosa",
+      "spesies": "Rosa sp."
+    },
+    "image": {
+      "file_name": "mawar_merah_001.png",
+      "link": "/storage/images/mawar_merah_001.png"
+    }
+  },
+  {
+    "id": "flora_015",
+    "nama": "Mawar Pink",
+    "nama_ilmiah": "Rosa sp.",
+    "lokasi": {
+      "alamat": "Gg. Madirsan",
+      "kecamatan": "Tanjung Morawa",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Rosales",
+      "famili": "Rosaceae",
+      "genus": "Rosa",
+      "spesies": "Rosa sp."
+    },
+    "image": {
+      "file_name": "mawar_pink_001.png",
+      "link": "/storage/images/mawar_pink_001.png"
+    }
+  },
+  {
+    "id": "flora_016",
+    "nama": "Alamanda Kuning",
+    "nama_ilmiah": "Allamanda cathartica",
+    "lokasi": {
+      "alamat": "Gg. Madirsan",
+      "kecamatan": "Tanjung Morawa",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Gentianales",
+      "famili": "Apocynaceae",
+      "genus": "Allamanda",
+      "spesies": "Allamanda cathartica"
+    },
+    "image": {
+      "file_name": "alamanda_kuning_001.png",
+      "link": "/storage/images/alamanda_kuning_001.png"
+    }
+  },
+  {
+    "id": "flora_017",
+    "nama": "Alamanda Putih",
+    "nama_ilmiah": "Allamanda cathartica",
+    "lokasi": {
+      "alamat": "Gg. Madirsan",
+      "kecamatan": "Tanjung Morawa",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Gentianales",
+      "famili": "Apocynaceae",
+      "genus": "Allamanda",
+      "spesies": "Allamanda cathartica"
+    },
+    "image": {
+      "file_name": "alamanda_putih_001.png",
+      "link": "/storage/images/alamanda_putih_001.png"
+    }
+  },
+  {
+    "id": "flora_018",
+    "nama": "Bunga Krokot",
+    "nama_ilmiah": "Portulaca grandiflora",
+    "lokasi": {
+      "alamat": "Gg. Madirsan",
+      "kecamatan": "Tanjung Morawa",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Caryophyllales",
+      "famili": "Portulacaceae",
+      "genus": "Portulaca",
+      "spesies": "Portulaca grandiflora"
+    },
+    "image": {
+      "file_name": "bunga_krokot_001.png",
+      "link": "/storage/images/bunga_krokot_001.png"
+    }
+  },
+  {
+    "id": "flora_019",
+    "nama": "Kamboja Putih",
+    "nama_ilmiah": "Plumeria alba",
+    "lokasi": {
+      "desa_kelurahan": "Batang Terap",
+      "kecamatan": "Perbaungan",
+      "kabupaten": "Serdang Bedagai",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Gentianales",
+      "famili": "Apocynaceae",
+      "genus": "Plumeria",
+      "spesies": "Plumeria alba"
+    },
+    "image": {
+      "file_name": "kamboja_putih_001.png",
+      "link": "/storage/images/kamboja_putih_001.png"
+    }
+  },
+  {
+    "id": "flora_020",
+    "nama": "Kamboja Pink",
+    "nama_ilmiah": "Plumeria rubra",
+    "lokasi": {
+      "desa_kelurahan": "Batang Terap",
+      "kecamatan": "Perbaungan",
+      "kabupaten": "Serdang Bedagai",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Gentianales",
+      "famili": "Apocynaceae",
+      "genus": "Plumeria",
+      "spesies": "Plumeria rubra"
+    },
+    "image": {
+      "file_name": "kamboja_pink_001.png",
+      "link": "/storage/images/kamboja_pink_001.png"
+    }
+  },
+  {
+    "id": "flora_021",
+    "nama": "Melinjo",
+    "nama_ilmiah": "Gnetum gnemon",
+    "lokasi": {
+      "desa_kelurahan": "Batang Terap",
+      "kecamatan": "Perbaungan",
+      "kabupaten": "Serdang Bedagai",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Gnetophyta",
+      "kelas": "Gnetopsida",
+      "ordo": "Gnetales",
+      "famili": "Gnetaceae",
+      "genus": "Gnetum",
+      "spesies": "Gnetum gnemon"
+    },
+    "image": {
+      "file_name": "melinjo_001.png",
+      "link": "/storage/images/melinjo_001.png"
+    }
+  },
+  {
+    "id": "flora_022",
+    "nama": "Bunga Katarak",
+    "nama_ilmiah": "Catharanthus roseus",
+    "lokasi": {
+      "alamat": "Jl. Garu II A",
+      "desa_kelurahan": "Harjosari I",
+      "kecamatan": "Medan Amplas",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Gentianales",
+      "famili": "Apocynaceae",
+      "genus": "Catharanthus",
+      "spesies": "Catharanthus roseus"
+    },
+    "image": {
+      "file_name": "bunga_katarak_001.png",
+      "link": "/storage/images/bunga_katarak_001.png"
+    }
+  },
+  {
+    "id": "flora_023",
+    "nama": "Bunga Kertas",
+    "nama_ilmiah": "Bougainvillea sp.",
+    "lokasi": {
+      "alamat": "Jl. Garu II A",
+      "desa_kelurahan": "Harjosari I",
+      "kecamatan": "Medan Amplas",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Caryophyllales",
+      "famili": "Nyctaginaceae",
+      "genus": "Bougainvillea",
+      "spesies": "Bougainvillea sp."
+    },
+    "image": {
+      "file_name": "bunga_kertas_001.png",
+      "link": "/storage/images/bunga_kertas_001.png"
+    }
+  },
+  {
+    "id": "flora_024",
+    "nama": "Pohon Kelapa",
+    "nama_ilmiah": "Cocos nucifera",
+    "lokasi": {
+      "kecamatan": "Siantar Martoba",
+      "kota": "Pematangsiantar",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Arecales",
+      "famili": "Arecaceae",
+      "genus": "Cocos",
+      "spesies": "Cocos nucifera"
+    },
+    "image": {
+      "file_name": "pohon_kelapa_001.png",
+      "link": "/storage/images/pohon_kelapa_001.png"
+    }
+  },
+  {
+    "id": "flora_025",
+    "nama": "Pohon Nanas",
+    "nama_ilmiah": "Ananas comosus",
+    "lokasi": {
+      "desa_kelurahan": "Pangkalan Lunang",
+      "kecamatan": "Kualuh Leidong",
+      "kabupaten": "Labuhanbatu Utara",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Poales",
+      "famili": "Bromeliaceae",
+      "genus": "Ananas",
+      "spesies": "Ananas comosus"
+    },
+    "image": {
+      "file_name": "pohon_nanas_001.png",
+      "link": "/storage/images/pohon_nanas_001.png"
+    }
+  },
+  {
+    "id": "flora_026",
+    "nama": "Pohon Mangga Apel",
+    "nama_ilmiah": "Mangifera indica",
+    "lokasi": {
+      "kecamatan": "Siantar Martoba",
+      "kota": "Pematangsiantar",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Anacardiaceae",
+      "genus": "Mangifera",
+      "spesies": "Mangifera indica"
+    },
+    "image": {
+      "file_name": "pohon_mangga_apel_001.png",
+      "link": "/storage/images/pohon_mangga_apel_001.png"
+    }
+  },
+  {
+    "id": "flora_027",
+    "nama": "Pohon Durian",
+    "nama_ilmiah": "Durio zibethinus",
+    "lokasi": {
+      "kecamatan": "Siantar Martoba",
+      "kota": "Pematangsiantar",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Malvales",
+      "famili": "Malvaceae",
+      "genus": "Durio",
+      "spesies": "Durio zibethinus"
+    },
+    "image": {
+      "file_name": "pohon_durian_001.png",
+      "link": "/storage/images/pohon_durian_001.png"
+    }
+  },
+  {
+    "id": "flora_028",
+    "nama": "Pohon Sirsak",
+    "nama_ilmiah": "Annona muricata",
+    "lokasi": {
+      "kecamatan": "Siantar Martoba",
+      "kota": "Pematangsiantar",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Magnoliales",
+      "famili": "Annonaceae",
+      "genus": "Annona",
+      "spesies": "Annona muricata"
+    },
+    "image": {
+      "file_name": "pohon_sirsak_001.png",
+      "link": "/storage/images/pohon_sirsak_001.png"
+    }
+  },
+  {
+    "id": "flora_029",
+    "nama": "Pohon Tomat",
+    "nama_ilmiah": "Solanum lycopersicum",
+    "lokasi": {
+      "kecamatan": "Siantar Martoba",
+      "kota": "Pematangsiantar",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Solanales",
+      "famili": "Solanaceae",
+      "genus": "Solanum",
+      "spesies": "Solanum lycopersicum"
+    },
+    "image": {
+      "file_name": "pohon_tomat_001.png",
+      "link": "/storage/images/pohon_tomat_001.png"
+    }
+  },
+  {
+    "id": "flora_030",
+    "nama": "Pohon Kacang Panjang",
+    "nama_ilmiah": "Vigna unguiculata",
+    "lokasi": {
+      "kecamatan": "Siantar Martoba",
+      "kota": "Pematangsiantar",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Fabales",
+      "famili": "Fabaceae",
+      "genus": "Vigna",
+      "spesies": "Vigna unguiculata"
+    },
+    "image": {
+      "file_name": "pohon_kacang_panjang_001.png",
+      "link": "/storage/images/pohon_kacang_panjang_001.png"
+    }
+  },
+  {
+    "id": "flora_031",
+    "nama": "Pohon Durian",
+    "nama_ilmiah": "Durio zibethinus",
+    "lokasi": {
+      "desa_kelurahan": "Limbong",
+      "kecamatan": "Dolok Merawan",
+      "kabupaten": "Serdang Bedagai",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "subkingdom": "Tracheobionta",
+      "superdivisi": "Spermatophyta",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "subkelas": "Dilleniidae",
+      "ordo": "Malvales",
+      "famili": "Malvaceae",
+      "genus": "Durio",
+      "spesies": "Durio zibethinus"
+    },
+    "image": {
+      "file_name": "pohon_durian_001.png",
+      "link": "/storage/images/pohon_durian_001.png"
+    }
+  },
+  {
+    "id": "flora_032",
+    "nama": "Pohon Jati Putih",
+    "nama_ilmiah": "Gmelina arborea",
+    "lokasi": {
+      "desa_kelurahan": "Kenangan Baru",
+      "kecamatan": "Percut Sei Tuan",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridiplantae",
+      "infrakingdom": "Streptophyta",
+      "superdivisi": "Embryophyta",
+      "divisi": "Tracheophyta",
+      "subdivisi": "Spermatophytina",
+      "kelas": "Magnoliopsida",
+      "ordo": "Lamiales",
+      "famili": "Lamiaceae",
+      "genus": "Gmelina",
+      "spesies": "Gmelina arborea"
+    },
+    "image": {
+      "file_name": "pohon_jati_putih_001.png",
+      "link": "/storage/images/pohon_jati_putih_001.png"
+    }
+  },
+  {
+    "id": "flora_033",
+    "nama": "Pohon Mahogani",
+    "nama_ilmiah": "Swietenia macrophylla",
+    "lokasi": {
+      "desa_kelurahan": "Kenangan Baru",
+      "kecamatan": "Percut Sei Tuan",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridiplantae",
+      "infrakingdom": "Streptophyta",
+      "superdivisi": "Embryophyta",
+      "divisi": "Tracheophyta",
+      "subdivisi": "Spermatophytina",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Meliaceae",
+      "genus": "Swietenia",
+      "spesies": "Swietenia macrophylla"
+    },
+    "image": {
+      "file_name": "pohon_mahogani_001.png",
+      "link": "/storage/images/pohon_mahogani_001.png"
+    }
+  },
+  {
+    "id": "flora_034",
+    "nama": "Pohon Kayu Putih",
+    "nama_ilmiah": "Melaleuca cajuputi",
+    "lokasi": {
+      "desa_kelurahan": "Kenangan Baru",
+      "kecamatan": "Percut Sei Tuan",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "subkingdom": "Tracheobionta",
+      "superdivisi": "Spermatophyta",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "subkelas": "Rosidae",
+      "ordo": "Myrtales",
+      "famili": "Myrtaceae",
+      "genus": "Melaleuca",
+      "spesies": "Melaleuca cajuputi"
+    },
+    "image": {
+      "file_name": "pohon_kayu_putih_001.png",
+      "link": "/storage/images/pohon_kayu_putih_001.png"
+    }
+  },
+  {
+    "id": "flora_035",
+    "nama": "Pohon Kapuk Randu",
+    "nama_ilmiah": "Ceiba pentandra",
+    "lokasi": {
+      "desa_kelurahan": "Kenangan Baru",
+      "kecamatan": "Percut Sei Tuan",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Malvales",
+      "famili": "Malvaceae",
+      "genus": "Ceiba",
+      "spesies": "Ceiba pentandra"
+    },
+    "image": {
+      "file_name": "pohon_kapuk_randu_001.png",
+      "link": "/storage/images/pohon_kapuk_randu_001.png"
+    }
+  },
+  {
+    "id": "flora_036",
+    "nama": "Pohon Cemara",
+    "nama_ilmiah": "Casuarina equisetifolia",
+    "lokasi": {
+      "desa_kelurahan": "Kenangan Baru",
+      "kecamatan": "Percut Sei Tuan",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "superdivisi": "Spermatophyta",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "subkelas": "Hamamelididae",
+      "ordo": "Casuarinales",
+      "famili": "Casuarinaceae",
+      "genus": "Casuarina",
+      "spesies": "Casuarina equisetifolia"
+    },
+    "image": {
+      "file_name": "pohon_cemara_001.png",
+      "link": "/storage/images/pohon_cemara_001.png"
+    }
+  },
+  {
+    "id": "flora_037",
+    "nama": "Pohon Rotan Saga",
+    "nama_ilmiah": "Calamus caesius",
+    "lokasi": {
+      "desa_kelurahan": "Kenangan Baru",
+      "kecamatan": "Percut Sei Tuan",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Arecales",
+      "famili": "Arecaceae",
+      "genus": "Calamus",
+      "spesies": "Calamus caesius"
+    },
+    "image": {
+      "file_name": "pohon_rotan_saga_001.png",
+      "link": "/storage/images/pohon_rotan_saga_001.png"
+    }
+  },
+  {
+    "id": "flora_038",
+    "nama": "Pohon Ketapang",
+    "nama_ilmiah": "Terminalia catappa",
+    "lokasi": {
+      "desa_kelurahan": "Kenangan Baru",
+      "kecamatan": "Percut Sei Tuan",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "subkingdom": "Viridiplantae",
+      "infrakingdom": "Streptophyta",
+      "superdivisi": "Embryophyta",
+      "divisi": "Tracheophyta",
+      "subdivisi": "Spermatophytina",
+      "kelas": "Magnoliopsida",
+      "ordo": "Myrtales",
+      "famili": "Combretaceae",
+      "genus": "Terminalia",
+      "spesies": "Terminalia catappa"
+    },
+    "image": {
+      "file_name": "pohon_ketapang_001.png",
+      "link": "/storage/images/pohon_ketapang_001.png"
+    }
+  },
+  {
+    "id": "flora_039",
+    "nama": "Pohon Bambu",
+    "nama_ilmiah": "Dendrocalamus asper",
+    "lokasi": {
+      "desa_kelurahan": "Limbong",
+      "kecamatan": "Dolok Merawan",
+      "kabupaten": "Serdang Bedagai",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "subkingdom": "Tracheobionta",
+      "superdivisi": "Spermatophyta",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "subkelas": "Commelinidae",
+      "ordo": "Poales",
+      "famili": "Poaceae",
+      "subfamili": "Bambusoideae",
+      "genus": "Dendrocalamus",
+      "spesies": "Dendrocalamus asper"
+    },
+    "image": {
+      "file_name": "pohon_bambu_001.png",
+      "link": "/storage/images/pohon_bambu_001.png"
+    }
+  },
+  {
+    "id": "flora_040",
+    "nama": "Pohon Ketapang Kencana",
+    "nama_ilmiah": "Terminalia mantaly",
+    "lokasi": {
+      "desa_kelurahan": "Kenangan Baru",
+      "kecamatan": "Percut Sei Tuan",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "subkingdom": "Tracheobionta",
+      "superdivisi": "Spermatophyta",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "subkelas": "Rosidae",
+      "ordo": "Myrtales",
+      "famili": "Combretaceae",
+      "genus": "Terminalia",
+      "spesies": "Terminalia mantaly"
+    },
+    "image": {
+      "file_name": "pohon_ketapang_kencana_001.png",
+      "link": "/storage/images/pohon_ketapang_kencana_001.png"
+    }
+  },
+  {
+    "id": "flora_041",
+    "nama": "Memelong",
+    "nama_ilmiah": "Philodendron rugosum",
+    "lokasi": {
+      "alamat": "Jl. Tri Dharma No. 9",
+      "desa_kelurahan": "Padang Bulan",
+      "kecamatan": "Medan Baru",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Monokotil",
+      "famili": "Araceae",
+      "genus": "Philodendron",
+      "spesies": "Philodendron rugosum"
+    },
+    "image": {
+      "file_name": "memelong_001.png",
+      "link": "/storage/images/memelong_001.png"
+    }
+  },
+  {
+    "id": "flora_042",
+    "nama": "Senduduk",
+    "nama_ilmiah": "Melastoma malabathricum",
+    "lokasi": {
+      "desa_kelurahan": "Ujung Labuhen",
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "famili": "Melastomataceae",
+      "genus": "Melastoma",
+      "spesies": "Melastoma malabathricum"
+    },
+    "image": {
+      "file_name": "senduduk_001.png",
+      "link": "/storage/images/senduduk_001.png"
+    }
+  },
+  {
+    "id": "flora_043",
+    "nama": "Uyah-uyahan",
+    "nama_ilmiah": "Ficus montana",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "genus": "Ficus",
+      "spesies": "Ficus montana"
+    },
+    "image": {
+      "file_name": "uyah_uyahan_001.png",
+      "link": "/storage/images/uyah_uyahan_001.png"
+    }
+  },
+  {
+    "id": "flora_044",
+    "nama": "Kirinyuh",
+    "nama_ilmiah": "Chromolaena odorata",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "famili": "Asteraceae",
+      "genus": "Chromolaena",
+      "spesies": "Chromolaena odorata"
+    },
+    "image": {
+      "file_name": "kirinyuh_001.png",
+      "link": "/storage/images/kirinyuh_001.png"
+    }
+  },
+  {
+    "id": "flora_045",
+    "nama": "Bambu",
+    "nama_ilmiah": "Bambusa sp.",
+    "lokasi": {
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Monokotil",
+      "famili": "Poaceae",
+      "genus": "Bambusa",
+      "spesies": "Bambusa sp."
+    },
+    "image": {
+      "file_name": "bambu_001.png",
+      "link": "/storage/images/bambu_001.png"
+    }
+  },
+  {
+    "id": "flora_046",
+    "nama": "Bunga Waru Landak",
+    "nama_ilmiah": "Hibiscus sp.",
+    "lokasi": {
+      "desa_kelurahan": "Lingga",
+      "kecamatan": "Simpang Empat",
+      "kabupaten": "Karo",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "famili": "Malvaceae",
+      "genus": "Hibiscus",
+      "spesies": "Hibiscus sp."
+    },
+    "image": {
+      "file_name": "bunga_waru_landak_001.png",
+      "link": "/storage/images/bunga_waru_landak_001.png"
+    }
+  },
+  {
+    "id": "flora_047",
+    "nama": "Lavender",
+    "nama_ilmiah": "Lavandula sp.",
+    "lokasi": {
+      "desa_kelurahan": "Lingga",
+      "kecamatan": "Simpang Empat",
+      "kabupaten": "Karo",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "famili": "Lamiaceae",
+      "genus": "Lavandula",
+      "spesies": "Lavandula sp."
+    },
+    "image": {
+      "file_name": "lavender_001.png",
+      "link": "/storage/images/lavender_001.png"
+    }
+  },
+  {
+    "id": "flora_048",
+    "nama": "Kakao",
+    "nama_ilmiah": "Theobroma cacao",
+    "lokasi": {
+      "desa_kelurahan": "Sarinembah",
+      "kecamatan": "Munte",
+      "kabupaten": "Karo",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "famili": "Malvaceae",
+      "genus": "Theobroma",
+      "spesies": "Theobroma cacao"
+    },
+    "image": {
+      "file_name": "kakao_001.png",
+      "link": "/storage/images/kakao_001.png"
+    }
+  },
+  {
+    "id": "flora_049",
+    "nama": "Tebu",
+    "nama_ilmiah": "Saccharum officinarum",
+    "lokasi": {
+      "desa_kelurahan": "Lingga",
+      "kecamatan": "Simpang Empat",
+      "kabupaten": "Karo",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Monokotil",
+      "famili": "Poaceae",
+      "genus": "Saccharum",
+      "spesies": "Saccharum officinarum"
+    },
+    "image": {
+      "file_name": "tebu_001.png",
+      "link": "/storage/images/tebu_001.png"
+    }
+  },
+  {
+    "id": "flora_050",
+    "nama": "Ceplukan",
+    "nama_ilmiah": "Physalis angulata",
+    "lokasi": {
+      "desa_kelurahan": "Lingga",
+      "kecamatan": "Simpang Empat",
+      "kabupaten": "Karo",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "famili": "Solanaceae",
+      "genus": "Physalis",
+      "spesies": "Physalis angulata"
+    },
+    "image": {
+      "file_name": "ceplukan_001.png",
+      "link": "/storage/images/ceplukan_001.png"
+    }
+  },
+  {
+    "id": "flora_051",
+    "nama": "Terong",
+    "nama_ilmiah": "Solanum melongena",
+    "lokasi": {
+      "desa_kelurahan": "Lingga",
+      "kecamatan": "Simpang Empat",
+      "kabupaten": "Karo",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "famili": "Solanaceae",
+      "genus": "Solanum",
+      "spesies": "Solanum melongena"
+    },
+    "image": {
+      "file_name": "terong_001.png",
+      "link": "/storage/images/terong_001.png"
+    }
+  },
+  {
+    "id": "flora_052",
+    "nama": "Matoa",
+    "nama_ilmiah": "Pometia pinnata",
+    "lokasi": {
+      "tempat": "Medan Zoo",
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "famili": "Sapindaceae",
+      "genus": "Pometia",
+      "spesies": "Pometia pinnata"
+    },
+    "image": {
+      "file_name": "matoa_001.png",
+      "link": "/storage/images/matoa_001.png"
+    }
+  },
+  {
+    "id": "flora_053",
+    "nama": "Alpukat",
+    "nama_ilmiah": "Persea americana",
+    "lokasi": {
+      "desa_kelurahan": "Selakkar",
+      "kecamatan": "Munte",
+      "kabupaten": "Karo",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Dikotil",
+      "famili": "Lauraceae",
+      "genus": "Persea",
+      "spesies": "Persea americana"
+    },
+    "image": {
+      "file_name": "alpukat_001.png",
+      "link": "/storage/images/alpukat_001.png"
+    }
+  },
+  {
+    "id": "flora_054",
+    "nama": "Talas",
+    "nama_ilmiah": "Colocasia esculenta",
+    "lokasi": {
+      "tempat": "Hutan USU Simalingkar",
+      "kecamatan": "Namorambe",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Monokotil",
+      "famili": "Araceae",
+      "genus": "Colocasia",
+      "spesies": "Colocasia esculenta"
+    },
+    "image": {
+      "file_name": "talas_001.png",
+      "link": "/storage/images/talas_001.png"
+    }
+  },
+  {
+    "id": "flora_055",
+    "nama": "Amarilis",
+    "nama_ilmiah": "Hippeastrum sp.",
+    "lokasi": {
+      "alamat": "Jl. Veteran No. 8",
+      "desa_kelurahan": "Lau Cimba",
+      "kecamatan": "Kabanjahe",
+      "kabupaten": "Karo",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Monokotil",
+      "famili": "Amaryllidaceae",
+      "genus": "Hippeastrum",
+      "spesies": "Hippeastrum sp."
+    },
+    "image": {
+      "file_name": "amarilis_001.png",
+      "link": "/storage/images/amarilis_001.png"
+    }
+  }
+]

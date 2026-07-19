@@ -1,0 +1,720 @@
+[
+  {
+    "id": "flora_056",
+    "nama": "Belimbing Buluh",
+    "nama_ilmiah": "Averrhoa bilimbi",
+    "lokasi": {
+      "kecamatan": "Panyabungan Barat",
+      "kabupaten": "Mandailing Natal",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Oxalidales",
+      "famili": "Oxalidaceae",
+      "genus": "Averrhoa",
+      "spesies": "Averrhoa bilimbi"
+    },
+    "image": {
+      "file_name": "belimbing_buluh_001.png",
+      "link": "/storage/images/belimbing_buluh_001.png"
+    }
+  },
+  {
+    "id": "flora_057",
+    "nama": "Kelengkeng",
+    "nama_ilmiah": "Dimocarpus longan",
+    "lokasi": {
+      "kecamatan": "Panyabungan Barat",
+      "kabupaten": "Mandailing Natal",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Sapindaceae",
+      "genus": "Dimocarpus",
+      "spesies": "Dimocarpus longan"
+    },
+    "image": {
+      "file_name": "kelengkeng_002.png",
+      "link": "/storage/images/kelengkeng_002.png"
+    }
+  },
+  {
+    "id": "flora_058",
+    "nama": "Nangka",
+    "nama_ilmiah": "Artocarpus heterophyllus",
+    "lokasi": {
+      "kecamatan": "Panyabungan Barat",
+      "kabupaten": "Mandailing Natal",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Rosales",
+      "famili": "Moraceae",
+      "genus": "Artocarpus",
+      "spesies": "Artocarpus heterophyllus"
+    },
+    "image": {
+      "file_name": "nangka_002.png",
+      "link": "/storage/images/nangka_002.png"
+    }
+  },
+  {
+    "id": "flora_059",
+    "nama": "Manggis",
+    "nama_ilmiah": "Garcinia mangostana",
+    "lokasi": {
+      "kecamatan": "Panyabungan Barat",
+      "kabupaten": "Mandailing Natal",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Malpighiales",
+      "famili": "Clusiaceae",
+      "genus": "Garcinia",
+      "spesies": "Garcinia mangostana"
+    },
+    "image": {
+      "file_name": "manggis_001.png",
+      "link": "/storage/images/manggis_001.png"
+    }
+  },
+  {
+    "id": "flora_060",
+    "nama": "Pinang",
+    "nama_ilmiah": "Areca catechu",
+    "lokasi": {
+      "kecamatan": "Panyabungan Barat",
+      "kabupaten": "Mandailing Natal",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Arecales",
+      "famili": "Arecaceae",
+      "genus": "Areca",
+      "spesies": "Areca catechu"
+    },
+    "image": {
+      "file_name": "pinang_002.png",
+      "link": "/storage/images/pinang_002.png"
+    }
+  },
+  {
+    "id": "flora_061",
+    "nama": "Pisang",
+    "nama_ilmiah": "Musa paradisiaca",
+    "lokasi": {
+      "kecamatan": "Panyabungan Barat",
+      "kabupaten": "Mandailing Natal",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Liliopsida",
+      "ordo": "Zingiberales",
+      "famili": "Musaceae",
+      "genus": "Musa",
+      "spesies": "Musa paradisiaca"
+    },
+    "image": {
+      "file_name": "pisang_001.png",
+      "link": "/storage/images/pisang_001.png"
+    }
+  },
+  {
+    "id": "flora_062",
+    "nama": "Srikaya",
+    "nama_ilmiah": "Annona squamosa",
+    "lokasi": {
+      "kecamatan": "Hatonduhan",
+      "kabupaten": "Simalungun",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Magnoliales",
+      "famili": "Annonaceae",
+      "genus": "Annona",
+      "spesies": "Annona squamosa"
+    },
+    "image": {
+      "file_name": "srikaya_001.png",
+      "link": "/storage/images/srikaya_001.png"
+    }
+  },
+  {
+    "id": "flora_063",
+    "nama": "Jeruk Purut",
+    "nama_ilmiah": "Citrus hystrix",
+    "lokasi": {
+      "kecamatan": "Hatonduhan",
+      "kabupaten": "Simalungun",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Rutaceae",
+      "genus": "Citrus",
+      "spesies": "Citrus hystrix"
+    },
+    "image": {
+      "file_name": "jeruk_purut_001.png",
+      "link": "/storage/images/jeruk_purut_001.png"
+    }
+  },
+  {
+    "id": "flora_064",
+    "nama": "Delima",
+    "nama_ilmiah": "Punica granatum",
+    "lokasi": {
+      "kecamatan": "Hatonduhan",
+      "kabupaten": "Simalungun",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Myrtales",
+      "famili": "Lythraceae",
+      "genus": "Punica",
+      "spesies": "Punica granatum"
+    },
+    "image": {
+      "file_name": "delima_001.png",
+      "link": "/storage/images/delima_001.png"
+    }
+  },
+  {
+    "id": "flora_065",
+    "nama": "Pepaya",
+    "nama_ilmiah": "Carica papaya",
+    "lokasi": {
+      "kecamatan": "Hatonduhan",
+      "kabupaten": "Simalungun",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Brassicales",
+      "famili": "Caricaceae",
+      "genus": "Carica",
+      "spesies": "Carica papaya"
+    },
+    "image": {
+      "file_name": "pepaya_001.png",
+      "link": "/storage/images/pepaya_001.png"
+    }
+  },
+  {
+    "id": "flora_066",
+    "nama": "Kelor",
+    "nama_ilmiah": "Moringa oleifera",
+    "lokasi": {
+      "kecamatan": "Hatonduhan",
+      "kabupaten": "Simalungun",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Brassicales",
+      "famili": "Moringaceae",
+      "genus": "Moringa",
+      "spesies": "Moringa oleifera"
+    },
+    "image": {
+      "file_name": "kelor_001.png",
+      "link": "/storage/images/kelor_001.png"
+    }
+  },
+  {
+    "id": "flora_067",
+    "nama": "Aren",
+    "nama_ilmiah": "Arenga pinnata",
+    "lokasi": {
+      "tempat": "The Le Hu Garden",
+      "desa_kelurahan": "Deli Tua Barat",
+      "kecamatan": "Deli Tua",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta (atau Spermatophyta)",
+      "kelas": "Liliopsida",
+      "ordo": "Arecales",
+      "famili": "Arecaceae",
+      "genus": "Arenga",
+      "spesies": "Arenga pinnata"
+    },
+    "image": {
+      "file_name": "aren_001.png",
+      "link": "/storage/images/aren_001.png"
+    }
+  },
+  {
+    "id": "flora_068",
+    "nama": "Pinus",
+    "nama_ilmiah": "Pinus merkusii",
+    "lokasi": {
+      "tempat": "The Le Hu Garden",
+      "desa_kelurahan": "Deli Tua Barat",
+      "kecamatan": "Deli Tua",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Coniferophyta atau Pinophyta",
+      "kelas": "Pinopsida",
+      "ordo": "Pinales",
+      "famili": "Pinaceae",
+      "genus": "Pinus",
+      "spesies": "Pinus merkusii"
+    },
+    "image": {
+      "file_name": "pinus_001.png",
+      "link": "/storage/images/pinus_001.png"
+    }
+  },
+  {
+    "id": "flora_069",
+    "nama": "Mangga",
+    "nama_ilmiah": "Mangifera indica L.",
+    "lokasi": {
+      "tempat": "The Le Hu Garden",
+      "desa_kelurahan": "Deli Tua Barat",
+      "kecamatan": "Deli Tua",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Tracheophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Anacardiaceae",
+      "genus": "Mangifera",
+      "spesies": "Mangifera indica L."
+    },
+    "image": {
+      "file_name": "mangga_001.png",
+      "link": "/storage/images/mangga_001.png"
+    }
+  },
+  {
+    "id": "flora_070",
+    "nama": "Kakao",
+    "nama_ilmiah": "Theobroma cacao L.",
+    "lokasi": {
+      "tempat": "The Le Hu Garden",
+      "desa_kelurahan": "Deli Tua Barat",
+      "kecamatan": "Deli Tua",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Malvales",
+      "famili": "Malvaceae",
+      "genus": "Theobroma",
+      "spesies": "Theobroma cacao L."
+    },
+    "image": {
+      "file_name": "kakao_002.png",
+      "link": "/storage/images/kakao_002.png"
+    }
+  },
+  {
+    "id": "flora_071",
+    "nama": "Tomat",
+    "nama_ilmiah": "Solanum lycopersicum",
+    "lokasi": {
+      "tempat": "The Le Hu Garden",
+      "desa_kelurahan": "Deli Tua Barat",
+      "kecamatan": "Deli Tua",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Solanales",
+      "famili": "Solanaceae",
+      "genus": "Solanum",
+      "spesies": "Solanum lycopersicum"
+    },
+    "image": {
+      "file_name": "tomat_002.png",
+      "link": "/storage/images/tomat_002.png"
+    }
+  },
+  {
+    "id": "flora_072",
+    "nama": "Buni",
+    "nama_ilmiah": "Antidesma bunius",
+    "lokasi": {
+      "tempat": "The Le Hu Garden",
+      "desa_kelurahan": "Deli Tua Barat",
+      "kecamatan": "Deli Tua",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Malpighiales",
+      "famili": "Phyllanthaceae",
+      "genus": "Antidesma",
+      "spesies": "Antidesma bunius"
+    },
+    "image": {
+      "file_name": "buni_002.png",
+      "link": "/storage/images/buni_002.png"
+    }
+  },
+  {
+    "id": "flora_073",
+    "nama": "Durian",
+    "nama_ilmiah": "Durio zibethinus Murr.",
+    "lokasi": {
+      "tempat": "The Le Hu Garden",
+      "desa_kelurahan": "Deli Tua Barat",
+      "kecamatan": "Deli Tua",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "kelas": "Dikotil",
+      "ordo": "Malvales",
+      "famili": "Malvaceae",
+      "genus": "Durio",
+      "spesies": "Durio zibethinus Murr."
+    },
+    "image": {
+      "file_name": "durian_003.png",
+      "link": "/storage/images/durian_003.png"
+    }
+  },
+  {
+    "id": "flora_074",
+    "nama": "Rambutan",
+    "nama_ilmiah": "Nephelium lappaceum",
+    "lokasi": {
+      "tempat": "The Le Hu Garden",
+      "desa_kelurahan": "Deli Tua Barat",
+      "kecamatan": "Deli Tua",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Tracheophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Sapindaceae",
+      "genus": "Nephelium",
+      "spesies": "Nephelium lappaceum"
+    },
+    "image": {
+      "file_name": "rambutan_001.png",
+      "link": "/storage/images/rambutan_001.png"
+    }
+  },
+  {
+    "id": "flora_075",
+    "nama": "Mangga Kelong",
+    "nama_ilmiah": "Mangifera indica L. varietas Kelong",
+    "lokasi": {
+      "desa_kelurahan": "Perbarakan",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Sapindales",
+      "famili": "Anacardiaceae",
+      "genus": "Mangifera",
+      "spesies": "Mangifera indica L."
+    },
+    "image": {
+      "file_name": "mangga_kelong_001.png",
+      "link": "/storage/images/mangga_kelong_001.png"
+    }
+  },
+  {
+    "id": "flora_076",
+    "nama": "Bunga Alamanda",
+    "nama_ilmiah": "Allamanda cathartica L.",
+    "lokasi": {
+      "desa_kelurahan": "Tanjung Garbus Satu",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Gentianales",
+      "famili": "Apocynaceae",
+      "genus": "Allamanda",
+      "spesies": "Allamanda cathartica L."
+    },
+    "image": {
+      "file_name": "bunga_alamanda_001.png",
+      "link": "/storage/images/bunga_alamanda_001.png"
+    }
+  },
+  {
+    "id": "flora_077",
+    "nama": "Durian",
+    "nama_ilmiah": "Durio zibethinus Murr.",
+    "lokasi": {
+      "desa_kelurahan": "Perbarakan",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Malvales",
+      "famili": "Malvaceae",
+      "genus": "Durio",
+      "spesies": "Durio zibethinus Murr."
+    },
+    "image": {
+      "file_name": "durian_004.png",
+      "link": "/storage/images/durian_004.png"
+    }
+  },
+  {
+    "id": "flora_078",
+    "nama": "Jambu Air",
+    "nama_ilmiah": "Syzygium aqueum (Burm.f.) Alston",
+    "lokasi": {
+      "desa_kelurahan": "Tanjung Garbus Satu",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Myrtales",
+      "famili": "Myrtaceae",
+      "genus": "Syzygium",
+      "spesies": "Syzygium aqueum (Burm.f.) Alston"
+    },
+    "image": {
+      "file_name": "jambu_air_001.png",
+      "link": "/storage/images/jambu_air_001.png"
+    }
+  },
+  {
+    "id": "flora_079",
+    "nama": "Belimbing",
+    "nama_ilmiah": "Averrhoa carambola L.",
+    "lokasi": {
+      "desa_kelurahan": "Tanjung Garbus Satu",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Oxalidales",
+      "famili": "Oxalidaceae",
+      "genus": "Averrhoa",
+      "spesies": "Averrhoa carambola L."
+    },
+    "image": {
+      "file_name": "belimbing_001.png",
+      "link": "/storage/images/belimbing_001.png"
+    }
+  },
+  {
+    "id": "flora_080",
+    "nama": "Anggur Hijau",
+    "nama_ilmiah": "Vitis vinifera L.",
+    "lokasi": {
+      "desa_kelurahan": "Tanjung Garbus Satu",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Vitales",
+      "famili": "Vitaceae",
+      "genus": "Vitis",
+      "spesies": "Vitis vinifera L."
+    },
+    "image": {
+      "file_name": "anggur_hijau_001.png",
+      "link": "/storage/images/anggur_hijau_001.png"
+    }
+  },
+  {
+    "id": "flora_081",
+    "nama": "Sawo",
+    "nama_ilmiah": "Manilkara zapota (L.) P. Royen",
+    "lokasi": {
+      "desa_kelurahan": "Perbarakan",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Ericales",
+      "famili": "Sapotaceae",
+      "genus": "Manilkara",
+      "spesies": "Manilkara zapota (L.) P. Royen"
+    },
+    "image": {
+      "file_name": "sawo_001.png",
+      "link": "/storage/images/sawo_001.png"
+    }
+  },
+  {
+    "id": "flora_082",
+    "nama": "Bunga Kamboja",
+    "nama_ilmiah": "Plumeria rubra L.",
+    "lokasi": {
+      "desa_kelurahan": "Tanjung Garbus Satu",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Gentianales",
+      "famili": "Apocynaceae",
+      "genus": "Plumeria",
+      "spesies": "Plumeria rubra L."
+    },
+    "image": {
+      "file_name": "bunga_kamboja_001.png",
+      "link": "/storage/images/bunga_kamboja_001.png"
+    }
+  },
+  {
+    "id": "flora_083",
+    "nama": "Cemara Udang",
+    "nama_ilmiah": "Casuarina equisetifolia L.",
+    "lokasi": {
+      "desa_kelurahan": "Perbarakan",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Tracheophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Fagales",
+      "famili": "Casuarinaceae",
+      "genus": "Casuarina",
+      "spesies": "Casuarina equisetifolia L."
+    },
+    "image": {
+      "file_name": "cemara_udang_001.png",
+      "link": "/storage/images/cemara_udang_001.png"
+    }
+  },
+  {
+    "id": "flora_084",
+    "nama": "Rombusa Putih",
+    "nama_ilmiah": "Tabernaemontana corymbosa",
+    "lokasi": {
+      "desa_kelurahan": "Tanjung Garbus Satu",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Magnoliophyta",
+      "kelas": "Magnoliopsida",
+      "ordo": "Gentianales",
+      "famili": "Apocynaceae",
+      "genus": "Tabernaemontana",
+      "spesies": "Tabernaemontana corymbosa"
+    },
+    "image": {
+      "file_name": "rombusa_putih_001.png",
+      "link": "/storage/images/rombusa_putih_001.png"
+    }
+  },
+  {
+    "id": "flora_085",
+    "nama": "Jambu Biji Merah",
+    "nama_ilmiah": "Psidium guajava",
+    "lokasi": {
+      "desa_kelurahan": "Tanjung Garbus Satu",
+      "kecamatan": "Lubuk Pakam",
+      "kabupaten": "Deli Serdang",
+      "provinsi": "Sumatera Utara"
+    },
+    "taksonomi": {
+      "kingdom": "Plantae",
+      "divisi": "Spermatophyta",
+      "subdivisi": "Angiospermae",
+      "kelas": "Magnoliopsida / Dicotyledonae",
+      "ordo": "Myrtales",
+      "famili": "Myrtaceae",
+      "genus": "Psidium",
+      "spesies": "Psidium guajava"
+    },
+    "image": {
+      "file_name": "jambu_biji_merah_001.png",
+      "link": "/storage/images/jambu_biji_merah_001.png"
+    }
+  }
+]
