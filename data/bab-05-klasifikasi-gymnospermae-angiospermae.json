@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "module_type": "chapter",
+  "source": {
+    "title": "Botani Phanerogamae",
+    "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+    "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+  },
+  "chapter": 5,
+  "title": "Klasifikasi Gymnospermae dan Angiospermae",
+  "slug": "klasifikasi-gymnospermae-angiospermae",
+  "description": "Membandingkan dua kelompok utama tumbuhan berbiji dari struktur, reproduksi, contoh, hingga manfaatnya.",
+  "estimated_minutes": 45,
+  "lessons": [
+    {
+      "id": "bab-5-01",
+      "order": 1,
+      "title": "Klasifikasi Phanerogamae",
+      "slug": "klasifikasi-phanerogamae",
+      "content_format": "markdown",
+      "content": "Phanerogamae adalah kelompok tumbuhan berbiji yang memiliki alat reproduksi yang tampak jelas. Kelompok ini memiliki organ sejati berupa akar, batang, dan daun serta jaringan pengangkut xilem dan floem.\n\nPhanerogamae dibagi menjadi dua kelompok besar:\n1. **Gymnospermae** – tumbuhan berbiji terbuka.\n2. **Angiospermae** – tumbuhan berbiji tertutup.\n\nPerbedaan utama keduanya terletak pada posisi bakal biji. Pada Gymnospermae, bakal biji tidak tertutup ovarium. Pada Angiospermae, bakal biji berada di dalam ovarium yang kemudian berkembang menjadi buah.",
+      "key_points": [
+        "Phanerogamae adalah tumbuhan berbiji.",
+        "Gymnospermae dan Angiospermae adalah dua kelompok utamanya.",
+        "Posisi bakal biji menjadi perbedaan penting."
+      ],
+      "source_sections": [
+        "5.1"
+      ]
+    },
+    {
+      "id": "bab-5-02",
+      "order": 2,
+      "title": "Gymnospermae: Biji, Struktur, dan Reproduksi",
+      "slug": "gymnospermae-biji-struktur-dan-reproduksi",
+      "content_format": "markdown",
+      "content": "Gymnospermae memiliki biji terbuka yang berkembang pada permukaan struktur reproduksi, umumnya **strobilus**.\n\n### Struktur biji\nBiji mengandung:\n- embrio,\n- cadangan makanan,\n- kulit biji sebagai pelindung.\n\nPada beberapa jenis seperti pinus, biji dapat memiliki sayap yang membantu penyebaran oleh angin.\n\n### Reproduksi\nGymnospermae menggunakan:\n- **strobilus jantan** untuk menghasilkan mikrospora/serbuk sari,\n- **strobilus betina** untuk menghasilkan struktur yang berkembang menjadi gametofit betina.\n\nSerbuk sari umumnya dipindahkan oleh angin. Setelah pembuahan, zigot berkembang menjadi embrio dan bakal biji menjadi biji pada sisik strobilus.",
+      "key_points": [
+        "Biji Gymnospermae tidak tertutup buah.",
+        "Strobilus jantan dan betina berperan dalam reproduksi.",
+        "Angin sering menjadi agen penyerbukan."
+      ],
+      "source_sections": [
+        "5.2",
+        "5.3",
+        "5.4"
+      ]
+    },
+    {
+      "id": "bab-5-03",
+      "order": 3,
+      "title": "Contoh Gymnospermae",
+      "slug": "contoh-gymnospermae",
+      "content_format": "markdown",
+      "content": "Contoh Gymnospermae yang dibahas adalah **Pinus merkusii**. Pinus mudah dikenali melalui daun berbentuk jarum, batang berkayu, produksi resin, serta strobilus jantan dan betina.\n\nBiji pinus tersusun pada sisik runjung betina dan dapat memiliki sayap untuk membantu penyebaran.\n\nSecara umum, Gymnospermae mencakup beberapa kelompok seperti Coniferophyta, Cycadophyta, Ginkgophyta, dan Gnetophyta. Setiap kelompok memiliki bentuk dan karakter reproduksi yang berbeda, tetapi tetap memiliki ciri utama berupa biji yang tidak terlindungi buah.",
+      "key_points": [
+        "Pinus adalah contoh Gymnospermae yang mudah diamati.",
+        "Daun jarum dan strobilus menjadi ciri penting pinus.",
+        "Gymnospermae mencakup beberapa kelompok besar."
+      ],
+      "source_sections": [
+        "5.2",
+        "5.5"
+      ]
+    },
+    {
+      "id": "bab-5-04",
+      "order": 4,
+      "title": "Peran Gymnospermae bagi Manusia dan Lingkungan",
+      "slug": "peran-gymnospermae-bagi-manusia-dan-lingkungan",
+      "content_format": "markdown",
+      "content": "Gymnospermae memiliki berbagai manfaat yang dikaitkan dalam buku dengan kesehatan dan kualitas lingkungan.\n\nBeberapa jenis dimanfaatkan sebagai sumber bahan obat, misalnya **Ginkgo biloba** yang mengandung senyawa bioaktif. Hutan pinus dan vegetasi Gymnospermae juga berperan dalam fotosintesis, penyerapan karbon dioksida, produksi oksigen, menjaga kelembapan, dan mendukung kestabilan ekosistem.\n\nRuang hijau yang dipenuhi pepohonan juga dibahas sebagai lingkungan yang dapat memberikan suasana lebih nyaman dan mendukung kesejahteraan manusia.",
+      "key_points": [
+        "Gymnospermae dapat memiliki nilai farmasi.",
+        "Hutan Gymnospermae berkontribusi pada kualitas udara.",
+        "Vegetasi hijau juga memiliki nilai sosial dan lingkungan."
+      ],
+      "source_sections": [
+        "5.6",
+        "5.7",
+        "5.8"
+      ]
+    },
+    {
+      "id": "bab-5-05",
+      "order": 5,
+      "title": "Angiospermae dan Struktur Bunganya",
+      "slug": "angiospermae-dan-struktur-bunganya",
+      "content_format": "markdown",
+      "content": "Angiospermae adalah tumbuhan berbiji tertutup. Bakal biji berada di dalam **ovarium**, dan setelah pembuahan ovarium berkembang menjadi buah yang melindungi biji.\n\nCiri penting Angiospermae:\n- memiliki bunga sebagai organ reproduksi,\n- memiliki akar, batang, dan daun sejati,\n- memiliki jaringan pembuluh,\n- mengalami pembuahan ganda,\n- menghasilkan buah yang melindungi biji.\n\nStruktur bunga secara umum meliputi **kelopak, mahkota, benang sari, dan putik**. Bagian-bagian tersebut bekerja bersama untuk mendukung penyerbukan dan pembuahan.",
+      "key_points": [
+        "Angiospermae memiliki biji tertutup.",
+        "Ovarium berkembang menjadi buah.",
+        "Bunga menjadi organ reproduksi utama."
+      ],
+      "source_sections": [
+        "5.9",
+        "5.10"
+      ]
+    },
+    {
+      "id": "bab-5-06",
+      "order": 6,
+      "title": "Reproduksi dan Pembuahan Ganda Angiospermae",
+      "slug": "reproduksi-dan-pembuahan-ganda-angiospermae",
+      "content_format": "markdown",
+      "content": "Reproduksi Angiospermae berlangsung melalui beberapa tahap:\n1. **Gametogenesis**: gamet jantan dibentuk di antera, gamet betina di bakal biji.\n2. **Penyerbukan**: serbuk sari menempel pada stigma.\n3. **Pertumbuhan buluh serbuk sari** menuju ovulum.\n4. **Pembuahan ganda**.\n5. **Pembentukan biji dan buah**.\n\nPada pembuahan ganda, satu inti sperma membentuk zigot yang berkembang menjadi embrio, sedangkan inti sperma lainnya membentuk endosperma.\n\nHasil akhirnya:\n- zigot → embrio,\n- endosperma → cadangan makanan,\n- bakal biji → biji,\n- ovarium → buah.",
+      "key_points": [
+        "Angiospermae mengalami pembuahan ganda.",
+        "Zigot menjadi embrio dan endosperma menjadi cadangan makanan.",
+        "Ovarium berkembang menjadi buah."
+      ],
+      "source_sections": [
+        "5.11",
+        "5.12"
+      ]
+    },
+    {
+      "id": "bab-5-07",
+      "order": 7,
+      "title": "Buah, Biji, dan Contoh Angiospermae",
+      "slug": "buah-biji-dan-contoh-angiospermae",
+      "content_format": "markdown",
+      "content": "Pada Angiospermae, buah berkembang dari ovarium dan biji berkembang dari bakal biji.\n\n### Struktur buah\nPerikarp dapat terdiri atas:\n- eksokarp,\n- mesokarp,\n- endokarp.\n\n### Struktur biji\nBiji memiliki:\n- embrio,\n- endosperma atau cadangan makanan,\n- kulit biji.\n\nBuah berfungsi melindungi biji, membantu penyebaran, dan pada beberapa tumbuhan menyimpan nutrisi.\n\nContoh Angiospermae yang dibahas meliputi berbagai tanaman berbunga dan pohon seperti jambu monyet, mangga, mahoni, nangka, serta tanaman lain yang menghasilkan bunga dan buah.",
+      "key_points": [
+        "Buah melindungi biji Angiospermae.",
+        "Perikarp tersusun atas lapisan-lapisan buah.",
+        "Angiospermae sangat beragam dan mudah dijumpai."
+      ],
+      "source_sections": [
+        "5.13",
+        "5.14",
+        "5.15"
+      ]
+    },
+    {
+      "id": "bab-5-08",
+      "order": 8,
+      "title": "Angiospermae dan SDGs",
+      "slug": "angiospermae-dan-sdgs",
+      "content_format": "markdown",
+      "content": "Angiospermae memiliki peran besar dalam pangan, kesehatan, dan lingkungan.\n\n### Ketahanan pangan\nPadi, jagung, dan kedelai menyediakan karbohidrat, protein, vitamin, dan mineral.\n\n### Sumber obat\nTanaman seperti kunyit, jambu biji, dan tapak dara dimanfaatkan sebagai bahan obat atau sumber senyawa bioaktif.\n\n### Kualitas lingkungan\nPohon Angiospermae menyerap karbon dioksida dan menghasilkan oksigen melalui fotosintesis serta membantu menjaga kondisi lingkungan.\n\n### Penelitian pangan\nPengembangan tanaman dapat diarahkan pada biofortifikasi, ketahanan terhadap penyakit, dan pangan fungsional.",
+      "key_points": [
+        "Angiospermae menjadi sumber pangan utama.",
+        "Banyak Angiospermae dimanfaatkan sebagai tanaman obat.",
+        "Pemuliaan dan penelitian tanaman mendukung pangan dan kesehatan."
+      ],
+      "source_sections": [
+        "5.16",
+        "5.17",
+        "5.18",
+        "5.19"
+      ]
+    }
+  ],
+  "chapter_summary": [
+    "Phanerogamae terbagi menjadi Gymnospermae dan Angiospermae.",
+    "Gymnospermae memiliki biji terbuka dan strobilus.",
+    "Angiospermae memiliki bunga, pembuahan ganda, serta biji yang terlindungi buah."
+  ]
+}

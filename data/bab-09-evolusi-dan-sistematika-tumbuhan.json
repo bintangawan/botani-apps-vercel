@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "module_type": "chapter",
+  "source": {
+    "title": "Botani Phanerogamae",
+    "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+    "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+  },
+  "chapter": 9,
+  "title": "Evolusi dan Sistematika Tumbuhan",
+  "slug": "evolusi-dan-sistematika-tumbuhan",
+  "description": "Mempelajari asal-usul tumbuhan, evolusi menuju tumbuhan darat, adaptasi lingkungan, serta hubungan evolusi dengan sistematika.",
+  "estimated_minutes": 40,
+  "lessons": [
+    {
+      "id": "bab-9-01",
+      "order": 1,
+      "title": "Evolusi dan Sistematika Tumbuhan",
+      "slug": "evolusi-dan-sistematika-tumbuhan",
+      "content_format": "markdown",
+      "content": "**Evolusi tumbuhan** adalah perubahan bertahap yang berlangsung dalam waktu sangat lama dan menghasilkan keanekaragaman bentuk tumbuhan. Prosesnya berkaitan dengan variasi genetik, adaptasi, dan seleksi alam.\n\n**Sistematika tumbuhan** mempelajari identifikasi, penamaan, klasifikasi, serta hubungan kekerabatan antar tumbuhan. Kajian sistematika dapat memanfaatkan morfologi, anatomi, fisiologi, biokimia, dan data molekuler.\n\nEvolusi menjelaskan bagaimana kelompok tumbuhan berubah dari waktu ke waktu, sedangkan sistematika membantu menata dan memahami hubungan di antara kelompok-kelompok tersebut.",
+      "key_points": [
+        "Evolusi membahas perubahan tumbuhan sepanjang waktu.",
+        "Sistematika mengatur identifikasi, klasifikasi, dan kekerabatan.",
+        "Data morfologi hingga molekuler dapat digunakan dalam sistematika."
+      ],
+      "source_sections": [
+        "9.1",
+        "9.2",
+        "9.3"
+      ]
+    },
+    {
+      "id": "bab-9-02",
+      "order": 2,
+      "title": "Pentingnya dan Karakteristik Tumbuhan Tingkat Tinggi",
+      "slug": "pentingnya-dan-karakteristik-tumbuhan-tingkat-tinggi",
+      "content_format": "markdown",
+      "content": "Tumbuhan tingkat tinggi memiliki peranan besar sebagai produsen dalam ekosistem, penghasil oksigen, penyerap karbon dioksida, serta sumber pangan, obat, bahan bangunan, dan bahan industri.\n\nKarakter pentingnya antara lain:\n- memiliki jaringan pembuluh **xilem dan floem**,\n- mempunyai organ yang terdiferensiasi menjadi akar, batang, dan daun,\n- memiliki sistem reproduksi yang lebih kompleks,\n- mampu hidup pada beragam habitat daratan.\n\nPerkembangan jaringan pembuluh dan organ sejati memungkinkan tumbuhan tumbuh lebih besar serta memindahkan air, mineral, dan hasil fotosintesis secara efisien.",
+      "key_points": [
+        "Tumbuhan tingkat tinggi memiliki jaringan pembuluh.",
+        "Akar, batang, dan daun terdiferensiasi jelas.",
+        "Kompleksitas struktur meningkatkan kemampuan adaptasi."
+      ],
+      "source_sections": [
+        "9.4",
+        "9.5"
+      ]
+    },
+    {
+      "id": "bab-9-03",
+      "order": 3,
+      "title": "Asal Usul Tumbuhan dari Alga Hijau",
+      "slug": "asal-usul-tumbuhan-dari-alga-hijau",
+      "content_format": "markdown",
+      "content": "Asal-usul tumbuhan darat dikaitkan dengan organisme fotosintetik yang hidup di perairan, terutama kelompok **alga hijau**. Alga hijau dan tumbuhan darat memiliki kesamaan seperti klorofil a dan b serta kemampuan fotosintesis.\n\nPerpindahan dari air ke darat menimbulkan tantangan baru:\n- risiko kehilangan air,\n- paparan cahaya lebih kuat,\n- kebutuhan penopang tubuh,\n- transportasi air dan mineral,\n- reproduksi tanpa selalu bergantung pada air.\n\nTekanan tersebut mendorong munculnya berbagai inovasi struktur dan fisiologi.",
+      "key_points": [
+        "Alga hijau menjadi titik penting dalam pembahasan asal tumbuhan darat.",
+        "Lingkungan darat menimbulkan tantangan baru.",
+        "Adaptasi dibutuhkan untuk mencegah kehilangan air dan mendukung transportasi."
+      ],
+      "source_sections": [
+        "9.6"
+      ]
+    },
+    {
+      "id": "bab-9-04",
+      "order": 4,
+      "title": "Evolusi Tumbuhan Darat",
+      "slug": "evolusi-tumbuhan-darat",
+      "content_format": "markdown",
+      "content": "Perjalanan evolusi tumbuhan dapat diringkas sebagai:\n**alga hijau → lumut → paku-pakuan → tumbuhan berbiji → tumbuhan berbunga**.\n\nBeberapa inovasi penting selama proses tersebut:\n- **kutikula** untuk mengurangi kehilangan air,\n- **stomata** untuk pertukaran gas,\n- **xilem dan floem** untuk transportasi,\n- **akar, batang, dan daun sejati**,\n- **biji** untuk melindungi embrio dan membawa cadangan makanan,\n- **bunga dan buah** pada Angiospermae untuk reproduksi dan perlindungan biji.\n\nSetiap tahap menunjukkan peningkatan kemampuan hidup di darat dan kompleksitas struktur.",
+      "key_points": [
+        "Evolusi tumbuhan menunjukkan peningkatan kompleksitas.",
+        "Kutikula, stomata, pembuluh, biji, bunga, dan buah adalah inovasi penting.",
+        "Tumbuhan berbiji semakin tidak bergantung pada air untuk reproduksi."
+      ],
+      "source_sections": [
+        "9.7",
+        "9.8"
+      ]
+    },
+    {
+      "id": "bab-9-05",
+      "order": 5,
+      "title": "Adaptasi terhadap Lingkungan",
+      "slug": "adaptasi-terhadap-lingkungan",
+      "content_format": "markdown",
+      "content": "Tumbuhan dapat mengembangkan karakter khusus sesuai habitat.\n\n### Xerofit – lingkungan kering\nContoh adaptasi: daun menjadi duri, batang menyimpan air, kutikula tebal, dan pengaturan stomata untuk mengurangi kehilangan air.\n\n### Hidrofit – lingkungan air\nContoh adaptasi: daun lebar dan tipis, jaringan **aerenkim**, serta batang lentur. Contohnya teratai, eceng gondok, dan Hydrilla.\n\n### Halofit – lingkungan berkadar garam\nTumbuhan halofit mampu mengatur kadar garam. Pada bakau, adaptasi dapat berupa penyaringan garam di akar, akar khusus untuk penopang atau pertukaran gas, serta daun tebal untuk mengurangi kehilangan air.\n\nAdaptasi menunjukkan keterkaitan langsung antara lingkungan dan bentuk tubuh tumbuhan.",
+      "key_points": [
+        "Xerofit menghemat air.",
+        "Hidrofit menyesuaikan diri dengan kondisi tergenang.",
+        "Halofit mengatur masalah salinitas."
+      ],
+      "source_sections": [
+        "9.9",
+        "9.10",
+        "9.11"
+      ]
+    },
+    {
+      "id": "bab-9-06",
+      "order": 6,
+      "title": "Hubungan Evolusi dan Sistematika",
+      "slug": "hubungan-evolusi-dan-sistematika",
+      "content_format": "markdown",
+      "content": "Evolusi dan sistematika saling melengkapi. Evolusi menyediakan penjelasan mengenai asal-usul dan perubahan kelompok tumbuhan, sedangkan sistematika menggunakan karakter tumbuhan untuk menyusun hubungan kekerabatan.\n\nDalam sistematika modern, hubungan tersebut dapat direpresentasikan melalui **filogeni**, yaitu gambaran sejarah kekerabatan evolusioner.\n\nKarakter yang digunakan dapat berasal dari:\n- morfologi,\n- anatomi,\n- reproduksi,\n- fisiologi,\n- biokimia,\n- data molekuler.\n\nSemakin banyak bukti yang digunakan, semakin baik dasar untuk memahami hubungan antar kelompok tumbuhan.",
+      "key_points": [
+        "Sistematika membutuhkan informasi evolusi.",
+        "Filogeni menggambarkan hubungan kekerabatan evolusioner.",
+        "Berbagai jenis karakter dapat digunakan untuk klasifikasi."
+      ],
+      "source_sections": [
+        "9.2",
+        "9.3"
+      ]
+    },
+    {
+      "id": "bab-9-07",
+      "order": 7,
+      "title": "Evolusi Tumbuhan dan SDGs",
+      "slug": "evolusi-tumbuhan-dan-sdgs",
+      "content_format": "markdown",
+      "content": "Pemahaman evolusi dan sistematika membantu manusia mengenali keanekaragaman tumbuhan serta potensi pemanfaatannya secara berkelanjutan.\n\nKeterkaitan yang dibahas dalam buku mencakup:\n- **pendidikan** melalui pemahaman sejarah dan keanekaragaman tumbuhan,\n- **perlindungan ekosistem daratan** melalui pengenalan dan konservasi spesies,\n- **aksi iklim** karena vegetasi berperan dalam penyerapan karbon,\n- **pangan dan pemanfaatan sumber daya** dengan mengenali keragaman tumbuhan yang berguna.\n\nSistematika membantu memastikan identitas organisme, sedangkan pemahaman evolusi membantu menjelaskan mengapa organisme memiliki karakter dan kemampuan adaptasi yang berbeda.",
+      "key_points": [
+        "Keanekaragaman tumbuhan perlu dikenali untuk konservasi.",
+        "Sistematika membantu memastikan identitas spesies.",
+        "Evolusi menjelaskan variasi adaptasi antarkelompok."
+      ],
+      "source_sections": [
+        "9.4"
+      ]
+    }
+  ],
+  "chapter_summary": [
+    "Tumbuhan darat berkembang melalui proses evolusi panjang.",
+    "Adaptasi terhadap darat memunculkan kutikula, stomata, pembuluh, biji, bunga, dan buah.",
+    "Sistematika menggunakan karakter tumbuhan untuk memahami kekerabatan."
+  ]
+}

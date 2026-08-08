@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "module_type": "chapter",
+  "source": {
+    "title": "Botani Phanerogamae",
+    "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+    "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+  },
+  "chapter": 2,
+  "title": "Reproduksi Tumbuhan",
+  "slug": "reproduksi-tumbuhan",
+  "description": "Memahami reproduksi generatif dan vegetatif, penyerbukan, pembuahan, pembentukan biji, serta siklus hidup tumbuhan.",
+  "estimated_minutes": 35,
+  "lessons": [
+    {
+      "id": "bab-2-01",
+      "order": 1,
+      "title": "Konsep Reproduksi Tumbuhan",
+      "slug": "konsep-reproduksi-tumbuhan",
+      "content_format": "markdown",
+      "content": "Reproduksi tumbuhan adalah proses biologis untuk menghasilkan individu baru sehingga keberlangsungan spesies dapat dipertahankan. Pada tumbuhan berbiji (Spermatophyta), reproduksi generatif berkaitan dengan pembentukan gamet, penyerbukan, pembuahan, dan pembentukan biji.\n\nPada Angiospermae, bunga menjadi organ reproduksi utama. **Benang sari** menghasilkan serbuk sari sebagai bagian reproduksi jantan, sedangkan **putik** mengandung bakal biji sebagai bagian reproduksi betina.\n\nTumbuhan berbiji dikelompokkan menjadi:\n- **Gymnospermae**: bakal biji tidak terlindungi ovarium dan umumnya berada pada strobilus.\n- **Angiospermae**: bakal biji berada di dalam ovarium dan setelah pembuahan ovarium berkembang menjadi buah.",
+      "key_points": [
+        "Reproduksi mempertahankan keberlangsungan spesies.",
+        "Bunga berperan penting pada reproduksi generatif Angiospermae.",
+        "Gymnospermae berbiji terbuka, Angiospermae berbiji tertutup."
+      ],
+      "source_sections": [
+        "2.1"
+      ]
+    },
+    {
+      "id": "bab-2-02",
+      "order": 2,
+      "title": "Reproduksi Generatif dan Vegetatif",
+      "slug": "reproduksi-generatif-dan-vegetatif",
+      "content_format": "markdown",
+      "content": "Tumbuhan dapat bereproduksi secara **generatif** maupun **vegetatif**.\n\n### Reproduksi generatif\nMelibatkan peleburan gamet jantan dan betina. Tahapan umumnya adalah penyerbukan → pembuahan → pembentukan embrio → biji dan buah.\n\n### Reproduksi vegetatif\nTidak melibatkan peleburan sel kelamin. Individu baru berasal dari bagian tubuh tumbuhan seperti akar, batang, atau daun.\n\n**Vegetatif alami** dapat berupa tunas, rimpang, umbi batang, dan umbi lapis.  \n**Vegetatif buatan** dapat dilakukan melalui cangkok, stek, okulasi, dan kultur jaringan.\n\nReproduksi vegetatif cenderung menghasilkan individu yang memiliki sifat genetik serupa dengan induknya dan banyak dimanfaatkan dalam pertanian atau hortikultura.",
+      "key_points": [
+        "Generatif melibatkan peleburan gamet.",
+        "Vegetatif tidak melalui fertilisasi.",
+        "Vegetatif dapat berlangsung alami maupun dengan bantuan manusia."
+      ],
+      "source_sections": [
+        "2.1"
+      ]
+    },
+    {
+      "id": "bab-2-03",
+      "order": 3,
+      "title": "Penyerbukan dan Agen Polinator",
+      "slug": "penyerbukan-dan-agen-polinator",
+      "content_format": "markdown",
+      "content": "**Penyerbukan (polinasi)** adalah perpindahan serbuk sari dari kepala sari ke kepala putik. Keberhasilan proses ini sangat memengaruhi terbentuknya buah dan biji.\n\nAgen penyerbuk dapat berasal dari:\n- **Abiotik**: angin dan air.\n- **Biotik**: lebah, kupu-kupu, kumbang, burung, kelelawar, dan organisme lain.\n\nBanyak tumbuhan berbunga bergantung pada interaksi dengan penyerbuk. Selain faktor polinator, reproduksi juga dipengaruhi kondisi lingkungan seperti suhu, cahaya, air, dan unsur hara. Kondisi yang sesuai membantu pembungaan, pembentukan gamet, dan pembuahan berlangsung lebih optimal.",
+      "key_points": [
+        "Penyerbukan memindahkan serbuk sari ke kepala putik.",
+        "Agen penyerbuk dapat biotik atau abiotik.",
+        "Lingkungan memengaruhi keberhasilan reproduksi."
+      ],
+      "source_sections": [
+        "2.1"
+      ]
+    },
+    {
+      "id": "bab-2-04",
+      "order": 4,
+      "title": "Pembuahan dan Pembentukan Biji",
+      "slug": "pembuahan-dan-pembentukan-biji",
+      "content_format": "markdown",
+      "content": "Setelah serbuk sari menempel pada kepala putik, serbuk sari berkecambah dan membentuk **buluh serbuk sari** menuju bakal biji. Di dalam bakal biji terjadi peleburan gamet jantan dan betina.\n\nPada Angiospermae terjadi **pembuahan ganda**:\n1. Satu inti sperma membuahi sel telur dan menghasilkan zigot.\n2. Inti sperma lainnya membentuk endosperma sebagai jaringan cadangan makanan.\n\nSetelah pembuahan:\n- Zigot berkembang menjadi **embrio**.\n- Bakal biji berkembang menjadi **biji**.\n- Integumen membentuk **kulit biji**.\n- Ovarium berkembang menjadi **buah**.\n\nEmbrio kemudian membentuk bagian penting seperti radikula, plumula, dan kotiledon.",
+      "key_points": [
+        "Pembuahan terjadi setelah penyerbukan.",
+        "Angiospermae mengalami pembuahan ganda.",
+        "Bakal biji menjadi biji dan ovarium menjadi buah."
+      ],
+      "source_sections": [
+        "2.2"
+      ]
+    },
+    {
+      "id": "bab-2-05",
+      "order": 5,
+      "title": "Siklus Hidup Tumbuhan",
+      "slug": "siklus-hidup-tumbuhan",
+      "content_format": "markdown",
+      "content": "Siklus hidup tumbuhan merupakan rangkaian tahap dari pembentukan biji hingga terbentuk kembali generasi baru.\n\nSecara umum urutannya dapat dipahami sebagai:\n**biji → perkecambahan → pertumbuhan vegetatif → fase generatif → penyerbukan → pembuahan → buah dan biji baru**.\n\nDalam kajian pergiliran keturunan juga dikenal:\n- Pembentukan spora melalui meiosis.\n- Fase **gametofit** haploid yang menghasilkan gamet.\n- Fertilisasi membentuk zigot diploid.\n- Fase **sporofit** diploid yang dominan pada tumbuhan tingkat tinggi.\n\nKeberhasilan siklus dipengaruhi oleh ketersediaan air, suhu, cahaya, nutrisi, dan keberhasilan penyerbukan.",
+      "key_points": [
+        "Siklus hidup berlangsung berulang dari biji ke generasi baru.",
+        "Fase vegetatif mendahului fase generatif.",
+        "Gametofit dan sporofit merupakan bagian pergiliran keturunan."
+      ],
+      "source_sections": [
+        "2.3"
+      ]
+    },
+    {
+      "id": "bab-2-06",
+      "order": 6,
+      "title": "Ringkasan Alur Reproduksi",
+      "slug": "ringkasan-alur-reproduksi",
+      "content_format": "markdown",
+      "content": "Untuk mengingat seluruh proses reproduksi tumbuhan berbiji, gunakan alur sederhana berikut:\n\n1. Tumbuhan dewasa membentuk organ reproduksi.\n2. Gamet jantan dan betina diproduksi.\n3. Serbuk sari dipindahkan melalui penyerbukan.\n4. Buluh serbuk sari membawa sel sperma menuju bakal biji.\n5. Fertilisasi membentuk zigot.\n6. Zigot menjadi embrio, bakal biji menjadi biji, dan pada Angiospermae ovarium menjadi buah.\n7. Biji tersebar dan berkecambah ketika lingkungan mendukung.\n8. Tanaman muda tumbuh menjadi individu dewasa dan siklus dimulai kembali.\n\nAlur ini menunjukkan bahwa reproduksi tidak berdiri sendiri, tetapi berhubungan dengan struktur organ, agen penyerbuk, serta kondisi lingkungan.",
+      "key_points": [
+        "Reproduksi adalah rangkaian proses yang saling terkait.",
+        "Pembentukan biji menjadi penghubung antargenerasi.",
+        "Faktor biologis dan lingkungan sama-sama berperan."
+      ],
+      "source_sections": [
+        "2.1",
+        "2.2",
+        "2.3"
+      ]
+    }
+  ],
+  "chapter_summary": [
+    "Tumbuhan bereproduksi secara generatif atau vegetatif.",
+    "Penyerbukan dilanjutkan pembuahan untuk menghasilkan biji.",
+    "Siklus hidup menghubungkan pertumbuhan vegetatif dan fase reproduktif."
+  ]
+}

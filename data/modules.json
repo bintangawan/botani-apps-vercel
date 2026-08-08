@@ -1,0 +1,490 @@
+{
+  "schema_version": "1.0",
+  "course": {
+    "id": "botani-phanerogamae",
+    "title": "Botani Phanerogamae",
+    "description": "Modul pembelajaran ringkas berbasis 9 bab buku Botani Phanerogamae.",
+    "content_format": "markdown",
+    "total_chapters": 9,
+    "total_lessons": 62,
+    "estimated_minutes": 340,
+    "source": {
+      "title": "Botani Phanerogamae",
+      "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+      "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+    }
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Struktur dan Fungsi Biji",
+      "slug": "struktur-dan-fungsi-biji",
+      "description": "Mengenal biji, struktur utama, variasi monokotil-dikotil, biji Gymnospermae, perkecambahan, penyebaran, dan kaitannya dengan keberlanjutan.",
+      "estimated_minutes": 35,
+      "lesson_count": 6,
+      "file": "bab-01-struktur-dan-fungsi-biji.json",
+      "lessons": [
+        {
+          "id": "bab-1-01",
+          "order": 1,
+          "title": "Pengantar Struktur dan Fungsi Biji",
+          "slug": "pengantar-struktur-dan-fungsi-biji"
+        },
+        {
+          "id": "bab-1-02",
+          "order": 2,
+          "title": "Struktur Utama Biji",
+          "slug": "struktur-utama-biji"
+        },
+        {
+          "id": "bab-1-03",
+          "order": 3,
+          "title": "Biji Monokotil dan Dikotil",
+          "slug": "biji-monokotil-dan-dikotil"
+        },
+        {
+          "id": "bab-1-04",
+          "order": 4,
+          "title": "Biji Gymnospermae",
+          "slug": "biji-gymnospermae"
+        },
+        {
+          "id": "bab-1-05",
+          "order": 5,
+          "title": "Perkecambahan dan Penyebaran Biji",
+          "slug": "perkecambahan-dan-penyebaran-biji"
+        },
+        {
+          "id": "bab-1-06",
+          "order": 6,
+          "title": "Tanaman Berbiji dan Pembangunan Berkelanjutan",
+          "slug": "tanaman-berbiji-dan-pembangunan-berkelanjutan"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Reproduksi Tumbuhan",
+      "slug": "reproduksi-tumbuhan",
+      "description": "Memahami reproduksi generatif dan vegetatif, penyerbukan, pembuahan, pembentukan biji, serta siklus hidup tumbuhan.",
+      "estimated_minutes": 35,
+      "lesson_count": 6,
+      "file": "bab-02-reproduksi-tumbuhan.json",
+      "lessons": [
+        {
+          "id": "bab-2-01",
+          "order": 1,
+          "title": "Konsep Reproduksi Tumbuhan",
+          "slug": "konsep-reproduksi-tumbuhan"
+        },
+        {
+          "id": "bab-2-02",
+          "order": 2,
+          "title": "Reproduksi Generatif dan Vegetatif",
+          "slug": "reproduksi-generatif-dan-vegetatif"
+        },
+        {
+          "id": "bab-2-03",
+          "order": 3,
+          "title": "Penyerbukan dan Agen Polinator",
+          "slug": "penyerbukan-dan-agen-polinator"
+        },
+        {
+          "id": "bab-2-04",
+          "order": 4,
+          "title": "Pembuahan dan Pembentukan Biji",
+          "slug": "pembuahan-dan-pembentukan-biji"
+        },
+        {
+          "id": "bab-2-05",
+          "order": 5,
+          "title": "Siklus Hidup Tumbuhan",
+          "slug": "siklus-hidup-tumbuhan"
+        },
+        {
+          "id": "bab-2-06",
+          "order": 6,
+          "title": "Ringkasan Alur Reproduksi",
+          "slug": "ringkasan-alur-reproduksi"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Struktur dan Fungsi Bunga",
+      "slug": "struktur-dan-fungsi-bunga",
+      "description": "Mempelajari struktur bunga, fungsi bagian-bagiannya, proses reproduksi, dan hubungan bunga dengan polinator.",
+      "estimated_minutes": 30,
+      "lesson_count": 6,
+      "file": "bab-03-struktur-dan-fungsi-bunga.json",
+      "lessons": [
+        {
+          "id": "bab-3-01",
+          "order": 1,
+          "title": "Pengertian dan Struktur Bunga",
+          "slug": "pengertian-dan-struktur-bunga"
+        },
+        {
+          "id": "bab-3-02",
+          "order": 2,
+          "title": "Sepala dan Petala",
+          "slug": "sepala-dan-petala"
+        },
+        {
+          "id": "bab-3-03",
+          "order": 3,
+          "title": "Benang Sari dan Putik",
+          "slug": "benang-sari-dan-putik"
+        },
+        {
+          "id": "bab-3-04",
+          "order": 4,
+          "title": "Fungsi Bunga",
+          "slug": "fungsi-bunga"
+        },
+        {
+          "id": "bab-3-05",
+          "order": 5,
+          "title": "Reproduksi Bunga",
+          "slug": "reproduksi-bunga"
+        },
+        {
+          "id": "bab-3-06",
+          "order": 6,
+          "title": "Bunga dan Polinator",
+          "slug": "bunga-dan-polinator"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Struktur dan Fungsi Buah",
+      "slug": "struktur-dan-fungsi-buah",
+      "description": "Mempelajari pembentukan buah, struktur perikarp, fungsi, jenis buah, dan cara melakukan identifikasi sederhana di lapangan.",
+      "estimated_minutes": 30,
+      "lesson_count": 6,
+      "file": "bab-04-struktur-dan-fungsi-buah.json",
+      "lessons": [
+        {
+          "id": "bab-4-01",
+          "order": 1,
+          "title": "Pengertian dan Pembentukan Buah",
+          "slug": "pengertian-dan-pembentukan-buah"
+        },
+        {
+          "id": "bab-4-02",
+          "order": 2,
+          "title": "Struktur Buah: Eksokarp, Mesokarp, Endokarp",
+          "slug": "struktur-buah-eksokarp-mesokarp-endokarp"
+        },
+        {
+          "id": "bab-4-03",
+          "order": 3,
+          "title": "Fungsi dan Peran Buah",
+          "slug": "fungsi-dan-peran-buah"
+        },
+        {
+          "id": "bab-4-04",
+          "order": 4,
+          "title": "Jenis-Jenis Buah",
+          "slug": "jenis-jenis-buah"
+        },
+        {
+          "id": "bab-4-05",
+          "order": 5,
+          "title": "Mengidentifikasi Karakteristik Buah",
+          "slug": "mengidentifikasi-karakteristik-buah"
+        },
+        {
+          "id": "bab-4-06",
+          "order": 6,
+          "title": "Faktor Lingkungan dalam Pengamatan Buah",
+          "slug": "faktor-lingkungan-dalam-pengamatan-buah"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Klasifikasi Gymnospermae dan Angiospermae",
+      "slug": "klasifikasi-gymnospermae-angiospermae",
+      "description": "Membandingkan dua kelompok utama tumbuhan berbiji dari struktur, reproduksi, contoh, hingga manfaatnya.",
+      "estimated_minutes": 45,
+      "lesson_count": 8,
+      "file": "bab-05-klasifikasi-gymnospermae-angiospermae.json",
+      "lessons": [
+        {
+          "id": "bab-5-01",
+          "order": 1,
+          "title": "Klasifikasi Phanerogamae",
+          "slug": "klasifikasi-phanerogamae"
+        },
+        {
+          "id": "bab-5-02",
+          "order": 2,
+          "title": "Gymnospermae: Biji, Struktur, dan Reproduksi",
+          "slug": "gymnospermae-biji-struktur-dan-reproduksi"
+        },
+        {
+          "id": "bab-5-03",
+          "order": 3,
+          "title": "Contoh Gymnospermae",
+          "slug": "contoh-gymnospermae"
+        },
+        {
+          "id": "bab-5-04",
+          "order": 4,
+          "title": "Peran Gymnospermae bagi Manusia dan Lingkungan",
+          "slug": "peran-gymnospermae-bagi-manusia-dan-lingkungan"
+        },
+        {
+          "id": "bab-5-05",
+          "order": 5,
+          "title": "Angiospermae dan Struktur Bunganya",
+          "slug": "angiospermae-dan-struktur-bunganya"
+        },
+        {
+          "id": "bab-5-06",
+          "order": 6,
+          "title": "Reproduksi dan Pembuahan Ganda Angiospermae",
+          "slug": "reproduksi-dan-pembuahan-ganda-angiospermae"
+        },
+        {
+          "id": "bab-5-07",
+          "order": 7,
+          "title": "Buah, Biji, dan Contoh Angiospermae",
+          "slug": "buah-biji-dan-contoh-angiospermae"
+        },
+        {
+          "id": "bab-5-08",
+          "order": 8,
+          "title": "Angiospermae dan SDGs",
+          "slug": "angiospermae-dan-sdgs"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Morfologi Tumbuhan",
+      "slug": "morfologi-tumbuhan",
+      "description": "Mengenal bentuk luar akar, batang, daun, berbagai modifikasinya, dan kaitannya dengan adaptasi serta keberlanjutan.",
+      "estimated_minutes": 40,
+      "lesson_count": 8,
+      "file": "bab-06-morfologi-tumbuhan.json",
+      "lessons": [
+        {
+          "id": "bab-6-01",
+          "order": 1,
+          "title": "Pengantar Morfologi Tumbuhan",
+          "slug": "pengantar-morfologi-tumbuhan"
+        },
+        {
+          "id": "bab-6-02",
+          "order": 2,
+          "title": "Morfologi Akar",
+          "slug": "morfologi-akar"
+        },
+        {
+          "id": "bab-6-03",
+          "order": 3,
+          "title": "Morfologi Batang",
+          "slug": "morfologi-batang"
+        },
+        {
+          "id": "bab-6-04",
+          "order": 4,
+          "title": "Morfologi Daun",
+          "slug": "morfologi-daun"
+        },
+        {
+          "id": "bab-6-05",
+          "order": 5,
+          "title": "Modifikasi Akar",
+          "slug": "modifikasi-akar"
+        },
+        {
+          "id": "bab-6-06",
+          "order": 6,
+          "title": "Modifikasi Batang",
+          "slug": "modifikasi-batang"
+        },
+        {
+          "id": "bab-6-07",
+          "order": 7,
+          "title": "Modifikasi Daun dan Proses Adaptasi",
+          "slug": "modifikasi-daun-dan-proses-adaptasi"
+        },
+        {
+          "id": "bab-6-08",
+          "order": 8,
+          "title": "Morfologi Tumbuhan dan SDGs",
+          "slug": "morfologi-tumbuhan-dan-sdgs"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Anatomi Tumbuhan",
+      "slug": "anatomi-tumbuhan",
+      "description": "Mempelajari struktur internal tumbuhan mulai dari meristem, jaringan dewasa, hingga anatomi akar, batang, dan daun.",
+      "estimated_minutes": 35,
+      "lesson_count": 7,
+      "file": "bab-07-anatomi-tumbuhan.json",
+      "lessons": [
+        {
+          "id": "bab-7-01",
+          "order": 1,
+          "title": "Pengantar Anatomi Tumbuhan",
+          "slug": "pengantar-anatomi-tumbuhan"
+        },
+        {
+          "id": "bab-7-02",
+          "order": 2,
+          "title": "Jaringan Meristem",
+          "slug": "jaringan-meristem"
+        },
+        {
+          "id": "bab-7-03",
+          "order": 3,
+          "title": "Jaringan Permanen",
+          "slug": "jaringan-permanen"
+        },
+        {
+          "id": "bab-7-04",
+          "order": 4,
+          "title": "Anatomi Akar",
+          "slug": "anatomi-akar"
+        },
+        {
+          "id": "bab-7-05",
+          "order": 5,
+          "title": "Anatomi Batang",
+          "slug": "anatomi-batang"
+        },
+        {
+          "id": "bab-7-06",
+          "order": 6,
+          "title": "Anatomi Daun",
+          "slug": "anatomi-daun"
+        },
+        {
+          "id": "bab-7-07",
+          "order": 7,
+          "title": "Anatomi Tumbuhan dan SDGs",
+          "slug": "anatomi-tumbuhan-dan-sdgs"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Fisiologi Tumbuhan",
+      "slug": "fisiologi-tumbuhan",
+      "description": "Memahami proses kerja tumbuhan: struktur sel, fotosintesis, respirasi, transportasi air-nutrisi, dan regulasi hormon.",
+      "estimated_minutes": 50,
+      "lesson_count": 8,
+      "file": "bab-08-fisiologi-tumbuhan.json",
+      "lessons": [
+        {
+          "id": "bab-8-01",
+          "order": 1,
+          "title": "Pengantar Fisiologi Tumbuhan",
+          "slug": "pengantar-fisiologi-tumbuhan"
+        },
+        {
+          "id": "bab-8-02",
+          "order": 2,
+          "title": "Struktur Sel Tumbuhan sebagai Dasar Fisiologi",
+          "slug": "struktur-sel-tumbuhan-sebagai-dasar-fisiologi"
+        },
+        {
+          "id": "bab-8-03",
+          "order": 3,
+          "title": "Fotosintesis dan Respirasi",
+          "slug": "fotosintesis-dan-respirasi"
+        },
+        {
+          "id": "bab-8-04",
+          "order": 4,
+          "title": "Faktor dan Perbedaan Fotosintesis-Respirasi",
+          "slug": "faktor-dan-perbedaan-fotosintesis-respirasi"
+        },
+        {
+          "id": "bab-8-05",
+          "order": 5,
+          "title": "Transportasi Air dan Nutrisi",
+          "slug": "transportasi-air-dan-nutrisi"
+        },
+        {
+          "id": "bab-8-06",
+          "order": 6,
+          "title": "Struktur Jaringan Pengangkut",
+          "slug": "struktur-jaringan-pengangkut"
+        },
+        {
+          "id": "bab-8-07",
+          "order": 7,
+          "title": "Jenis-Jenis Hormon Tumbuhan",
+          "slug": "jenis-jenis-hormon-tumbuhan"
+        },
+        {
+          "id": "bab-8-08",
+          "order": 8,
+          "title": "Cara Kerja dan Peran Hormon",
+          "slug": "cara-kerja-dan-peran-hormon"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Evolusi dan Sistematika Tumbuhan",
+      "slug": "evolusi-dan-sistematika-tumbuhan",
+      "description": "Mempelajari asal-usul tumbuhan, evolusi menuju tumbuhan darat, adaptasi lingkungan, serta hubungan evolusi dengan sistematika.",
+      "estimated_minutes": 40,
+      "lesson_count": 7,
+      "file": "bab-09-evolusi-dan-sistematika-tumbuhan.json",
+      "lessons": [
+        {
+          "id": "bab-9-01",
+          "order": 1,
+          "title": "Evolusi dan Sistematika Tumbuhan",
+          "slug": "evolusi-dan-sistematika-tumbuhan"
+        },
+        {
+          "id": "bab-9-02",
+          "order": 2,
+          "title": "Pentingnya dan Karakteristik Tumbuhan Tingkat Tinggi",
+          "slug": "pentingnya-dan-karakteristik-tumbuhan-tingkat-tinggi"
+        },
+        {
+          "id": "bab-9-03",
+          "order": 3,
+          "title": "Asal Usul Tumbuhan dari Alga Hijau",
+          "slug": "asal-usul-tumbuhan-dari-alga-hijau"
+        },
+        {
+          "id": "bab-9-04",
+          "order": 4,
+          "title": "Evolusi Tumbuhan Darat",
+          "slug": "evolusi-tumbuhan-darat"
+        },
+        {
+          "id": "bab-9-05",
+          "order": 5,
+          "title": "Adaptasi terhadap Lingkungan",
+          "slug": "adaptasi-terhadap-lingkungan"
+        },
+        {
+          "id": "bab-9-06",
+          "order": 6,
+          "title": "Hubungan Evolusi dan Sistematika",
+          "slug": "hubungan-evolusi-dan-sistematika"
+        },
+        {
+          "id": "bab-9-07",
+          "order": 7,
+          "title": "Evolusi Tumbuhan dan SDGs",
+          "slug": "evolusi-tumbuhan-dan-sdgs"
+        }
+      ]
+    }
+  ]
+}

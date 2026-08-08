@@ -13,8 +13,11 @@ use Illuminate\View\View;
 class PublicController extends Controller
 {
     protected PlantSpeciesService $plantService;
+
     protected TaxonomyService $taxonomyService;
+
     protected LearningModuleService $moduleService;
+
     protected ObservationService $observationService;
 
     public function __construct(
@@ -62,7 +65,7 @@ class PublicController extends Controller
     {
         $plant = $this->plantService->getPlantBySlug($slug);
 
-        if (!$plant) {
+        if (! $plant) {
             abort(404, 'Spesimen tumbuhan tidak ditemukan dalam katalog.');
         }
 
@@ -75,21 +78,56 @@ class PublicController extends Controller
     public function modules(): View
     {
         $modules = $this->moduleService->getAllPublishedModules();
+
         return view('pages.public.modules', compact('modules'));
     }
 
     /**
      * Display single learning module detail.
      */
-    public function moduleDetail(string $slug): View
+    public function moduleDetail(string $slug, ?string $lessonSlug = null): View
     {
         $module = $this->moduleService->getModuleBySlug($slug);
 
-        if (!$module) {
+        if (! $module) {
             abort(404, 'Modul pembelajaran tidak ditemukan.');
         }
 
-        return view('pages.public.module-detail', compact('module'));
+        $lesson = $lessonSlug
+            ? $module->lessons->firstWhere('slug', $lessonSlug)
+            : $module->lessons->first();
+
+        if (! $lesson) {
+            abort(404, 'Subbab pembelajaran tidak ditemukan.');
+        }
+
+        $courseModules = $this->moduleService->getCourseOutline();
+        $navigation = $courseModules->flatMap(fn ($chapter) => $chapter->lessons->map(fn ($chapterLesson) => [
+            'module_slug' => $chapter->slug,
+            'module_title' => $chapter->title,
+            'lesson_slug' => $chapterLesson->slug,
+            'lesson_title' => $chapterLesson->title,
+            'lesson_id' => $chapterLesson->id,
+        ]))->values();
+        $currentPosition = $navigation->search(fn (array $item) => $item['lesson_id'] === $lesson->id);
+        $previousLesson = $currentPosition !== false && $currentPosition > 0
+            ? $navigation->get($currentPosition - 1)
+            : null;
+        $nextLesson = $currentPosition !== false && $currentPosition < $navigation->count() - 1
+            ? $navigation->get($currentPosition + 1)
+            : null;
+        $lessonNumber = $currentPosition === false ? 1 : $currentPosition + 1;
+        $totalLessons = $navigation->count();
+
+        return view('pages.public.module-detail', compact(
+            'module',
+            'lesson',
+            'courseModules',
+            'previousLesson',
+            'nextLesson',
+            'lessonNumber',
+            'totalLessons',
+        ));
     }
 
     /**

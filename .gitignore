@@ -12,6 +12,7 @@
 /.vscode
 /.zed
 /auth.json
+/botani_db
 /node_modules
 /public/build
 /public/hot

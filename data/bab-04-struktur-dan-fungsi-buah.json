@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "module_type": "chapter",
+  "source": {
+    "title": "Botani Phanerogamae",
+    "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+    "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+  },
+  "chapter": 4,
+  "title": "Struktur dan Fungsi Buah",
+  "slug": "struktur-dan-fungsi-buah",
+  "description": "Mempelajari pembentukan buah, struktur perikarp, fungsi, jenis buah, dan cara melakukan identifikasi sederhana di lapangan.",
+  "estimated_minutes": 30,
+  "lessons": [
+    {
+      "id": "bab-4-01",
+      "order": 1,
+      "title": "Pengertian dan Pembentukan Buah",
+      "slug": "pengertian-dan-pembentukan-buah",
+      "content_format": "markdown",
+      "content": "Secara botani, buah merupakan ovarium yang telah matang beserta bagian terkait setelah proses reproduksi berlangsung. Buah berfungsi menampung dan melindungi biji.\n\nProses pembentukan buah dimulai dari **penyerbukan**. Serbuk sari menempel pada stigma, berkecambah, lalu membentuk buluh serbuk sari menuju bakal biji. Setelah pembuahan, zigot berkembang menjadi embrio dan bakal biji menjadi biji. Bersamaan dengan itu, ovarium berkembang menjadi buah.\n\nDinding ovarium berkembang menjadi **perikarp**, yang umumnya tersusun atas eksokarp, mesokarp, dan endokarp. Proses perkembangan juga dipengaruhi oleh hormon tumbuhan seperti auksin dan giberelin.",
+      "key_points": [
+        "Buah berkembang setelah penyerbukan dan pembuahan.",
+        "Ovarium berkembang menjadi buah.",
+        "Dinding ovarium membentuk perikarp."
+      ],
+      "source_sections": [
+        "4.1",
+        "4.2"
+      ]
+    },
+    {
+      "id": "bab-4-02",
+      "order": 2,
+      "title": "Struktur Buah: Eksokarp, Mesokarp, Endokarp",
+      "slug": "struktur-buah-eksokarp-mesokarp-endokarp",
+      "content_format": "markdown",
+      "content": "Perikarp adalah dinding buah yang berkembang dari dinding ovarium. Tiga lapisan utamanya adalah:\n\n- **Eksokarp**: lapisan terluar. Berfungsi sebagai pelindung dan memengaruhi warna atau tekstur kulit buah.\n- **Mesokarp**: lapisan tengah. Pada banyak buah menjadi bagian berdaging atau berserat yang dapat dimakan.\n- **Endokarp**: lapisan terdalam yang berdekatan dengan biji dan berfungsi sebagai pelindung tambahan.\n\nContohnya, kulit apel mewakili bagian luar buah, daging mangga merupakan contoh mesokarp yang jelas, sedangkan lapisan keras pada beberapa buah dapat berfungsi sebagai endokarp.",
+      "key_points": [
+        "Perikarp terdiri atas tiga lapisan.",
+        "Eksokarp berada paling luar.",
+        "Mesokarp sering menjadi daging buah dan endokarp melindungi biji."
+      ],
+      "source_sections": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ]
+    },
+    {
+      "id": "bab-4-03",
+      "order": 3,
+      "title": "Fungsi dan Peran Buah",
+      "slug": "fungsi-dan-peran-buah",
+      "content_format": "markdown",
+      "content": "Buah memiliki beberapa fungsi penting bagi tumbuhan.\n\n### Bagi tumbuhan\n- Melindungi biji dan embrio selama perkembangan.\n- Menyimpan zat makanan pada jenis tertentu.\n- Membantu penyebaran biji melalui hewan, angin, atau air.\n\n### Bagi ekosistem dan manusia\nBuah dapat menjadi sumber makanan bagi burung, mamalia, kelelawar, dan organisme lain. Bagi manusia, buah memiliki nilai pangan, gizi, ekonomi, dan sosial.\n\nWarna, aroma, tekstur, serta kandungan nutrisi buah juga dapat menjadi bentuk adaptasi untuk menarik hewan penyebar biji sehingga tumbuhan dapat menjangkau habitat baru.",
+      "key_points": [
+        "Buah melindungi dan membantu penyebaran biji.",
+        "Karakter buah dapat menarik agen penyebar.",
+        "Buah penting secara ekologis dan ekonomis."
+      ],
+      "source_sections": [
+        "4.6",
+        "4.7"
+      ]
+    },
+    {
+      "id": "bab-4-04",
+      "order": 4,
+      "title": "Jenis-Jenis Buah",
+      "slug": "jenis-jenis-buah",
+      "content_format": "markdown",
+      "content": "Buah dapat dikelompokkan berdasarkan asal pembentukannya.\n\n### Buah sederhana\nBerasal dari **satu ovarium dalam satu bunga**. Dapat berupa buah berdaging atau buah kering. Contoh: mangga, tomat, padi, dan kacang tanah.\n\n### Buah agregat\nBerasal dari **satu bunga dengan beberapa ovarium** yang berkembang menjadi kumpulan buah kecil.\n\n### Buah majemuk\nBerasal dari **banyak bunga dalam satu rangkaian bunga**, kemudian bagian-bagiannya menyatu menjadi satu struktur buah. Contoh: nanas dan nangka.\n\n### Buah semu\nPembentukannya melibatkan bagian bunga selain ovarium, seperti dasar bunga atau tangkai. Contoh yang dibahas adalah jambu mete.",
+      "key_points": [
+        "Klasifikasi buah berkaitan dengan asal pembentukannya.",
+        "Buah sederhana berasal dari satu ovarium.",
+        "Buah majemuk berasal dari banyak bunga."
+      ],
+      "source_sections": [
+        "4.8",
+        "4.9",
+        "4.10",
+        "4.11"
+      ]
+    },
+    {
+      "id": "bab-4-05",
+      "order": 5,
+      "title": "Mengidentifikasi Karakteristik Buah",
+      "slug": "mengidentifikasi-karakteristik-buah",
+      "content_format": "markdown",
+      "content": "Identifikasi buah dapat dilakukan melalui pengamatan langsung tanpa merusak sampel. Aspek yang dapat dicatat meliputi:\n- nama tanaman,\n- nama ilmiah,\n- genus dan ordo,\n- jenis buah,\n- jumlah atau kelimpahan,\n- lokasi,\n- peranan atau pemanfaatannya.\n\nDalam buku, kegiatan observasi dilakukan di Taman Buah Kabupaten Deli Serdang. Contoh objek yang dicatat meliputi anggur hijau, rambutan, jeruk nipis, jambu biji, jambu air, nanas, nangka, dan manggis.\n\nKegiatan ini menunjukkan bagaimana konsep klasifikasi buah dapat diterapkan pada objek nyata di lapangan.",
+      "key_points": [
+        "Identifikasi dapat dilakukan berdasarkan karakter morfologi dan klasifikasi.",
+        "Data lapangan sebaiknya dicatat secara sistematis.",
+        "Contoh nyata membantu menghubungkan teori dengan observasi."
+      ],
+      "source_sections": [
+        "4.12",
+        "4.14"
+      ]
+    },
+    {
+      "id": "bab-4-06",
+      "order": 6,
+      "title": "Faktor Lingkungan dalam Pengamatan Buah",
+      "slug": "faktor-lingkungan-dalam-pengamatan-buah",
+      "content_format": "markdown",
+      "content": "Kondisi lingkungan dapat memengaruhi proses pengamatan dan kondisi tanaman. Dalam kegiatan lapangan pada buku, faktor yang dicatat meliputi **cahaya, suhu, kelembapan, kondisi tanah, dan cuaca**.\n\nContoh kondisi saat observasi adalah cahaya relatif rendah karena mendung, suhu sekitar 24–27°C, kelembapan tinggi, tanah lembap hingga basah, dan cuaca hujan.\n\nSaat melakukan identifikasi buah di lapangan, faktor lingkungan sebaiknya ikut dicatat agar data observasi memiliki konteks yang jelas.",
+      "key_points": [
+        "Lingkungan menjadi konteks penting dalam observasi tumbuhan.",
+        "Cahaya, suhu, kelembapan, tanah, dan cuaca dapat dicatat.",
+        "Observasi lapangan menghubungkan konsep botani dengan kondisi nyata."
+      ],
+      "source_sections": [
+        "4.13"
+      ]
+    }
+  ],
+  "chapter_summary": [
+    "Buah berkembang terutama dari ovarium setelah pembuahan.",
+    "Perikarp terdiri atas eksokarp, mesokarp, dan endokarp.",
+    "Buah dapat sederhana, agregat, majemuk, atau semu."
+  ]
+}

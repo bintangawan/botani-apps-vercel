@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "module_type": "chapter",
+  "source": {
+    "title": "Botani Phanerogamae",
+    "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+    "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+  },
+  "chapter": 8,
+  "title": "Fisiologi Tumbuhan",
+  "slug": "fisiologi-tumbuhan",
+  "description": "Memahami proses kerja tumbuhan: struktur sel, fotosintesis, respirasi, transportasi air-nutrisi, dan regulasi hormon.",
+  "estimated_minutes": 50,
+  "lessons": [
+    {
+      "id": "bab-8-01",
+      "order": 1,
+      "title": "Pengantar Fisiologi Tumbuhan",
+      "slug": "pengantar-fisiologi-tumbuhan",
+      "content_format": "markdown",
+      "content": "Fisiologi tumbuhan adalah cabang biologi yang mempelajari **fungsi dan mekanisme kerja** sel, jaringan, serta organ tumbuhan. Fokusnya bukan hanya bentuk struktur, tetapi bagaimana struktur tersebut bekerja.\n\nProses yang dipelajari meliputi:\n- fotosintesis,\n- respirasi,\n- transpirasi,\n- penyerapan air dan unsur hara,\n- transportasi zat,\n- metabolisme,\n- regulasi pertumbuhan oleh hormon.\n\nFisiologi berhubungan erat dengan morfologi, anatomi, taksonomi, dan ekologi. Pada Phanerogamae, sistem fisiologis berlangsung pada organ yang sudah terdiferensiasi dengan baik seperti akar, batang, dan daun.",
+      "key_points": [
+        "Fisiologi mempelajari fungsi bagian tumbuhan.",
+        "Fotosintesis, respirasi, transportasi, dan hormon termasuk kajian utama.",
+        "Fisiologi berhubungan dengan cabang botani lain."
+      ],
+      "source_sections": [
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4"
+      ]
+    },
+    {
+      "id": "bab-8-02",
+      "order": 2,
+      "title": "Struktur Sel Tumbuhan sebagai Dasar Fisiologi",
+      "slug": "struktur-sel-tumbuhan-sebagai-dasar-fisiologi",
+      "content_format": "markdown",
+      "content": "Proses fisiologis berlangsung di tingkat sel. Beberapa struktur sel tumbuhan yang penting antara lain:\n\n- **Dinding sel**: memberikan bentuk, dukungan, dan perlindungan.\n- **Membran plasma**: mengatur perpindahan zat masuk dan keluar sel.\n- **Sitoplasma**: medium berlangsungnya banyak reaksi metabolisme.\n- **Inti sel**: menyimpan materi genetik dan mengatur aktivitas sel.\n- **Kloroplas**: tempat fotosintesis.\n- **Mitokondria**: tempat utama respirasi seluler aerobik.\n- **Vakuola**: penyimpanan dan membantu menjaga tekanan turgor.\n\nPemahaman struktur sel membantu menjelaskan mengapa fotosintesis berlangsung di kloroplas, respirasi banyak berlangsung di mitokondria, dan transportasi zat bergantung pada membran.",
+      "key_points": [
+        "Fungsi fisiologis berakar pada struktur sel.",
+        "Kloroplas berkaitan dengan fotosintesis.",
+        "Mitokondria berkaitan dengan respirasi."
+      ],
+      "source_sections": [
+        "8.5",
+        "8.6"
+      ]
+    },
+    {
+      "id": "bab-8-03",
+      "order": 3,
+      "title": "Fotosintesis dan Respirasi",
+      "slug": "fotosintesis-dan-respirasi",
+      "content_format": "markdown",
+      "content": "**Fotosintesis** mengubah energi cahaya menjadi energi kimia dengan memanfaatkan karbon dioksida dan air. Proses ini berlangsung terutama di kloroplas dan menghasilkan senyawa organik yang menjadi sumber energi bagi tumbuhan.\n\nFotosintesis memiliki dua tahap utama:\n1. **Reaksi terang** pada membran tilakoid yang menangkap energi cahaya dan menghasilkan molekul pembawa energi.\n2. **Reaksi gelap/Siklus Calvin** di stroma yang menggunakan hasil reaksi terang untuk membantu pembentukan karbohidrat.\n\n**Respirasi** merupakan proses pemecahan senyawa organik untuk menghasilkan energi dalam bentuk ATP. Pada respirasi aerobik, tahapan utama mencakup glikolisis, siklus Krebs, dan rantai transpor elektron.\n\nKedua proses saling berkaitan dalam keseimbangan energi tumbuhan.",
+      "key_points": [
+        "Fotosintesis menyimpan energi dalam senyawa organik.",
+        "Respirasi melepaskan energi dari senyawa organik.",
+        "Kloroplas dan mitokondria memiliki peran berbeda."
+      ],
+      "source_sections": [
+        "8.7",
+        "8.8",
+        "8.9"
+      ]
+    },
+    {
+      "id": "bab-8-04",
+      "order": 4,
+      "title": "Faktor dan Perbedaan Fotosintesis-Respirasi",
+      "slug": "faktor-dan-perbedaan-fotosintesis-respirasi",
+      "content_format": "markdown",
+      "content": "Efisiensi fotosintesis dan respirasi dipengaruhi faktor internal dan eksternal.\n\n### Faktor internal\n- kesehatan jaringan,\n- jumlah klorofil,\n- umur daun,\n- kondisi stomata,\n- aktivitas metabolisme.\n\n### Faktor eksternal\n- intensitas dan kualitas cahaya,\n- konsentrasi karbon dioksida,\n- suhu,\n- ketersediaan air,\n- unsur hara.\n\n### Perbedaan utama\n| Aspek | Fotosintesis | Respirasi |\n|---|---|---|\n| Tujuan | Membentuk senyawa organik | Menghasilkan energi dari senyawa organik |\n| Lokasi utama | Kloroplas | Mitokondria |\n| Energi | Membutuhkan cahaya | Menghasilkan ATP |\n| Gas | Menggunakan CO₂, menghasilkan O₂ | Umumnya menggunakan O₂, menghasilkan CO₂ |",
+      "key_points": [
+        "Lingkungan memengaruhi laju fotosintesis dan respirasi.",
+        "Fotosintesis membentuk bahan organik.",
+        "Respirasi menghasilkan energi yang siap digunakan sel."
+      ],
+      "source_sections": [
+        "8.10",
+        "8.11"
+      ]
+    },
+    {
+      "id": "bab-8-05",
+      "order": 5,
+      "title": "Transportasi Air dan Nutrisi",
+      "slug": "transportasi-air-dan-nutrisi",
+      "content_format": "markdown",
+      "content": "Tumbuhan Phanerogamae menggunakan dua jaringan utama untuk transportasi:\n- **xilem** untuk membawa air dan mineral dari akar ke bagian atas,\n- **floem** untuk mendistribusikan hasil fotosintesis seperti gula ke organ yang membutuhkan.\n\nAir diserap terutama melalui rambut akar dan masuk ke sel melalui osmosis. Setelah itu air bergerak menuju xilem melalui jalur:\n- **apoplas**,\n- **simplas**,\n- **transmembran**.\n\nPergerakan air ke atas didukung oleh tarikan transpirasi, kohesi antarmolekul air, adhesi pada dinding pembuluh, tekanan akar, dan kapilaritas.",
+      "key_points": [
+        "Xilem membawa air dan mineral.",
+        "Floem mengangkut hasil fotosintesis.",
+        "Osmosis dan transpirasi berperan dalam transportasi air."
+      ],
+      "source_sections": [
+        "8.12",
+        "8.14",
+        "8.15"
+      ]
+    },
+    {
+      "id": "bab-8-06",
+      "order": 6,
+      "title": "Struktur Jaringan Pengangkut",
+      "slug": "struktur-jaringan-pengangkut",
+      "content_format": "markdown",
+      "content": "### Xilem\nXilem tersusun atas komponen seperti trakeid, pembuluh xilem, serat, dan parenkim. Jaringan ini mengangkut air serta mineral sekaligus memberi dukungan mekanis.\n\n### Floem\nFloem mengangkut hasil fotosintesis dari organ sumber, terutama daun, menuju organ yang membutuhkan atau menyimpan bahan makanan.\n\nTransportasi gula melalui floem disebut **translokasi**. Distribusi ini memungkinkan akar, batang, bunga, buah, dan jaringan muda memperoleh bahan organik untuk pertumbuhan dan metabolisme.\n\nXilem dan floem bekerja sebagai sistem transportasi terintegrasi yang menghubungkan fungsi akar, batang, dan daun.",
+      "key_points": [
+        "Xilem dan floem memiliki arah dan muatan transportasi berbeda.",
+        "Xilem juga membantu dukungan mekanis.",
+        "Translokasi adalah pemindahan hasil fotosintesis melalui floem."
+      ],
+      "source_sections": [
+        "8.13"
+      ]
+    },
+    {
+      "id": "bab-8-07",
+      "order": 7,
+      "title": "Jenis-Jenis Hormon Tumbuhan",
+      "slug": "jenis-jenis-hormon-tumbuhan",
+      "content_format": "markdown",
+      "content": "Fitohormon adalah senyawa kimia yang diproduksi dalam jumlah kecil tetapi mampu mengatur pertumbuhan, perkembangan, dan respons tumbuhan.\n\nHormon utama yang dibahas:\n- **Auksin**: pemanjangan sel, dominansi pucuk, dan pembentukan akar.\n- **Giberelin**: pemanjangan batang dan membantu perkecambahan.\n- **Sitokinin**: pembelahan sel dan pembentukan tunas.\n- **Etilen**: pematangan buah dan respons perkembangan tertentu.\n- **Asam absisat (ABA)**: berkaitan dengan dormansi dan respons terhadap stres, terutama kekurangan air.\n\nKerja hormon tidak terpisah sepenuhnya; respons tumbuhan sering merupakan hasil interaksi beberapa hormon.",
+      "key_points": [
+        "Fitohormon bekerja pada konsentrasi kecil.",
+        "Auksin, giberelin, sitokinin, etilen, dan ABA memiliki peran berbeda.",
+        "Interaksi hormon mengatur pertumbuhan dan respons."
+      ],
+      "source_sections": [
+        "8.16",
+        "8.17",
+        "8.18"
+      ]
+    },
+    {
+      "id": "bab-8-08",
+      "order": 8,
+      "title": "Cara Kerja dan Peran Hormon",
+      "slug": "cara-kerja-dan-peran-hormon",
+      "content_format": "markdown",
+      "content": "Hormon bekerja sebagai **sinyal kimia**. Ketika hormon dikenali oleh reseptor, sinyal diteruskan melalui proses transduksi sinyal hingga memengaruhi aktivitas sel, metabolisme, atau ekspresi gen.\n\nDampaknya dapat berupa:\n- pembelahan sel,\n- pemanjangan sel,\n- diferensiasi jaringan,\n- pembentukan akar dan tunas,\n- perkecambahan,\n- pematangan buah,\n- dormansi,\n- respons terhadap cahaya, air, dan kondisi stres.\n\nDalam pertanian, pemahaman hormon membantu pengelolaan pertumbuhan, pembungaan, pembentukan buah, pematangan, dan perbanyakan tanaman secara lebih terarah.",
+      "key_points": [
+        "Hormon memicu respons melalui reseptor dan transduksi sinyal.",
+        "Hormon mengatur banyak tahap siklus hidup tumbuhan.",
+        "Pengetahuan hormon memiliki aplikasi dalam budidaya."
+      ],
+      "source_sections": [
+        "8.19",
+        "8.20"
+      ]
+    }
+  ],
+  "chapter_summary": [
+    "Fisiologi membahas mekanisme kerja sel, jaringan, dan organ.",
+    "Fotosintesis dan respirasi mengatur aliran energi.",
+    "Xilem-floem serta hormon mengoordinasikan transportasi dan pertumbuhan."
+  ]
+}

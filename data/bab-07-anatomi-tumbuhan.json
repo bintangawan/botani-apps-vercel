@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "module_type": "chapter",
+  "source": {
+    "title": "Botani Phanerogamae",
+    "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+    "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+  },
+  "chapter": 7,
+  "title": "Anatomi Tumbuhan",
+  "slug": "anatomi-tumbuhan",
+  "description": "Mempelajari struktur internal tumbuhan mulai dari meristem, jaringan dewasa, hingga anatomi akar, batang, dan daun.",
+  "estimated_minutes": 35,
+  "lessons": [
+    {
+      "id": "bab-7-01",
+      "order": 1,
+      "title": "Pengantar Anatomi Tumbuhan",
+      "slug": "pengantar-anatomi-tumbuhan",
+      "content_format": "markdown",
+      "content": "Anatomi tumbuhan mempelajari **struktur bagian dalam** tumbuhan, terutama susunan sel dan jaringan pada akar, batang, dan daun. Pengamatan anatomi biasanya memerlukan bantuan mikroskop.\n\nPemahaman anatomi membantu menjelaskan bagaimana fotosintesis, transportasi air dan zat hara, penyimpanan makanan, pertumbuhan, serta respons terhadap lingkungan dapat berlangsung.\n\nPembentukan struktur tumbuhan dimulai dari sel meristem yang membelah. Sel baru kemudian mengalami **diferensiasi** menjadi tipe-tipe sel khusus, selanjutnya tersusun menjadi jaringan dan organ.",
+      "key_points": [
+        "Anatomi mempelajari struktur internal tumbuhan.",
+        "Sel meristem menjadi sumber pertumbuhan.",
+        "Diferensiasi menghasilkan sel dan jaringan khusus."
+      ],
+      "source_sections": [
+        "7.1",
+        "7.2"
+      ]
+    },
+    {
+      "id": "bab-7-02",
+      "order": 2,
+      "title": "Jaringan Meristem",
+      "slug": "jaringan-meristem",
+      "content_format": "markdown",
+      "content": "Jaringan meristem tersusun atas sel yang aktif membelah dan menjadi dasar pertumbuhan tumbuhan.\n\nBerdasarkan asalnya, dikenal:\n- **promeristem**,\n- **meristem primer**,\n- **meristem sekunder**.\n\nBerdasarkan letaknya:\n- **meristem apikal** berada di ujung akar dan batang untuk pertumbuhan memanjang,\n- **meristem lateral** mendukung pertumbuhan melebar atau penambahan diameter,\n- **meristem interkalar** berada di antara ruas tertentu, terutama pada kelompok rumput.\n\nAktivitas meristem menghasilkan sel baru yang kemudian berdiferensiasi menjadi jaringan dewasa.",
+      "key_points": [
+        "Meristem adalah jaringan aktif membelah.",
+        "Meristem apikal berkaitan dengan pertumbuhan memanjang.",
+        "Meristem lateral berkaitan dengan penambahan diameter."
+      ],
+      "source_sections": [
+        "7.3"
+      ]
+    },
+    {
+      "id": "bab-7-03",
+      "order": 3,
+      "title": "Jaringan Permanen",
+      "slug": "jaringan-permanen",
+      "content_format": "markdown",
+      "content": "Setelah berdiferensiasi, sel membentuk jaringan permanen atau jaringan dewasa dengan fungsi khusus.\n\n### Jaringan pelindung\nEpidermis dan periderm membantu melindungi tumbuhan dari kehilangan air, gangguan mekanis, dan mikroorganisme.\n\n### Jaringan dasar\nParenkim berperan dalam fotosintesis, penyimpanan cadangan, penyimpanan air, dan pengisian ruang.\n\n### Jaringan penyokong\nKolenkim memberikan dukungan yang lebih lentur, sedangkan sklerenkim memiliki dinding lebih tebal dan kaku.\n\n### Jaringan pengangkut\n- **Xilem** mengangkut air dan mineral.\n- **Floem** mengangkut hasil fotosintesis.",
+      "key_points": [
+        "Jaringan dewasa memiliki fungsi khusus.",
+        "Parenkim bersifat serbaguna.",
+        "Xilem dan floem membentuk sistem transportasi."
+      ],
+      "source_sections": [
+        "7.4"
+      ]
+    },
+    {
+      "id": "bab-7-04",
+      "order": 4,
+      "title": "Anatomi Akar",
+      "slug": "anatomi-akar",
+      "content_format": "markdown",
+      "content": "Akar menopang tumbuhan sekaligus menyerap air dan mineral. Secara umum, bagian akar meliputi pangkal, daerah tengah, ujung akar, cabang akar, dan rambut akar.\n\nRambut akar memperluas permukaan penyerapan. Akar kemudian terhubung dengan jaringan pengangkut untuk menyalurkan air dan unsur hara ke bagian lain tumbuhan.\n\nDua pola akar yang banyak dibahas adalah:\n- **akar tunggang** dengan satu akar utama yang jelas,\n- **akar serabut** dengan banyak akar berukuran relatif serupa.\n\nPada beberapa tumbuhan, akar juga menjadi tempat penyimpanan cadangan makanan.",
+      "key_points": [
+        "Rambut akar memperluas penyerapan.",
+        "Akar terhubung dengan jaringan transportasi.",
+        "Akar dapat tunggang atau serabut."
+      ],
+      "source_sections": [
+        "7.4"
+      ]
+    },
+    {
+      "id": "bab-7-05",
+      "order": 5,
+      "title": "Anatomi Batang",
+      "slug": "anatomi-batang",
+      "content_format": "markdown",
+      "content": "Batang berfungsi sebagai penopang dan jalur penghubung antara akar dan daun. Secara anatomi, batang dapat tersusun atas **epidermis, korteks, dan silinder pusat (stele)** yang memuat jaringan penting untuk transportasi.\n\nFungsi utama batang:\n- menopang daun, bunga, dan buah,\n- menyalurkan air dan mineral dari akar,\n- mengedarkan hasil fotosintesis,\n- menyimpan cadangan makanan pada tumbuhan tertentu,\n- menjadi alat perkembangbiakan vegetatif melalui teknik seperti stek, cangkok, sambung, atau okulasi.\n\nSusunan jaringan batang dapat berbeda antara kelompok tumbuhan dan berubah selama pertumbuhan primer maupun sekunder.",
+      "key_points": [
+        "Batang memiliki jaringan pelindung, dasar, dan pengangkut.",
+        "Batang menopang dan mengalirkan zat.",
+        "Batang dapat terlibat dalam reproduksi vegetatif."
+      ],
+      "source_sections": [
+        "7.5"
+      ]
+    },
+    {
+      "id": "bab-7-06",
+      "order": 6,
+      "title": "Anatomi Daun",
+      "slug": "anatomi-daun",
+      "content_format": "markdown",
+      "content": "Daun adalah tempat utama fotosintesis dan memiliki susunan jaringan yang mendukung penyerapan cahaya, pertukaran gas, serta transportasi.\n\nBagian anatomi penting:\n- **epidermis** sebagai lapisan pelindung,\n- **mesofil** sebagai jaringan utama fotosintesis,\n- **xilem dan floem** di dalam tulang daun,\n- **jaringan sekretori** pada jenis tertentu.\n\nMesofil banyak mengandung kloroplas. Xilem membawa air dan mineral ke daun, sedangkan floem mendistribusikan hasil fotosintesis ke bagian lain tumbuhan.\n\nSebagian struktur seperti duri atau sisik tertentu dapat dipahami sebagai hasil modifikasi daun.",
+      "key_points": [
+        "Mesofil menjadi pusat fotosintesis.",
+        "Jaringan pengangkut terdapat dalam tulang daun.",
+        "Epidermis melindungi permukaan daun."
+      ],
+      "source_sections": [
+        "7.6"
+      ]
+    },
+    {
+      "id": "bab-7-07",
+      "order": 7,
+      "title": "Anatomi Tumbuhan dan SDGs",
+      "slug": "anatomi-tumbuhan-dan-sdgs",
+      "content_format": "markdown",
+      "content": "Anatomi tumbuhan membantu menjelaskan kontribusi tumbuhan terhadap kehidupan dan lingkungan.\n\n- **Pangan**: akar menyerap air dan mineral, daun berfotosintesis, dan floem mendistribusikan hasilnya.\n- **Kesehatan**: tumbuhan menghasilkan oksigen dan berbagai senyawa yang dapat dimanfaatkan.\n- **Air**: akar dan xilem berperan dalam penyerapan serta transportasi air.\n- **Produksi berkelanjutan**: jaringan penyimpan mendukung pemanfaatan hasil tumbuhan.\n- **Iklim**: jaringan daun memungkinkan fotosintesis yang menyerap karbon dioksida.\n\nDengan memahami struktur internal, kita dapat menghubungkan fungsi jaringan dengan peran tumbuhan dalam sistem yang lebih luas.",
+      "key_points": [
+        "Anatomi menjelaskan dasar fungsi ekologis tumbuhan.",
+        "Jaringan pengangkut penting bagi air dan pangan.",
+        "Fotosintesis berkaitan dengan kualitas atmosfer."
+      ],
+      "source_sections": [
+        "7.7"
+      ]
+    }
+  ],
+  "chapter_summary": [
+    "Anatomi mempelajari sel dan jaringan internal tumbuhan.",
+    "Meristem membentuk jaringan baru melalui pembelahan dan diferensiasi.",
+    "Xilem dan floem menjadi sistem transportasi utama."
+  ]
+}

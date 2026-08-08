@@ -15,10 +15,26 @@ class LearningModule extends Model
         'title',
         'slug',
         'description',
-        'content',
         'module_order',
+        'estimated_minutes',
+        'chapter_summary',
+        'source_file',
         'status',
     ];
+
+    protected function casts(): array
+    {
+        return [
+            'chapter_summary' => 'array',
+            'module_order' => 'integer',
+            'estimated_minutes' => 'integer',
+        ];
+    }
+
+    public function lessons(): HasMany
+    {
+        return $this->hasMany(LearningLesson::class, 'module_id')->orderBy('lesson_order');
+    }
 
     public function plantSpecies(): BelongsToMany
     {

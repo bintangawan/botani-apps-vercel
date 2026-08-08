@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "module_type": "chapter",
+  "source": {
+    "title": "Botani Phanerogamae",
+    "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+    "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+  },
+  "chapter": 3,
+  "title": "Struktur dan Fungsi Bunga",
+  "slug": "struktur-dan-fungsi-bunga",
+  "description": "Mempelajari struktur bunga, fungsi bagian-bagiannya, proses reproduksi, dan hubungan bunga dengan polinator.",
+  "estimated_minutes": 30,
+  "lessons": [
+    {
+      "id": "bab-3-01",
+      "order": 1,
+      "title": "Pengertian dan Struktur Bunga",
+      "slug": "pengertian-dan-struktur-bunga",
+      "content_format": "markdown",
+      "content": "Bunga adalah organ reproduksi generatif pada tumbuhan berbunga (Angiospermae). Bunga berasal dari pucuk batang yang mengalami modifikasi dan menjadi tempat berlangsungnya penyerbukan serta pembuahan.\n\nSecara umum, bunga tersusun atas empat bagian utama:\n- **Sepala (kelopak)**: melindungi bunga saat masih kuncup.\n- **Petala (mahkota)**: membantu menarik penyerbuk.\n- **Stamen (benang sari)**: organ reproduksi jantan.\n- **Pistil/putik**: organ reproduksi betina yang menerima serbuk sari dan mengandung bakal biji.\n\nSusunan, jumlah, warna, dan bentuk bagian bunga dapat berbeda antarspesies dan menjadi salah satu karakter penting dalam pengenalan tumbuhan.",
+      "key_points": [
+        "Bunga adalah organ reproduksi Angiospermae.",
+        "Empat bagian utama adalah sepala, petala, stamen, dan putik.",
+        "Variasi struktur bunga dapat menjadi ciri tumbuhan."
+      ],
+      "source_sections": [
+        "3.1",
+        "3.2"
+      ]
+    },
+    {
+      "id": "bab-3-02",
+      "order": 2,
+      "title": "Sepala dan Petala",
+      "slug": "sepala-dan-petala",
+      "content_format": "markdown",
+      "content": "### Sepala\nSepala atau kelopak bunga umumnya berada di bagian terluar dan sering berwarna hijau. Fungsi utamanya adalah melindungi bunga ketika masih kuncup dan membantu menopang struktur bunga.\n\n### Petala\nPetala atau mahkota bunga biasanya memiliki warna, bentuk, atau aroma yang lebih menarik. Fungsinya membantu menarik hewan penyerbuk dan sekaligus melindungi organ reproduksi.\n\nPada beberapa bunga, petala memiliki struktur tambahan seperti:\n- jaringan pembuluh untuk membawa air dan nutrisi,\n- nektarium yang menghasilkan nektar,\n- bentuk tabung atau corong yang sesuai dengan jenis penyerbuk tertentu.\n\nVariasi sepala dan petala mencerminkan adaptasi bunga terhadap lingkungan dan strategi penyerbukannya.",
+      "key_points": [
+        "Sepala terutama berfungsi melindungi bunga.",
+        "Petala membantu menarik penyerbuk.",
+        "Bentuk bunga berkaitan dengan strategi penyerbukan."
+      ],
+      "source_sections": [
+        "3.3",
+        "3.4"
+      ]
+    },
+    {
+      "id": "bab-3-03",
+      "order": 3,
+      "title": "Benang Sari dan Putik",
+      "slug": "benang-sari-dan-putik",
+      "content_format": "markdown",
+      "content": "**Benang sari (stamen)** merupakan organ reproduksi jantan. Dua bagian utamanya adalah:\n- **Filamen**: tangkai yang menopang kepala sari.\n- **Antera**: tempat pembentukan dan penyimpanan serbuk sari.\n\nDi dalam antera terdapat mikrosporangium tempat serbuk sari dibentuk. Serbuk sari membawa komponen reproduksi jantan dan memiliki dinding pelindung yang membantu bertahan selama proses pemindahan.\n\n**Putik (pistil)** merupakan organ reproduksi betina. Kepala putik menerima serbuk sari, sedangkan bagian di bawahnya menjadi jalur menuju ovarium dan bakal biji. Di sinilah pembuahan akhirnya berlangsung.\n\nPosisi benang sari dan putik dapat memengaruhi efektivitas penyerbukan.",
+      "key_points": [
+        "Filamen menopang antera.",
+        "Antera menghasilkan serbuk sari.",
+        "Putik menerima serbuk sari dan mengarahkan proses menuju bakal biji."
+      ],
+      "source_sections": [
+        "3.5",
+        "3.2"
+      ]
+    },
+    {
+      "id": "bab-3-04",
+      "order": 4,
+      "title": "Fungsi Bunga",
+      "slug": "fungsi-bunga",
+      "content_format": "markdown",
+      "content": "Fungsi utama bunga adalah mendukung reproduksi generatif, tetapi beberapa bagian bunga memiliki peran khusus.\n\n### Fungsi penting bunga\n1. Menjadi tempat **penyerbukan**.\n2. Menjadi tempat **pembuahan**.\n3. Menghasilkan gamet jantan melalui serbuk sari dan gamet betina di dalam bakal biji.\n4. Membantu menarik agen penyerbuk melalui warna, aroma, bentuk, nektar, dan polen.\n5. Melindungi organ reproduksi, terutama saat bunga masih kuncup.\n6. Menghasilkan biji setelah pembuahan dan pada akhirnya berkaitan dengan pembentukan buah.\n\nBunga dapat lengkap atau tidak lengkap tergantung keberadaan bagian-bagian utamanya. Buku memberi contoh bunga dikotil seperti mawar dan kembang sepatu serta monokotil seperti padi, jagung, dan anggrek.",
+      "key_points": [
+        "Bunga merupakan pusat reproduksi generatif Angiospermae.",
+        "Bagian bunga memiliki fungsi reproduktif dan pelindung.",
+        "Kelengkapan bunga dapat berbeda antarspesies."
+      ],
+      "source_sections": [
+        "3.5"
+      ]
+    },
+    {
+      "id": "bab-3-05",
+      "order": 5,
+      "title": "Reproduksi Bunga",
+      "slug": "reproduksi-bunga",
+      "content_format": "markdown",
+      "content": "Reproduksi bunga dimulai ketika serbuk sari berpindah dari kepala sari ke kepala putik. Setelah serbuk sari diterima, proses dilanjutkan menuju pembuahan pada bakal biji.\n\nUrutan sederhananya:\n**pembentukan serbuk sari → penyerbukan → pertumbuhan buluh serbuk sari → pembuahan → pembentukan biji**.\n\nBenang sari bertindak sebagai organ jantan penghasil serbuk sari, sedangkan putik menjadi organ betina yang mengandung bakal biji. Keberhasilan koordinasi kedua organ tersebut menentukan terbentuknya generasi baru.",
+      "key_points": [
+        "Penyerbukan mendahului pembuahan.",
+        "Benang sari dan putik memiliki peran yang saling melengkapi.",
+        "Hasil akhir reproduksi bunga adalah pembentukan biji."
+      ],
+      "source_sections": [
+        "3.6"
+      ]
+    },
+    {
+      "id": "bab-3-06",
+      "order": 6,
+      "title": "Bunga dan Polinator",
+      "slug": "bunga-dan-polinator",
+      "content_format": "markdown",
+      "content": "Banyak bunga bergantung pada hewan untuk memindahkan serbuk sari. Contoh polinator yang dibahas meliputi **lebah, kupu-kupu, lalat, kumbang, dan burung**.\n\nBunga menarik polinator melalui:\n- warna yang cerah,\n- bentuk yang sesuai,\n- aroma,\n- nektar,\n- serbuk sari sebagai sumber makanan.\n\nHubungan bunga dan polinator meningkatkan peluang penyerbukan dan membantu menjaga keberlangsungan reproduksi tumbuhan. Interaksi ini juga menjadi bagian penting dari keanekaragaman hayati dalam ekosistem.",
+      "key_points": [
+        "Polinator membantu pemindahan serbuk sari.",
+        "Warna, aroma, bentuk, nektar, dan polen menjadi daya tarik.",
+        "Interaksi tumbuhan-polinator mendukung keberhasilan reproduksi."
+      ],
+      "source_sections": [
+        "3.7"
+      ]
+    }
+  ],
+  "chapter_summary": [
+    "Bunga adalah organ reproduksi Angiospermae.",
+    "Sepala, petala, benang sari, dan putik memiliki fungsi berbeda.",
+    "Penyerbukan dan pembuahan menghubungkan bunga dengan pembentukan biji."
+  ]
+}

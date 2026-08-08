@@ -1,22 +1,22 @@
 @if ($paginator->hasPages())
-    <nav role="navigation" aria-label="{{ __('Pagination Navigation') }}" class="flex flex-col sm:flex-row items-center justify-between gap-4 py-8 mt-12 border-t border-emerald-900/40">
+    <nav role="navigation" aria-label="{{ __('Pagination Navigation') }}" class="flex flex-col sm:flex-row items-center justify-between gap-4 py-8 mt-12 border-t border-emerald-200">
         <!-- Summary Info -->
-        <div class="text-xs sm:text-sm text-slate-400 font-medium">
-            Menampilkan <span class="font-bold text-emerald-400">{{ $paginator->firstItem() }}</span> 
-            hingga <span class="font-bold text-emerald-400">{{ $paginator->lastItem() }}</span> 
-            dari <span class="font-bold text-white">{{ $paginator->total() }}</span> spesimen herbarium
+        <div class="text-xs sm:text-sm text-slate-600 font-medium">
+            Menampilkan <span class="font-bold text-emerald-700">{{ $paginator->firstItem() }}</span>
+            hingga <span class="font-bold text-emerald-700">{{ $paginator->lastItem() }}</span>
+            dari <span class="font-bold text-slate-900">{{ $paginator->total() }}</span> spesimen herbarium
         </div>
 
         <!-- Navigation Links -->
         <div class="flex flex-wrap sm:flex-nowrap items-center justify-center gap-1.5 sm:gap-2 text-xs sm:text-sm">
             {{-- Previous Page Link --}}
             @if ($paginator->onFirstPage())
-                <span class="inline-flex items-center gap-1 px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-[#07130c]/60 border border-emerald-950 text-slate-600 font-semibold cursor-not-allowed shrink-0">
+                <span class="inline-flex items-center gap-1 px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-emerald-50 border border-emerald-200 text-slate-600 font-semibold cursor-not-allowed shrink-0">
                     <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" /></svg>
                     <span>Previous</span>
                 </span>
             @else
-                <a href="{{ $paginator->previousPageUrl() }}" rel="prev" class="inline-flex items-center gap-1 px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-[#0c2214]/90 border border-emerald-800/60 text-emerald-300 hover:bg-emerald-600 hover:text-white hover:border-emerald-600 font-semibold transition-all shadow-md shadow-black/40 shrink-0">
+                <a href="{{ $paginator->previousPageUrl() }}" rel="prev" class="inline-flex items-center gap-1 px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-white border border-emerald-300 text-emerald-700 hover:bg-emerald-600 hover:text-emerald-800 hover:border-emerald-600 font-semibold transition-all shadow-md shadow-emerald-900/10 shrink-0">
                     <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" /></svg>
                     <span>Previous</span>
                 </a>
@@ -64,11 +64,11 @@
                     @endphp
 
                     @if ($page == $current)
-                        <span aria-current="page" class="px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-gradient-to-r from-emerald-600 to-emerald-500 text-white font-extrabold shadow-lg shadow-emerald-600/30 border border-emerald-400/30 shrink-0">
+                        <span aria-current="page" class="px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-emerald-600 text-slate-900 font-extrabold shadow-lg shadow-emerald-900/10 border border-emerald-300 shrink-0">
                             {{ $label }}
                         </span>
                     @else
-                        <a href="{{ $url }}" class="px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-[#07130c] border border-emerald-900/60 text-slate-300 hover:border-emerald-500 hover:text-emerald-300 font-semibold transition-all shrink-0">
+                        <a href="{{ $url }}" class="px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-white border border-emerald-200 text-slate-700 hover:border-emerald-500 hover:text-emerald-700 font-semibold transition-all shrink-0">
                             {{ $label }}
                         </a>
                     @endif
@@ -77,12 +77,12 @@
 
             {{-- Next Page Link --}}
             @if ($paginator->hasMorePages())
-                <a href="{{ $paginator->nextPageUrl() }}" rel="next" class="inline-flex items-center gap-1 px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-[#0c2214]/90 border border-emerald-800/60 text-emerald-300 hover:bg-emerald-600 hover:text-white hover:border-emerald-600 font-semibold transition-all shadow-md shadow-black/40 shrink-0">
+                <a href="{{ $paginator->nextPageUrl() }}" rel="next" class="inline-flex items-center gap-1 px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-white border border-emerald-300 text-emerald-700 hover:bg-emerald-600 hover:text-emerald-800 hover:border-emerald-600 font-semibold transition-all shadow-md shadow-emerald-900/10 shrink-0">
                     <span>Next</span>
                     <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
                 </a>
             @else
-                <span class="inline-flex items-center gap-1 px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-[#07130c]/60 border border-emerald-950 text-slate-600 font-semibold cursor-not-allowed shrink-0">
+                <span class="inline-flex items-center gap-1 px-3 py-2 sm:px-4 sm:py-2.5 rounded-2xl bg-emerald-50 border border-emerald-200 text-slate-600 font-semibold cursor-not-allowed shrink-0">
                     <span>Next</span>
                     <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
                 </span>

@@ -8,40 +8,61 @@
 
 @theme {
     --font-sans: 'Google Sans Flex', 'Plus Jakarta Sans', 'Outfit', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-    
+
+    --color-botanical-50: #f4faf5;
+    --color-botanical-100: #e5f5e9;
+    --color-botanical-200: #c6e8cf;
+    --color-botanical-300: #93d2a5;
+    --color-botanical-400: #55b978;
+    --color-botanical-500: #2f9a59;
+    --color-botanical-600: #217b45;
+    --color-botanical-700: #1d633a;
+    --color-botanical-800: #194f31;
     --color-botanical-900: #0d2818;
-    --color-botanical-800: #163823;
-    --color-botanical-700: #1f4e32;
-    --color-botanical-600: #2a6642;
-    --color-botanical-500: #388154;
     --color-emerald-accent: #10b981;
     --color-gold-accent: #d97706;
 }
 
 @layer base {
-    body {
-        @apply bg-[#07130c] text-slate-100 font-sans antialiased selection:bg-emerald-500 selection:text-white;
+    html {
+        background: #f4faf5;
     }
 
-    /* Custom Botanical Theme Scrollbars */
+    body {
+        @apply bg-[#f4faf5] text-slate-800 font-sans antialiased selection:bg-emerald-200 selection:text-emerald-950;
+    }
+
+    [x-cloak] {
+        display: none !important;
+    }
+
+    input,
+    select,
+    textarea {
+        color-scheme: light;
+    }
+
     ::-webkit-scrollbar {
         width: 10px;
         height: 10px;
     }
+
     ::-webkit-scrollbar-track {
-        background: #040b07;
+        background: #edf8ef;
     }
+
     ::-webkit-scrollbar-thumb {
-        background: #0d3822;
+        background: #83c99a;
         border-radius: 9999px;
-        border: 2px solid #040b07;
+        border: 2px solid #edf8ef;
     }
+
     ::-webkit-scrollbar-thumb:hover {
-        background: #10b981;
+        background: #22a05a;
     }
 
     * {
         scrollbar-width: thin;
-        scrollbar-color: #0d3822 #040b07;
+        scrollbar-color: #83c99a #edf8ef;
     }
 }

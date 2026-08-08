@@ -25,7 +25,7 @@ Route::controller(PublicController::class)->group(function () {
     Route::get('/tumbuhan', 'catalog')->name('catalog');
     Route::get('/tumbuhan/{slug}', 'plantDetail')->name('catalog.detail');
     Route::get('/materi', 'modules')->name('modules');
-    Route::get('/materi/{slug}', 'moduleDetail')->name('modules.detail');
+    Route::get('/materi/{slug}/{lessonSlug?}', 'moduleDetail')->name('modules.detail');
     Route::get('/tentang', 'about')->name('about');
 });
 

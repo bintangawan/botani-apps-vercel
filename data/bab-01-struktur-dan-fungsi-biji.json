@@ -1,0 +1,123 @@
+{
+  "schema_version": "1.0",
+  "module_type": "chapter",
+  "source": {
+    "title": "Botani Phanerogamae",
+    "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+    "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+  },
+  "chapter": 1,
+  "title": "Struktur dan Fungsi Biji",
+  "slug": "struktur-dan-fungsi-biji",
+  "description": "Mengenal biji, struktur utama, variasi monokotil-dikotil, biji Gymnospermae, perkecambahan, penyebaran, dan kaitannya dengan keberlanjutan.",
+  "estimated_minutes": 35,
+  "lessons": [
+    {
+      "id": "bab-1-01",
+      "order": 1,
+      "title": "Pengantar Struktur dan Fungsi Biji",
+      "slug": "pengantar-struktur-dan-fungsi-biji",
+      "content_format": "markdown",
+      "content": "Biji adalah hasil perkembangan bakal biji setelah proses pembuahan dan menjadi salah satu ciri utama tumbuhan berbiji (Phanerogamae). Di dalam biji terdapat embrio sebagai calon tumbuhan baru, cadangan makanan, dan lapisan pelindung.\n\nKeberadaan biji membuat proses reproduksi tumbuhan lebih efektif karena embrio dapat bertahan sampai kondisi lingkungan sesuai untuk tumbuh. Pada kondisi tertentu, biji juga dapat memasuki **dormansi**, yaitu fase istirahat sementara sebelum perkecambahan.\n\n### Fungsi utama biji\n- **Reproduksi generatif**: membawa embrio yang dapat tumbuh menjadi individu baru.\n- **Perlindungan**: kulit biji membantu melindungi embrio dari kerusakan fisik, kekeringan, dan mikroorganisme.\n- **Cadangan nutrisi**: endosperma atau kotiledon menyediakan energi awal saat perkecambahan.\n- **Penyebaran**: biji dapat berpindah melalui angin, air, hewan, atau aktivitas manusia.",
+      "key_points": [
+        "Biji terbentuk setelah pembuahan.",
+        "Biji mengandung embrio, cadangan makanan, dan pelindung.",
+        "Dormansi membantu biji bertahan sampai kondisi sesuai.",
+        "Biji berfungsi dalam reproduksi, perlindungan, nutrisi, dan penyebaran."
+      ],
+      "source_sections": [
+        "1.1"
+      ]
+    },
+    {
+      "id": "bab-1-02",
+      "order": 2,
+      "title": "Struktur Utama Biji",
+      "slug": "struktur-utama-biji",
+      "content_format": "markdown",
+      "content": "Secara umum, biji tersusun atas tiga bagian utama: **kulit biji (testa)**, **embrio**, dan **cadangan makanan**.\n\n### 1. Kulit biji (testa)\nTesta merupakan lapisan terluar yang berasal dari integumen bakal biji. Fungsinya melindungi bagian dalam biji dari gangguan lingkungan. Pada kulit biji terdapat bagian seperti **mikropil**, yang berkaitan dengan masuknya air saat perkecambahan.\n\n### 2. Embrio\nEmbrio adalah calon individu baru. Bagian pentingnya meliputi:\n- **Radikula** → berkembang menjadi akar.\n- **Plumula** → berkembang menjadi batang dan daun.\n- **Kotiledon** → daun lembaga; pada beberapa tumbuhan juga menyimpan cadangan makanan.\n\n### 3. Cadangan makanan\nCadangan makanan dapat tersimpan dalam **endosperma** atau **kotiledon**. Kandungannya dapat berupa karbohidrat, protein, dan lemak yang digunakan sebelum tanaman muda mampu berfotosintesis secara mandiri.",
+      "key_points": [
+        "Testa melindungi isi biji.",
+        "Radikula menjadi akar dan plumula menjadi batang-daun.",
+        "Endosperma/kotiledon menyediakan nutrisi awal."
+      ],
+      "source_sections": [
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5"
+      ]
+    },
+    {
+      "id": "bab-1-03",
+      "order": 3,
+      "title": "Biji Monokotil dan Dikotil",
+      "slug": "biji-monokotil-dan-dikotil",
+      "content_format": "markdown",
+      "content": "Biji monokotil dan dikotil dapat dibedakan terutama dari jumlah kotiledonnya dan lokasi penyimpanan cadangan makanan.\n\n### Biji monokotil\nBiji monokotil memiliki **satu kotiledon**. Pada banyak monokotil, endosperma tetap besar dan menjadi sumber utama cadangan makanan. Embrio biasanya berada di bagian tepi biji. Contoh yang dibahas dalam buku adalah **jagung** dan **padi**.\n\n### Biji dikotil\nBiji dikotil memiliki **dua kotiledon**. Cadangan makanan banyak tersimpan di dalam kotiledon. Embrio berada di antara kedua kotiledon. Contohnya antara lain **kacang tanah, kedelai, dan mangga**.\n\n### Ringkas perbedaannya\n| Ciri | Monokotil | Dikotil |\n|---|---|---|\n| Kotiledon | 1 | 2 |\n| Cadangan makanan utama | Umumnya endosperma | Umumnya kotiledon |\n| Contoh | Jagung, padi | Kacang, kedelai |",
+      "key_points": [
+        "Monokotil memiliki satu kotiledon.",
+        "Dikotil memiliki dua kotiledon.",
+        "Lokasi cadangan makanan berbeda pada banyak monokotil dan dikotil."
+      ],
+      "source_sections": [
+        "1.6",
+        "1.7"
+      ]
+    },
+    {
+      "id": "bab-1-04",
+      "order": 4,
+      "title": "Biji Gymnospermae",
+      "slug": "biji-gymnospermae",
+      "content_format": "markdown",
+      "content": "Gymnospermae adalah tumbuhan berbiji terbuka. Bijinya tidak berada di dalam buah atau ovarium, tetapi berkembang secara terbuka pada struktur reproduksi seperti **strobilus**.\n\nSaat biji mulai berkecambah, radikula tumbuh lebih dahulu menjadi akar, sedangkan bagian atas embrio berkembang menjadi tunas. Pada tahap awal ini, embrio memanfaatkan cadangan makanan yang tersimpan di dalam biji sampai tumbuhan muda mampu melakukan fotosintesis.\n\nCiri utama yang perlu diingat adalah bahwa **biji Gymnospermae tidak terlindungi oleh buah**, berbeda dengan Angiospermae.",
+      "key_points": [
+        "Biji Gymnospermae bersifat terbuka.",
+        "Biji biasanya berkaitan dengan strobilus.",
+        "Embrio menggunakan cadangan makanan saat awal perkecambahan."
+      ],
+      "source_sections": [
+        "1.8"
+      ]
+    },
+    {
+      "id": "bab-1-05",
+      "order": 5,
+      "title": "Perkecambahan dan Penyebaran Biji",
+      "slug": "perkecambahan-dan-penyebaran-biji",
+      "content_format": "markdown",
+      "content": "Perkecambahan dimulai ketika kondisi lingkungan mendukung, terutama setelah biji memperoleh air. Kulit biji melunak, lalu **radikula** muncul sebagai organ pertama dan berkembang menjadi akar. Setelah itu **plumula** tumbuh ke arah atas menjadi batang dan daun muda.\n\nCadangan makanan di dalam endosperma atau kotiledon digunakan untuk mendukung pertumbuhan awal sebelum daun berfungsi optimal dalam fotosintesis.\n\nBiji juga memiliki berbagai cara penyebaran:\n- **Anemokori**: dibantu angin.\n- **Hidrokori**: dibantu air.\n- **Zookori**: dibantu hewan.\n- **Antropokori**: dibantu manusia.\n\nBentuk dan struktur biji dapat menjadi bentuk adaptasi terhadap cara penyebarannya, misalnya biji ringan untuk terbawa angin atau struktur yang mudah dibawa hewan.",
+      "key_points": [
+        "Radikula muncul pada tahap awal perkecambahan.",
+        "Cadangan makanan menopang pertumbuhan awal.",
+        "Biji dapat tersebar oleh angin, air, hewan, dan manusia."
+      ],
+      "source_sections": [
+        "1.1",
+        "1.8"
+      ]
+    },
+    {
+      "id": "bab-1-06",
+      "order": 6,
+      "title": "Tanaman Berbiji dan Pembangunan Berkelanjutan",
+      "slug": "tanaman-berbiji-dan-pembangunan-berkelanjutan",
+      "content_format": "markdown",
+      "content": "Tanaman berbiji memiliki hubungan langsung dengan kehidupan manusia dan keberlanjutan lingkungan.\n\n### Ketahanan pangan\nPadi, jagung, gandum, kedelai, dan kacang-kacangan merupakan contoh tanaman berbiji yang menjadi sumber pangan dan nutrisi.\n\n### Kesehatan\nBerbagai biji mengandung karbohidrat, protein, lemak sehat, vitamin, mineral, dan serat yang dapat dimanfaatkan sebagai bagian dari pola makan.\n\n### Produksi yang bertanggung jawab\nPenggunaan benih berkualitas, pemanfaatan air secara efisien, pemupukan yang tepat, dan pengendalian hama yang lebih ramah lingkungan mendukung pertanian berkelanjutan.\n\n### Iklim dan ekosistem daratan\nTanaman berbiji berfotosintesis, menyerap karbon dioksida, menghasilkan oksigen, menjaga tanah, mengurangi erosi, serta menyediakan habitat bagi organisme lain.",
+      "key_points": [
+        "Tanaman berbiji penting untuk ketahanan pangan.",
+        "Budidaya berkelanjutan mendukung produksi yang bertanggung jawab.",
+        "Tumbuhan berkontribusi pada kualitas lingkungan dan ekosistem daratan."
+      ],
+      "source_sections": [
+        "1.9"
+      ]
+    }
+  ],
+  "chapter_summary": [
+    "Biji adalah alat reproduksi generatif tumbuhan berbiji.",
+    "Struktur utama biji terdiri atas testa, embrio, serta endosperma atau kotiledon.",
+    "Variasi struktur biji berkaitan dengan kelompok tumbuhan dan strategi adaptasinya."
+  ]
+}

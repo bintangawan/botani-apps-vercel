@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "module_type": "chapter",
+  "source": {
+    "title": "Botani Phanerogamae",
+    "file": "BUKU SAKU T.BIO4 REV.(1).pdf",
+    "note": "Materi diringkas dan disusun ulang untuk modul pembelajaran web. Istilah utama dan alur materi mengikuti sumber."
+  },
+  "chapter": 6,
+  "title": "Morfologi Tumbuhan",
+  "slug": "morfologi-tumbuhan",
+  "description": "Mengenal bentuk luar akar, batang, daun, berbagai modifikasinya, dan kaitannya dengan adaptasi serta keberlanjutan.",
+  "estimated_minutes": 40,
+  "lessons": [
+    {
+      "id": "bab-6-01",
+      "order": 1,
+      "title": "Pengantar Morfologi Tumbuhan",
+      "slug": "pengantar-morfologi-tumbuhan",
+      "content_format": "markdown",
+      "content": "Morfologi tumbuhan mempelajari **bentuk luar dan susunan organ** tumbuhan. Pada Phanerogamae, organ vegetatif utama adalah akar, batang, dan daun, sedangkan organ generatif berkaitan dengan bunga, buah, dan biji.\n\nKajian morfologi digunakan untuk memahami hubungan antara bentuk dan fungsi, mekanisme adaptasi, serta perbedaan antarjenis tumbuhan. Ciri morfologi juga membantu proses identifikasi dan klasifikasi.\n\nDalam pembelajaran, pengamatan morfologi dapat dimulai dari bentuk organ, susunan bagian, tekstur, pola percabangan, dan berbagai modifikasi yang muncul sebagai respons terhadap lingkungan.",
+      "key_points": [
+        "Morfologi mempelajari bentuk luar tumbuhan.",
+        "Akar, batang, dan daun adalah organ vegetatif utama.",
+        "Ciri morfologi membantu identifikasi dan klasifikasi."
+      ],
+      "source_sections": [
+        "6.1"
+      ]
+    },
+    {
+      "id": "bab-6-02",
+      "order": 2,
+      "title": "Morfologi Akar",
+      "slug": "morfologi-akar",
+      "content_format": "markdown",
+      "content": "Akar memiliki beberapa daerah penting, seperti tudung akar, zona pembelahan, zona pemanjangan, dan zona diferensiasi dengan rambut akar.\n\nBerdasarkan bentuknya, dikenal:\n- **akar tunggang**, umum pada banyak tumbuhan dikotil,\n- **akar serabut**, umum pada banyak tumbuhan monokotil.\n\nFungsi akar meliputi:\n- menyerap air dan mineral,\n- memperkokoh tumbuhan,\n- menyimpan cadangan makanan pada jenis tertentu,\n- mendukung adaptasi khusus pada lingkungan tertentu.\n\nBentuk akar dapat berbeda sesuai habitat dan kebutuhan tumbuhan.",
+      "key_points": [
+        "Akar memiliki zona pertumbuhan yang berbeda.",
+        "Akar tunggang dan serabut memiliki pola berbeda.",
+        "Akar berfungsi menyerap, menopang, dan kadang menyimpan makanan."
+      ],
+      "source_sections": [
+        "6.2"
+      ]
+    },
+    {
+      "id": "bab-6-03",
+      "order": 3,
+      "title": "Morfologi Batang",
+      "slug": "morfologi-batang",
+      "content_format": "markdown",
+      "content": "Batang menopang tubuh tumbuhan dan menghubungkan akar dengan daun. Secara morfologi, batang memiliki **buku (nodus)**, **ruas (internodus)**, dan **kuncup** yang dapat berkembang menjadi cabang atau bunga.\n\nBatang dapat berupa:\n- **batang berkayu** yang kuat dan keras,\n- **batang herba** yang lebih lunak.\n\nFungsi batang meliputi:\n- menopang daun, bunga, dan buah,\n- menjadi jalur transportasi air, mineral, dan hasil fotosintesis,\n- menyimpan cadangan makanan pada beberapa tumbuhan,\n- menjadi organ perkembangbiakan vegetatif pada kondisi tertentu.",
+      "key_points": [
+        "Batang memiliki buku, ruas, dan kuncup.",
+        "Batang menghubungkan akar dan daun.",
+        "Batang dapat berfungsi dalam transportasi, penopang, penyimpanan, dan reproduksi vegetatif."
+      ],
+      "source_sections": [
+        "6.3"
+      ]
+    },
+    {
+      "id": "bab-6-04",
+      "order": 4,
+      "title": "Morfologi Daun",
+      "slug": "morfologi-daun",
+      "content_format": "markdown",
+      "content": "Daun merupakan organ utama fotosintesis. Secara morfologi, bagian utama daun meliputi **helai daun (lamina)** dan **tangkai daun (petiole)** pada daun yang bertangkai.\n\nDaun juga memiliki struktur yang mendukung fungsi fisiologis:\n- epidermis sebagai pelindung,\n- mesofil yang kaya kloroplas,\n- stomata untuk pertukaran gas,\n- jaringan pembuluh untuk transportasi.\n\nFungsi daun meliputi fotosintesis, pertukaran gas, dan transpirasi. Bentuk, tepi, tulang, dan susunan daun sangat bervariasi serta sering digunakan dalam identifikasi tumbuhan.",
+      "key_points": [
+        "Daun adalah organ utama fotosintesis.",
+        "Stomata mengatur pertukaran gas.",
+        "Karakter daun penting dalam pengenalan tumbuhan."
+      ],
+      "source_sections": [
+        "6.4"
+      ]
+    },
+    {
+      "id": "bab-6-05",
+      "order": 5,
+      "title": "Modifikasi Akar",
+      "slug": "modifikasi-akar",
+      "content_format": "markdown",
+      "content": "Modifikasi organ adalah perubahan bentuk atau fungsi yang membantu tumbuhan menyesuaikan diri dengan lingkungan.\n\nAkar dapat berubah untuk menjalankan fungsi khusus, misalnya:\n- **akar penyimpanan** untuk menimbun cadangan makanan,\n- akar yang membantu menopang tubuh,\n- akar khusus pada habitat tertentu untuk memperoleh air atau udara.\n\nModifikasi menunjukkan bahwa satu organ dasar dapat berkembang menjadi struktur yang berbeda sesuai tekanan lingkungan dan kebutuhan tumbuhan.",
+      "key_points": [
+        "Modifikasi akar merupakan bentuk adaptasi.",
+        "Fungsi khusus dapat berupa penyimpanan atau penopang.",
+        "Struktur organ dapat berubah sesuai habitat."
+      ],
+      "source_sections": [
+        "6.5",
+        "6.6"
+      ]
+    },
+    {
+      "id": "bab-6-06",
+      "order": 6,
+      "title": "Modifikasi Batang",
+      "slug": "modifikasi-batang",
+      "content_format": "markdown",
+      "content": "Batang dapat mengalami modifikasi untuk menyimpan makanan, melakukan reproduksi vegetatif, atau membantu pertahanan.\n\nContoh bentuk modifikasi batang yang dibahas meliputi **rimpang (rhizoma)** dan bentuk-bentuk penyimpanan atau perbanyakan vegetatif lainnya.\n\nCiri penting untuk membedakan modifikasi batang dari akar adalah keberadaan struktur seperti buku, ruas, atau tunas. Dengan memahami ciri tersebut, kita dapat menentukan asal suatu organ meskipun bentuk akhirnya berbeda dari batang biasa.",
+      "key_points": [
+        "Batang dapat berubah fungsi melalui modifikasi.",
+        "Rimpang adalah salah satu contoh modifikasi batang.",
+        "Buku, ruas, dan tunas membantu mengenali asal batang."
+      ],
+      "source_sections": [
+        "6.7"
+      ]
+    },
+    {
+      "id": "bab-6-07",
+      "order": 7,
+      "title": "Modifikasi Daun dan Proses Adaptasi",
+      "slug": "modifikasi-daun-dan-proses-adaptasi",
+      "content_format": "markdown",
+      "content": "Daun dapat mengalami perubahan bentuk untuk membantu tumbuhan bertahan hidup. Contoh yang mudah dikenali adalah **daun yang berubah menjadi duri** pada tumbuhan lingkungan kering sehingga luas permukaan berkurang dan kehilangan air dapat ditekan.\n\nModifikasi tidak terjadi secara instan. Dalam buku, perubahan struktur dikaitkan dengan kondisi habitat dan proses evolusi dalam jangka panjang. Tumbuhan dengan variasi yang lebih sesuai terhadap kondisi lingkungan memiliki peluang lebih besar untuk bertahan dan meneruskan sifatnya.\n\nKarena itu, modifikasi organ dapat dipahami sebagai hubungan antara **struktur, fungsi, lingkungan, dan adaptasi**.",
+      "key_points": [
+        "Daun dapat termodifikasi menjadi struktur khusus.",
+        "Lingkungan memberikan tekanan seleksi terhadap bentuk organ.",
+        "Adaptasi morfologi terjadi dalam proses jangka panjang."
+      ],
+      "source_sections": [
+        "6.8",
+        "6.9"
+      ]
+    },
+    {
+      "id": "bab-6-08",
+      "order": 8,
+      "title": "Morfologi Tumbuhan dan SDGs",
+      "slug": "morfologi-tumbuhan-dan-sdgs",
+      "content_format": "markdown",
+      "content": "Morfologi tumbuhan berkaitan dengan berbagai fungsi lingkungan dan pemanfaatan manusia.\n\n- **Ekosistem daratan**: akar menahan tanah, batang menopang vegetasi, dan daun menghasilkan oksigen.\n- **Perubahan iklim**: fotosintesis membantu menyerap karbon dioksida, sedangkan modifikasi organ membantu tumbuhan bertahan pada kondisi lingkungan berubah.\n- **Pangan**: akar, batang, dan daun dari berbagai tumbuhan dapat dimanfaatkan sebagai sumber makanan.\n- **Kualitas air**: sistem akar dapat membantu menahan tanah, menyerap air, dan memengaruhi kondisi lingkungan perairan atau rawa.\n\nMemahami morfologi membantu kita melihat bahwa bentuk organ tumbuhan memiliki konsekuensi ekologis dan manfaat praktis.",
+      "key_points": [
+        "Morfologi terkait langsung dengan fungsi ekologis.",
+        "Organ tumbuhan dapat menjadi sumber pangan.",
+        "Akar, batang, dan daun memiliki peran dalam kestabilan lingkungan."
+      ],
+      "source_sections": [
+        "6.10",
+        "6.11",
+        "6.12",
+        "6.13"
+      ]
+    }
+  ],
+  "chapter_summary": [
+    "Morfologi mengkaji bentuk luar organ tumbuhan.",
+    "Akar, batang, dan daun dapat mengalami modifikasi.",
+    "Modifikasi organ berkaitan erat dengan fungsi dan adaptasi."
+  ]
+}
