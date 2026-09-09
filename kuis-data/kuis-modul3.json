@@ -1,0 +1,130 @@
+{
+  "module": 3,
+  "title": "Kuis Modul 3 - Struktur dan Fungsi Bunga",
+  "quizType": "pilihan_ganda",
+  "passingScore": 60,
+  "duration": 20,
+  "status": "published",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Organ reproduksi generatif utama pada tumbuhan Angiospermae adalah ...",
+      "options": [
+        { "id": "A", "text": "Akar" },
+        { "id": "B", "text": "Batang" },
+        { "id": "C", "text": "Bunga" },
+        { "id": "D", "text": "Daun" }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "Bunga"
+    },
+    {
+      "id": 2,
+      "question": "Fungsi utama sepala atau kelopak bunga adalah ...",
+      "options": [
+        { "id": "A", "text": "Menghasilkan serbuk sari" },
+        { "id": "B", "text": "Melindungi bunga saat masih kuncup" },
+        { "id": "C", "text": "Membentuk bakal biji" },
+        { "id": "D", "text": "Menyerap air dari tanah" }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Melindungi bunga saat masih kuncup"
+    },
+    {
+      "id": 3,
+      "question": "Warna, bentuk, dan aroma petala terutama membantu bunga untuk ...",
+      "options": [
+        { "id": "A", "text": "Menarik agen penyerbuk" },
+        { "id": "B", "text": "Memperkuat akar" },
+        { "id": "C", "text": "Mengangkut hasil fotosintesis" },
+        { "id": "D", "text": "Membentuk kambium" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Menarik agen penyerbuk"
+    },
+    {
+      "id": 4,
+      "question": "Bagian benang sari yang menjadi tempat pembentukan dan penyimpanan serbuk sari adalah ...",
+      "options": [
+        { "id": "A", "text": "Stigma" },
+        { "id": "B", "text": "Ovarium" },
+        { "id": "C", "text": "Antera" },
+        { "id": "D", "text": "Sepala" }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "Antera"
+    },
+    {
+      "id": 5,
+      "question": "Filamen pada benang sari berfungsi untuk ...",
+      "options": [
+        { "id": "A", "text": "Menopang antera" },
+        { "id": "B", "text": "Menerima serbuk sari" },
+        { "id": "C", "text": "Melindungi bakal biji" },
+        { "id": "D", "text": "Menghasilkan nektar" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Menopang antera"
+    },
+    {
+      "id": 6,
+      "question": "Serbuk sari pertama kali diterima oleh bagian putik yang disebut ...",
+      "options": [
+        { "id": "A", "text": "Stigma" },
+        { "id": "B", "text": "Filamen" },
+        { "id": "C", "text": "Antera" },
+        { "id": "D", "text": "Petala" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Stigma"
+    },
+    {
+      "id": 7,
+      "question": "Urutan proses reproduksi bunga yang tepat adalah ...",
+      "options": [
+        { "id": "A", "text": "Pembuahan → penyerbukan → pembentukan serbuk sari → biji" },
+        { "id": "B", "text": "Pembentukan serbuk sari → penyerbukan → pertumbuhan buluh serbuk sari → pembuahan → biji" },
+        { "id": "C", "text": "Biji → pembuahan → penyerbukan → buluh serbuk sari" },
+        { "id": "D", "text": "Penyerbukan → biji → pembentukan serbuk sari → pembuahan" }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Pembentukan serbuk sari → penyerbukan → pertumbuhan buluh serbuk sari → pembuahan → biji"
+    },
+    {
+      "id": 8,
+      "question": "Bunga disebut lengkap apabila memiliki ...",
+      "options": [
+        { "id": "A", "text": "Sepala, petala, benang sari, dan putik" },
+        { "id": "B", "text": "Benang sari dan putik saja" },
+        { "id": "C", "text": "Petala dan sepala saja" },
+        { "id": "D", "text": "Ovarium dan bakal biji saja" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Sepala, petala, benang sari, dan putik"
+    },
+    {
+      "id": 9,
+      "question": "Manakah kelompok yang seluruh anggotanya dapat berperan sebagai polinator bunga?",
+      "options": [
+        { "id": "A", "text": "Lebah, kupu-kupu, dan burung" },
+        { "id": "B", "text": "Akar, batang, dan daun" },
+        { "id": "C", "text": "Xilem, floem, dan kambium" },
+        { "id": "D", "text": "Eksokarp, mesokarp, dan endokarp" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Lebah, kupu-kupu, dan burung"
+    },
+    {
+      "id": 10,
+      "question": "Hubungan bunga dengan polinator penting bagi tumbuhan karena ...",
+      "options": [
+        { "id": "A", "text": "Menghambat pembentukan serbuk sari" },
+        { "id": "B", "text": "Meningkatkan peluang pemindahan serbuk sari" },
+        { "id": "C", "text": "Menghentikan pertumbuhan ovarium" },
+        { "id": "D", "text": "Menggantikan fungsi akar" }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Meningkatkan peluang pemindahan serbuk sari"
+    }
+  ]
+}

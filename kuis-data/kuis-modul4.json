@@ -1,0 +1,130 @@
+{
+  "module": 4,
+  "title": "Kuis Modul 4 - Struktur dan Fungsi Buah",
+  "quizType": "pilihan_ganda",
+  "passingScore": 60,
+  "duration": 20,
+  "status": "published",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Secara botani, bagian bunga yang umumnya berkembang menjadi buah setelah pembuahan adalah ...",
+      "options": [
+        { "id": "A", "text": "Ovarium" },
+        { "id": "B", "text": "Antera" },
+        { "id": "C", "text": "Filamen" },
+        { "id": "D", "text": "Stigma" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Ovarium"
+    },
+    {
+      "id": 2,
+      "question": "Setelah pembuahan, bakal biji atau ovulum akan berkembang menjadi ...",
+      "options": [
+        { "id": "A", "text": "Perikarp" },
+        { "id": "B", "text": "Biji" },
+        { "id": "C", "text": "Mahkota" },
+        { "id": "D", "text": "Kelopak" }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Biji"
+    },
+    {
+      "id": 3,
+      "question": "Dinding ovarium yang berkembang menjadi dinding buah disebut ...",
+      "options": [
+        { "id": "A", "text": "Endosperma" },
+        { "id": "B", "text": "Kotiledon" },
+        { "id": "C", "text": "Perikarp" },
+        { "id": "D", "text": "Radikula" }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "Perikarp"
+    },
+    {
+      "id": 4,
+      "question": "Lapisan terluar perikarp yang berperan sebagai pelindung adalah ...",
+      "options": [
+        { "id": "A", "text": "Eksokarp" },
+        { "id": "B", "text": "Mesokarp" },
+        { "id": "C", "text": "Endokarp" },
+        { "id": "D", "text": "Endosperma" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Eksokarp"
+    },
+    {
+      "id": 5,
+      "question": "Bagian berdaging pada buah mangga terutama merupakan lapisan ...",
+      "options": [
+        { "id": "A", "text": "Eksokarp" },
+        { "id": "B", "text": "Mesokarp" },
+        { "id": "C", "text": "Endokarp" },
+        { "id": "D", "text": "Testa" }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Mesokarp"
+    },
+    {
+      "id": 6,
+      "question": "Buah sederhana berasal dari ...",
+      "options": [
+        { "id": "A", "text": "Satu ovarium dalam satu bunga" },
+        { "id": "B", "text": "Banyak bunga yang menyatu" },
+        { "id": "C", "text": "Beberapa ovarium dari banyak bunga" },
+        { "id": "D", "text": "Akar yang membesar" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Satu ovarium dalam satu bunga"
+    },
+    {
+      "id": 7,
+      "question": "Buah agregat terbentuk dari ...",
+      "options": [
+        { "id": "A", "text": "Satu bunga dengan beberapa ovarium" },
+        { "id": "B", "text": "Satu ovarium tanpa bunga" },
+        { "id": "C", "text": "Banyak akar yang menyatu" },
+        { "id": "D", "text": "Satu biji dengan beberapa embrio" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Satu bunga dengan beberapa ovarium"
+    },
+    {
+      "id": 8,
+      "question": "Nanas dan nangka merupakan contoh buah majemuk karena terbentuk dari ...",
+      "options": [
+        { "id": "A", "text": "Satu ovarium dalam satu bunga" },
+        { "id": "B", "text": "Banyak bunga dalam satu rangkaian yang menyatu" },
+        { "id": "C", "text": "Satu kotiledon yang membesar" },
+        { "id": "D", "text": "Batang yang menyimpan makanan" }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Banyak bunga dalam satu rangkaian yang menyatu"
+    },
+    {
+      "id": 9,
+      "question": "Salah satu fungsi ekologis utama buah adalah ...",
+      "options": [
+        { "id": "A", "text": "Menghentikan perkecambahan" },
+        { "id": "B", "text": "Melindungi dan membantu penyebaran biji" },
+        { "id": "C", "text": "Menggantikan fungsi daun" },
+        { "id": "D", "text": "Menghasilkan serbuk sari" }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Melindungi dan membantu penyebaran biji"
+    },
+    {
+      "id": 10,
+      "question": "Data lingkungan yang tepat dicatat saat melakukan pengamatan buah di lapangan adalah ...",
+      "options": [
+        { "id": "A", "text": "Cahaya, suhu, kelembapan, tanah, dan cuaca" },
+        { "id": "B", "text": "Harga pasar dan biaya transportasi saja" },
+        { "id": "C", "text": "Warna pakaian pengamat" },
+        { "id": "D", "text": "Jumlah halaman buku panduan" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Cahaya, suhu, kelembapan, tanah, dan cuaca"
+    }
+  ]
+}

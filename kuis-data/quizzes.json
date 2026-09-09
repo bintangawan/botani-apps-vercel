@@ -1,0 +1,13 @@
+{
+  "quizzes": [
+    { "module": 1, "file": "kuis-modul1.json" },
+    { "module": 2, "file": "kuis-modul2.json" },
+    { "module": 3, "file": "kuis-modul3.json" },
+    { "module": 4, "file": "kuis-modul4.json" },
+    { "module": 5, "file": "kuis-modul5.json" },
+    { "module": 6, "file": "kuis-modul6.json" },
+    { "module": 7, "file": "kuis-modul7.json" },
+    { "module": 8, "file": "kuis-modul8.json" },
+    { "module": 9, "file": "kuis-modul9.json" }
+  ]
+}

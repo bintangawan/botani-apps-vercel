@@ -1,0 +1,130 @@
+{
+  "module": 7,
+  "title": "Kuis Modul 7 - Anatomi Tumbuhan",
+  "quizType": "pilihan_ganda",
+  "passingScore": 60,
+  "duration": 20,
+  "status": "published",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Cabang botani yang mempelajari struktur internal tumbuhan adalah ...",
+      "options": [
+        { "id": "A", "text": "Anatomi tumbuhan" },
+        { "id": "B", "text": "Ekologi hewan" },
+        { "id": "C", "text": "Meteorologi" },
+        { "id": "D", "text": "Geologi" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Anatomi tumbuhan"
+    },
+    {
+      "id": 2,
+      "question": "Jaringan tumbuhan yang sel-selnya aktif membelah disebut ...",
+      "options": [
+        { "id": "A", "text": "Meristem" },
+        { "id": "B", "text": "Epidermis" },
+        { "id": "C", "text": "Sklerenkim" },
+        { "id": "D", "text": "Gabus" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Meristem"
+    },
+    {
+      "id": 3,
+      "question": "Pertumbuhan memanjang pada ujung akar dan batang terutama terjadi karena aktivitas ...",
+      "options": [
+        { "id": "A", "text": "Meristem apikal" },
+        { "id": "B", "text": "Meristem lateral" },
+        { "id": "C", "text": "Floem sekunder" },
+        { "id": "D", "text": "Endodermis" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Meristem apikal"
+    },
+    {
+      "id": 4,
+      "question": "Penambahan diameter batang berkaitan erat dengan aktivitas ...",
+      "options": [
+        { "id": "A", "text": "Meristem lateral" },
+        { "id": "B", "text": "Tudung akar" },
+        { "id": "C", "text": "Stomata" },
+        { "id": "D", "text": "Petala" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Meristem lateral"
+    },
+    {
+      "id": 5,
+      "question": "Jaringan permanen yang bersifat serbaguna dan dapat berfungsi dalam penyimpanan maupun fotosintesis adalah ...",
+      "options": [
+        { "id": "A", "text": "Parenkim" },
+        { "id": "B", "text": "Xilem" },
+        { "id": "C", "text": "Floem" },
+        { "id": "D", "text": "Kambium gabus" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Parenkim"
+    },
+    {
+      "id": 6,
+      "question": "Jaringan yang mengangkut air dan mineral dari akar menuju bagian atas tumbuhan adalah ...",
+      "options": [
+        { "id": "A", "text": "Xilem" },
+        { "id": "B", "text": "Floem" },
+        { "id": "C", "text": "Epidermis" },
+        { "id": "D", "text": "Mesofil" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Xilem"
+    },
+    {
+      "id": 7,
+      "question": "Rambut akar membantu penyerapan air dan mineral dengan cara ...",
+      "options": [
+        { "id": "A", "text": "Memperluas permukaan penyerapan" },
+        { "id": "B", "text": "Menghasilkan serbuk sari" },
+        { "id": "C", "text": "Membentuk bunga" },
+        { "id": "D", "text": "Menutup stomata" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Memperluas permukaan penyerapan"
+    },
+    {
+      "id": 8,
+      "question": "Jaringan daun yang menjadi pusat utama fotosintesis adalah ...",
+      "options": [
+        { "id": "A", "text": "Mesofil" },
+        { "id": "B", "text": "Perisikel" },
+        { "id": "C", "text": "Endodermis" },
+        { "id": "D", "text": "Kambium" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Mesofil"
+    },
+    {
+      "id": 9,
+      "question": "Fungsi utama epidermis pada permukaan daun adalah ...",
+      "options": [
+        { "id": "A", "text": "Melindungi jaringan di bawahnya" },
+        { "id": "B", "text": "Menghasilkan biji" },
+        { "id": "C", "text": "Membentuk strobilus" },
+        { "id": "D", "text": "Menyimpan serbuk sari" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Melindungi jaringan di bawahnya"
+    },
+    {
+      "id": 10,
+      "question": "Batang dapat menopang tubuh sekaligus mengalirkan zat karena memiliki ...",
+      "options": [
+        { "id": "A", "text": "Jaringan dasar dan jaringan pengangkut" },
+        { "id": "B", "text": "Mahkota dan kelopak" },
+        { "id": "C", "text": "Stigma dan antera" },
+        { "id": "D", "text": "Eksokarp dan mesokarp" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Jaringan dasar dan jaringan pengangkut"
+    }
+  ]
+}

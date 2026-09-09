@@ -1,0 +1,290 @@
+{
+  "module": 2,
+  "title": "Kuis Modul 2 - Siklus Hidup dan Reproduksi Tumbuhan",
+  "quizType": "pilihan_ganda",
+  "passingScore": 60,
+  "duration": 20,
+  "status": "published",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Dalam suatu penelitian ditemukan bahwa fase juvenil suatu organisme lebih lama dibandingkan fase dewasanya. Berdasarkan analisis siklus hidup, kondisi tersebut kemungkinan besar berfungsi untuk ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mempercepat proses reproduksi"
+        },
+        {
+          "id": "B",
+          "text": "Menghilangkan fase embrionik"
+        },
+        {
+          "id": "C",
+          "text": "Mengurangi variasi genetik"
+        },
+        {
+          "id": "D",
+          "text": "Menghentikan proses metamorfosis"
+        },
+        {
+          "id": "E",
+          "text": "Memaksimalkan pertumbuhan sebelum reproduksi"
+        }
+      ],
+      "correctAnswer": "E",
+      "correctAnswerText": "Memaksimalkan pertumbuhan sebelum reproduksi"
+    },
+    {
+      "id": 2,
+      "question": "Seorang siswa menyimpulkan bahwa bunga dengan rumus K0 [C3 A27] G4 termasuk bunga lengkap karena memiliki benang sari dan putik. Berdasarkan konsep morfologi bunga, evaluasilah pernyataan tersebut.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salah, karena tidak memiliki ovarium"
+        },
+        {
+          "id": "B",
+          "text": "Salah, karena bukan termasuk tumbuhan berbiji"
+        },
+        {
+          "id": "C",
+          "text": "Benar, karena memiliki alat reproduksi jantan dan betina"
+        },
+        {
+          "id": "D",
+          "text": "Benar, karena jumlah benang sarinya banyak"
+        },
+        {
+          "id": "E",
+          "text": "Salah, karena bunga lengkap harus memiliki kelopak, mahkota, benang sari, dan putik"
+        }
+      ],
+      "correctAnswer": "E",
+      "correctAnswerText": "Salah, karena bunga lengkap harus memiliki kelopak, mahkota, benang sari, dan putik"
+    },
+    {
+      "id": 3,
+      "question": "Setelah serbuk sari menempel di stigma, langkah pertama dalam proses pembuahan adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mahkota bunga mekar"
+        },
+        {
+          "id": "B",
+          "text": "Serbuk sari menghasilkan nektar"
+        },
+        {
+          "id": "C",
+          "text": "Ovula membelah menjadi zigot"
+        },
+        {
+          "id": "D",
+          "text": "Serbuk sari menumbuhkan tabung sari menuju ovula"
+        },
+        {
+          "id": "E",
+          "text": "Benang sari mengeras"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "Serbuk sari menumbuhkan tabung sari menuju ovula"
+    },
+    {
+      "id": 4,
+      "question": "Beberapa bunga memiliki warna cerah dan nektar untuk menarik serangga, sementara yang lain berukuran kecil dan ringan, jatuh terbawa angin. Hal ini merupakan contoh ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polinasi abiotik saja"
+        },
+        {
+          "id": "B",
+          "text": "Perkembangan akar"
+        },
+        {
+          "id": "C",
+          "text": "Penyerbukan eksperimental"
+        },
+        {
+          "id": "D",
+          "text": "Adaptasi mekanisme penyerbukan"
+        },
+        {
+          "id": "E",
+          "text": "Penyerbukan buatan"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "Adaptasi mekanisme penyerbukan"
+    },
+    {
+      "id": 5,
+      "question": "Pada tumbuhan Angiospermae terjadi proses penyerbukan yang diikuti oleh pembuahan ganda. Jika satu inti sperma membuahi sel telur dan satu inti sperma lainnya membuahi inti kandung lembaga sekunder, maka hasil akhirnya adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Embrio dan endosperma"
+        },
+        {
+          "id": "B",
+          "text": "Endosperma dan kulit biji"
+        },
+        {
+          "id": "C",
+          "text": "Buah dan biji"
+        },
+        {
+          "id": "D",
+          "text": "Embrio dan kotiledon"
+        },
+        {
+          "id": "E",
+          "text": "Ovarium dan ovulum"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Embrio dan endosperma"
+    },
+    {
+      "id": 6,
+      "question": "Seorang siswa menyimpulkan bahwa semua organisme memiliki siklus hidup yang sama karena selalu diawali zigot dan diakhiri individu dewasa. Berdasarkan konsep variasi siklus hidup dalam biologi, pernyataan tersebut ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Benar, karena semua makhluk hidup berasal dari zigot"
+        },
+        {
+          "id": "B",
+          "text": "Salah, karena terdapat variasi seperti metagenesis dan metamorfosis dengan tahapan berbeda"
+        },
+        {
+          "id": "C",
+          "text": "Benar, karena fase dewasa selalu dominan"
+        },
+        {
+          "id": "D",
+          "text": "Salah, karena semua organisme berkembang biak secara vegetatif"
+        },
+        {
+          "id": "E",
+          "text": "Salah, karena tidak ada organisme yang memiliki fase embrio"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Salah, karena terdapat variasi seperti metagenesis dan metamorfosis dengan tahapan berbeda"
+    },
+    {
+      "id": 7,
+      "question": "Pada proses pembentukan biji, dinding ovarium berkembang menjadi buah. Sementara itu, bagian ovulum akan berkembang menjadi ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Endosperma"
+        },
+        {
+          "id": "B",
+          "text": "Tangkai buah"
+        },
+        {
+          "id": "C",
+          "text": "Biji"
+        },
+        {
+          "id": "D",
+          "text": "Kulit buah"
+        },
+        {
+          "id": "E",
+          "text": "Embrio"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "Biji"
+    },
+    {
+      "id": 8,
+      "question": "Seorang siswa menyatakan bahwa biji dapat terbentuk tanpa melalui proses pembuahan karena yang terpenting adalah adanya penyerbukan. Berdasarkan konsep reproduksi generatif tumbuhan, pernyataan tersebut ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salah, karena biji berasal dari mahkota bunga"
+        },
+        {
+          "id": "B",
+          "text": "Benar, karena penyerbukan sudah cukup untuk membentuk biji"
+        },
+        {
+          "id": "C",
+          "text": "Salah, karena biji terbentuk setelah terjadi pembuahan dan pembentukan zigot"
+        },
+        {
+          "id": "D",
+          "text": "Salah, karena biji terbentuk dari benang sari"
+        },
+        {
+          "id": "E",
+          "text": "Benar, karena serbuk sari langsung menjadi biji"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "Salah, karena biji terbentuk setelah terjadi pembuahan dan pembentukan zigot"
+    },
+    {
+      "id": 9,
+      "question": "Dalam suatu organisme yang mengalami pergiliran keturunan (metagenesis), terdapat fase sporofit (2n) dan gametofit (n). Jika terjadi gangguan pada proses meiosis di fase sporofit, maka dampak langsung yang terjadi pada siklus hidup adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spora tidak terbentuk secara normal"
+        },
+        {
+          "id": "B",
+          "text": "Embrio gagal mengalami pembelahan"
+        },
+        {
+          "id": "C",
+          "text": "Terjadi pembuahan ganda"
+        },
+        {
+          "id": "D",
+          "text": "Gamet tidak dapat terbentuk dari gametofit"
+        },
+        {
+          "id": "E",
+          "text": "Zigot tidak dapat berkembang"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Spora tidak terbentuk secara normal"
+    },
+    {
+      "id": 10,
+      "question": "Seorang siswa menemukan bunga dengan ciri-ciri: tidak memiliki kelopak, memiliki 3 mahkota yang berlekatan dengan banyak benang sari, serta memiliki 4 putik. Jika dituliskan dalam rumus bunga, maka rumus yang tepat adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "K3 [C3 A3] G1"
+        },
+        {
+          "id": "B",
+          "text": "K0 [C3 A27] G4"
+        },
+        {
+          "id": "C",
+          "text": "K5 [C6 A6] G1"
+        },
+        {
+          "id": "D",
+          "text": "K4 [C4 A4] G4"
+        },
+        {
+          "id": "E",
+          "text": "K0 [C6 A6] G1"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "K0 [C3 A27] G4"
+    }
+  ]
+}

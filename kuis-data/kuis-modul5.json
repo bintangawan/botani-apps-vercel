@@ -1,0 +1,130 @@
+{
+  "module": 5,
+  "title": "Kuis Modul 5 - Klasifikasi Gymnospermae dan Angiospermae",
+  "quizType": "pilihan_ganda",
+  "passingScore": 60,
+  "duration": 20,
+  "status": "published",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Dua kelompok utama tumbuhan berbiji atau Phanerogamae adalah ...",
+      "options": [
+        { "id": "A", "text": "Bryophyta dan Pteridophyta" },
+        { "id": "B", "text": "Gymnospermae dan Angiospermae" },
+        { "id": "C", "text": "Alga dan fungi" },
+        { "id": "D", "text": "Lumut dan jamur" }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Gymnospermae dan Angiospermae"
+    },
+    {
+      "id": 2,
+      "question": "Perbedaan penting Gymnospermae dan Angiospermae terletak pada ...",
+      "options": [
+        { "id": "A", "text": "Posisi bakal biji terhadap ovarium" },
+        { "id": "B", "text": "Keberadaan klorofil" },
+        { "id": "C", "text": "Kemampuan menyerap air" },
+        { "id": "D", "text": "Warna batang" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Posisi bakal biji terhadap ovarium"
+    },
+    {
+      "id": 3,
+      "question": "Biji Gymnospermae disebut terbuka karena ...",
+      "options": [
+        { "id": "A", "text": "Tidak memiliki embrio" },
+        { "id": "B", "text": "Tidak tertutup oleh buah" },
+        { "id": "C", "text": "Selalu berada di dalam tanah" },
+        { "id": "D", "text": "Tidak memiliki kulit biji" }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Tidak tertutup oleh buah"
+    },
+    {
+      "id": 4,
+      "question": "Organ reproduksi yang umum dijumpai pada Gymnospermae adalah ...",
+      "options": [
+        { "id": "A", "text": "Strobilus jantan dan betina" },
+        { "id": "B", "text": "Rizoid" },
+        { "id": "C", "text": "Sorus" },
+        { "id": "D", "text": "Protonema" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Strobilus jantan dan betina"
+    },
+    {
+      "id": 5,
+      "question": "Agen penyerbukan yang sering berperan pada Gymnospermae adalah ...",
+      "options": [
+        { "id": "A", "text": "Angin" },
+        { "id": "B", "text": "Tanah" },
+        { "id": "C", "text": "Akar" },
+        { "id": "D", "text": "Kambium" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Angin"
+    },
+    {
+      "id": 6,
+      "question": "Ciri yang membantu mengenali pinus sebagai Gymnospermae adalah ...",
+      "options": [
+        { "id": "A", "text": "Daun jarum dan strobilus" },
+        { "id": "B", "text": "Rizoid dan sporangium" },
+        { "id": "C", "text": "Mahkota bunga yang besar" },
+        { "id": "D", "text": "Buah berdaging tebal" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Daun jarum dan strobilus"
+    },
+    {
+      "id": 7,
+      "question": "Organ reproduksi utama yang menjadi ciri Angiospermae adalah ...",
+      "options": [
+        { "id": "A", "text": "Bunga" },
+        { "id": "B", "text": "Rizoid" },
+        { "id": "C", "text": "Protalium" },
+        { "id": "D", "text": "Sorus" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Bunga"
+    },
+    {
+      "id": 8,
+      "question": "Pembuahan ganda pada Angiospermae menghasilkan ...",
+      "options": [
+        { "id": "A", "text": "Zigot dan endosperma" },
+        { "id": "B", "text": "Dua buah sekaligus" },
+        { "id": "C", "text": "Dua akar primer" },
+        { "id": "D", "text": "Strobilus jantan dan betina" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Zigot dan endosperma"
+    },
+    {
+      "id": 9,
+      "question": "Setelah pembuahan pada Angiospermae, ovarium umumnya berkembang menjadi ...",
+      "options": [
+        { "id": "A", "text": "Buah" },
+        { "id": "B", "text": "Serbuk sari" },
+        { "id": "C", "text": "Benang sari" },
+        { "id": "D", "text": "Akar" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Buah"
+    },
+    {
+      "id": 10,
+      "question": "Peran penting Angiospermae dalam mendukung kehidupan manusia adalah ...",
+      "options": [
+        { "id": "A", "text": "Menjadi sumber pangan dan tanaman obat" },
+        { "id": "B", "text": "Menghilangkan seluruh keanekaragaman" },
+        { "id": "C", "text": "Menghambat pembentukan tanah" },
+        { "id": "D", "text": "Mencegah semua interaksi ekologi" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Menjadi sumber pangan dan tanaman obat"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "module": 9,
+  "title": "Kuis Modul 9 - Evolusi dan Sistematika Tumbuhan",
+  "quizType": "pilihan_ganda",
+  "passingScore": 60,
+  "duration": 20,
+  "status": "published",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Dalam botani, evolusi mempelajari ...",
+      "options": [
+        { "id": "A", "text": "Perubahan tumbuhan sepanjang waktu" },
+        { "id": "B", "text": "Harga tanaman di pasar" },
+        { "id": "C", "text": "Cuaca harian saja" },
+        { "id": "D", "text": "Teknik menggambar bunga" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Perubahan tumbuhan sepanjang waktu"
+    },
+    {
+      "id": 2,
+      "question": "Sistematika tumbuhan mencakup kegiatan ...",
+      "options": [
+        { "id": "A", "text": "Identifikasi, klasifikasi, dan penelaahan kekerabatan" },
+        { "id": "B", "text": "Pengukuran curah hujan saja" },
+        { "id": "C", "text": "Pengolahan hasil panen saja" },
+        { "id": "D", "text": "Perhitungan biaya pupuk saja" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Identifikasi, klasifikasi, dan penelaahan kekerabatan"
+    },
+    {
+      "id": 3,
+      "question": "Data yang dapat digunakan untuk menyusun sistematika modern adalah ...",
+      "options": [
+        { "id": "A", "text": "Karakter morfologi, anatomi, dan molekuler" },
+        { "id": "B", "text": "Warna pot tanaman saja" },
+        { "id": "C", "text": "Harga jual tumbuhan saja" },
+        { "id": "D", "text": "Jumlah pengunjung kebun saja" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Karakter morfologi, anatomi, dan molekuler"
+    },
+    {
+      "id": 4,
+      "question": "Kelompok organisme yang menjadi titik penting dalam pembahasan asal-usul tumbuhan darat adalah ...",
+      "options": [
+        { "id": "A", "text": "Alga hijau" },
+        { "id": "B", "text": "Mamalia" },
+        { "id": "C", "text": "Burung" },
+        { "id": "D", "text": "Serangga" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Alga hijau"
+    },
+    {
+      "id": 5,
+      "question": "Inovasi kutikula membantu tumbuhan beradaptasi di darat dengan cara ...",
+      "options": [
+        { "id": "A", "text": "Mengurangi kehilangan air" },
+        { "id": "B", "text": "Menghasilkan biji secara langsung" },
+        { "id": "C", "text": "Menggantikan fungsi akar" },
+        { "id": "D", "text": "Menghentikan fotosintesis" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Mengurangi kehilangan air"
+    },
+    {
+      "id": 6,
+      "question": "Stomata menjadi inovasi penting tumbuhan darat karena membantu mengatur ...",
+      "options": [
+        { "id": "A", "text": "Pertukaran gas dan kehilangan air" },
+        { "id": "B", "text": "Jumlah kotiledon" },
+        { "id": "C", "text": "Warna mahkota saja" },
+        { "id": "D", "text": "Pembentukan batuan" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Pertukaran gas dan kehilangan air"
+    },
+    {
+      "id": 7,
+      "question": "Perkembangan jaringan pembuluh memberi keuntungan evolusioner berupa ...",
+      "options": [
+        { "id": "A", "text": "Transportasi air dan zat yang lebih efisien" },
+        { "id": "B", "text": "Hilangnya seluruh organ tumbuhan" },
+        { "id": "C", "text": "Penghentian pertumbuhan" },
+        { "id": "D", "text": "Ketergantungan penuh pada air untuk reproduksi" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Transportasi air dan zat yang lebih efisien"
+    },
+    {
+      "id": 8,
+      "question": "Kemunculan biji membantu tumbuhan karena ...",
+      "options": [
+        { "id": "A", "text": "Melindungi embrio dan mengurangi ketergantungan reproduksi pada air" },
+        { "id": "B", "text": "Menghilangkan cadangan makanan" },
+        { "id": "C", "text": "Mencegah penyebaran keturunan" },
+        { "id": "D", "text": "Menggantikan seluruh jaringan pembuluh" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Melindungi embrio dan mengurangi ketergantungan reproduksi pada air"
+    },
+    {
+      "id": 9,
+      "question": "Tumbuhan xerofit memiliki adaptasi yang terutama bertujuan untuk ...",
+      "options": [
+        { "id": "A", "text": "Menghemat air" },
+        { "id": "B", "text": "Hidup sepenuhnya terendam" },
+        { "id": "C", "text": "Meningkatkan penyerapan garam" },
+        { "id": "D", "text": "Menghilangkan kutikula" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Menghemat air"
+    },
+    {
+      "id": 10,
+      "question": "Filogeni digunakan dalam sistematika untuk menggambarkan ...",
+      "options": [
+        { "id": "A", "text": "Hubungan kekerabatan evolusioner" },
+        { "id": "B", "text": "Kondisi cuaca harian" },
+        { "id": "C", "text": "Harga komoditas" },
+        { "id": "D", "text": "Lokasi pot tanaman" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Hubungan kekerabatan evolusioner"
+    }
+  ]
+}

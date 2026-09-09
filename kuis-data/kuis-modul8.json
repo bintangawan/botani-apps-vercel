@@ -1,0 +1,130 @@
+{
+  "module": 8,
+  "title": "Kuis Modul 8 - Fisiologi Tumbuhan",
+  "quizType": "pilihan_ganda",
+  "passingScore": 60,
+  "duration": 20,
+  "status": "published",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Fisiologi tumbuhan terutama mempelajari ...",
+      "options": [
+        { "id": "A", "text": "Proses dan fungsi yang berlangsung dalam tumbuhan" },
+        { "id": "B", "text": "Lapisan batuan bumi" },
+        { "id": "C", "text": "Pergerakan planet" },
+        { "id": "D", "text": "Klasifikasi hewan" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Proses dan fungsi yang berlangsung dalam tumbuhan"
+    },
+    {
+      "id": 2,
+      "question": "Organel sel tumbuhan yang menjadi tempat utama fotosintesis adalah ...",
+      "options": [
+        { "id": "A", "text": "Kloroplas" },
+        { "id": "B", "text": "Mitokondria" },
+        { "id": "C", "text": "Ribosom" },
+        { "id": "D", "text": "Nukleolus" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Kloroplas"
+    },
+    {
+      "id": 3,
+      "question": "Organel yang berperan penting dalam respirasi sel adalah ...",
+      "options": [
+        { "id": "A", "text": "Mitokondria" },
+        { "id": "B", "text": "Kloroplas" },
+        { "id": "C", "text": "Dinding sel" },
+        { "id": "D", "text": "Vakuola" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Mitokondria"
+    },
+    {
+      "id": 4,
+      "question": "Fotosintesis berfungsi untuk ...",
+      "options": [
+        { "id": "A", "text": "Menyimpan energi dalam senyawa organik" },
+        { "id": "B", "text": "Menghancurkan seluruh senyawa organik" },
+        { "id": "C", "text": "Menghentikan pertukaran gas" },
+        { "id": "D", "text": "Menghilangkan klorofil" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Menyimpan energi dalam senyawa organik"
+    },
+    {
+      "id": 5,
+      "question": "Respirasi sel berbeda dari fotosintesis karena respirasi ...",
+      "options": [
+        { "id": "A", "text": "Melepaskan energi dari senyawa organik" },
+        { "id": "B", "text": "Hanya terjadi pada bunga" },
+        { "id": "C", "text": "Membentuk ovarium" },
+        { "id": "D", "text": "Menghasilkan serbuk sari" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Melepaskan energi dari senyawa organik"
+    },
+    {
+      "id": 6,
+      "question": "Jaringan yang mengangkut air dan mineral dari akar adalah ...",
+      "options": [
+        { "id": "A", "text": "Xilem" },
+        { "id": "B", "text": "Floem" },
+        { "id": "C", "text": "Epidermis" },
+        { "id": "D", "text": "Mesofil" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Xilem"
+    },
+    {
+      "id": 7,
+      "question": "Pemindahan hasil fotosintesis melalui floem disebut ...",
+      "options": [
+        { "id": "A", "text": "Translokasi" },
+        { "id": "B", "text": "Penyerbukan" },
+        { "id": "C", "text": "Pembuahan" },
+        { "id": "D", "text": "Germinasi" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Translokasi"
+    },
+    {
+      "id": 8,
+      "question": "Hormon tumbuhan yang dikenal berperan dalam pematangan buah adalah ...",
+      "options": [
+        { "id": "A", "text": "Etilen" },
+        { "id": "B", "text": "Klorofil" },
+        { "id": "C", "text": "Selulosa" },
+        { "id": "D", "text": "Lignin" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Etilen"
+    },
+    {
+      "id": 9,
+      "question": "Laju fotosintesis dapat berubah karena dipengaruhi oleh ...",
+      "options": [
+        { "id": "A", "text": "Cahaya, karbon dioksida, suhu, dan ketersediaan air" },
+        { "id": "B", "text": "Jumlah kelopak saja" },
+        { "id": "C", "text": "Bentuk biji saja" },
+        { "id": "D", "text": "Warna akar saja" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Cahaya, karbon dioksida, suhu, dan ketersediaan air"
+    },
+    {
+      "id": 10,
+      "question": "Transpirasi membantu transportasi air pada tumbuhan dengan cara ...",
+      "options": [
+        { "id": "A", "text": "Menciptakan tarikan air dari akar menuju daun" },
+        { "id": "B", "text": "Mengubah biji menjadi buah" },
+        { "id": "C", "text": "Menghasilkan serbuk sari" },
+        { "id": "D", "text": "Menghentikan kerja xilem" }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Menciptakan tarikan air dari akar menuju daun"
+    }
+  ]
+}

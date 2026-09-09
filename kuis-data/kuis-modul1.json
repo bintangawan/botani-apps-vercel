@@ -1,0 +1,250 @@
+{
+  "module": 1,
+  "title": "Kuis Modul 1 - Bagian Biji dan Perkecambahan",
+  "quizType": "pilihan_ganda",
+  "passingScore": 60,
+  "duration": 20,
+  "status": "published",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Endosperma pada biji berfungsi untuk ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melindungi biji"
+        },
+        {
+          "id": "B",
+          "text": "Membantu penyerbukan"
+        },
+        {
+          "id": "C",
+          "text": "Menyerap air"
+        },
+        {
+          "id": "D",
+          "text": "Menyimpan cadangan makanan"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "Menyimpan cadangan makanan"
+    },
+    {
+      "id": 2,
+      "question": "Fungsi utama kulit biji adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melindungi embrio"
+        },
+        {
+          "id": "B",
+          "text": "Menyimpan makanan"
+        },
+        {
+          "id": "C",
+          "text": "Menghasilkan bunga"
+        },
+        {
+          "id": "D",
+          "text": "Membentuk daun"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Melindungi embrio"
+    },
+    {
+      "id": 3,
+      "question": "Bagian biji yang berperan sebagai sumber energi saat perkecambahan adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Testa"
+        },
+        {
+          "id": "B",
+          "text": "Endosperma atau kotiledon"
+        },
+        {
+          "id": "C",
+          "text": "Radikula"
+        },
+        {
+          "id": "D",
+          "text": "Kulit buah"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Endosperma atau kotiledon"
+    },
+    {
+      "id": 4,
+      "question": "Bagian embrio yang akan berkembang menjadi batang dan daun adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Testa"
+        },
+        {
+          "id": "B",
+          "text": "Radikula"
+        },
+        {
+          "id": "C",
+          "text": "Endosperma"
+        },
+        {
+          "id": "D",
+          "text": "Plumula"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "Plumula"
+    },
+    {
+      "id": 5,
+      "question": "Kotiledon pada biji dikotil berjumlah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Empat"
+        },
+        {
+          "id": "B",
+          "text": "Dua"
+        },
+        {
+          "id": "C",
+          "text": "Tiga"
+        },
+        {
+          "id": "D",
+          "text": "Satu"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Dua"
+    },
+    {
+      "id": 6,
+      "question": "Pada biji kacang tanah, cadangan makanan disimpan di bagian ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Endosperma"
+        },
+        {
+          "id": "B",
+          "text": "Kotiledon"
+        },
+        {
+          "id": "C",
+          "text": "Plumula"
+        },
+        {
+          "id": "D",
+          "text": "Testa"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Kotiledon"
+    },
+    {
+      "id": 7,
+      "question": "Bagian biji yang berfungsi melindungi embrio adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kulit biji (testa)"
+        },
+        {
+          "id": "B",
+          "text": "Kotiledon"
+        },
+        {
+          "id": "C",
+          "text": "Endosperma"
+        },
+        {
+          "id": "D",
+          "text": "Radikula"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Kulit biji (testa)"
+    },
+    {
+      "id": 8,
+      "question": "Proses keluarnya akar pertama dari biji disebut pertumbuhan ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vegetatif"
+        },
+        {
+          "id": "B",
+          "text": "Sekunder"
+        },
+        {
+          "id": "C",
+          "text": "Primer"
+        },
+        {
+          "id": "D",
+          "text": "Generatif"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "Primer"
+    },
+    {
+      "id": 9,
+      "question": "Bagian embrio yang akan berkembang menjadi akar adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plumula"
+        },
+        {
+          "id": "B",
+          "text": "Endosperma"
+        },
+        {
+          "id": "C",
+          "text": "Radikula"
+        },
+        {
+          "id": "D",
+          "text": "Kotiledon"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "Radikula"
+    },
+    {
+      "id": 10,
+      "question": "Perbedaan utama biji monokotil dan dikotil terletak pada ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ukuran biji"
+        },
+        {
+          "id": "B",
+          "text": "Jumlah kotiledon"
+        },
+        {
+          "id": "C",
+          "text": "Warna biji"
+        },
+        {
+          "id": "D",
+          "text": "Bentuk akar"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Jumlah kotiledon"
+    }
+  ]
+}

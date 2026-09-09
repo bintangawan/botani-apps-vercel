@@ -1,0 +1,250 @@
+{
+  "module": 6,
+  "title": "Kuis Modul 6 - Organ Tumbuhan Phanerogamae",
+  "quizType": "pilihan_ganda",
+  "passingScore": 60,
+  "duration": 20,
+  "status": "published",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tumbuhan Phanerogamae dikelompokkan berdasarkan ciri utama berupa ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tidak memiliki akar sejati"
+        },
+        {
+          "id": "B",
+          "text": "Memiliki alat perkembangbiakan yang jelas"
+        },
+        {
+          "id": "C",
+          "text": "Berkembang biak dengan spora"
+        },
+        {
+          "id": "D",
+          "text": "Hidup di tempat lembab"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Memiliki alat perkembangbiakan yang jelas"
+    },
+    {
+      "id": 2,
+      "question": "Organ tumbuhan yang berfungsi menyerap air dan garam mineral dari tanah adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Akar"
+        },
+        {
+          "id": "B",
+          "text": "Daun"
+        },
+        {
+          "id": "C",
+          "text": "Bunga"
+        },
+        {
+          "id": "D",
+          "text": "Batang"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Akar"
+    },
+    {
+      "id": 3,
+      "question": "Ciri khas akar sejati pada tumbuhan Phanerogamae adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memiliki buku dan ruas"
+        },
+        {
+          "id": "B",
+          "text": "Memiliki tudung akar"
+        },
+        {
+          "id": "C",
+          "text": "Mengandung klorofil"
+        },
+        {
+          "id": "D",
+          "text": "Berfungsi untuk fotosintesis"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Memiliki tudung akar"
+    },
+    {
+      "id": 4,
+      "question": "Perbedaan utama antara akar tunggang dan akar serabut terletak pada ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jumlah jaringan pengangkut"
+        },
+        {
+          "id": "B",
+          "text": "Warna akar"
+        },
+        {
+          "id": "C",
+          "text": "Pola percabangan dan bentuk sistem akarnya"
+        },
+        {
+          "id": "D",
+          "text": "Fungsi fisiologisnya"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "Pola percabangan dan bentuk sistem akarnya"
+    },
+    {
+      "id": 5,
+      "question": "Akar tunggang umumnya dimiliki oleh tumbuhan ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lumut"
+        },
+        {
+          "id": "B",
+          "text": "Monokotil"
+        },
+        {
+          "id": "C",
+          "text": "Dikotil"
+        },
+        {
+          "id": "D",
+          "text": "Paku"
+        }
+      ],
+      "correctAnswer": "C",
+      "correctAnswerText": "Dikotil"
+    },
+    {
+      "id": 6,
+      "question": "Batang berfungsi sebagai alat transportasi karena mengandung jaringan ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xilem dan floem"
+        },
+        {
+          "id": "B",
+          "text": "Parenkim dan polenkim"
+        },
+        {
+          "id": "C",
+          "text": "Sklerenkim dan kambium"
+        },
+        {
+          "id": "D",
+          "text": "Epidermis dan korteks"
+        }
+      ],
+      "correctAnswer": "A",
+      "correctAnswerText": "Xilem dan floem"
+    },
+    {
+      "id": 7,
+      "question": "Batang yang mengalami pertumbuhan sekunder disebabkan oleh aktivitas ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jaringan parenkim"
+        },
+        {
+          "id": "B",
+          "text": "Kambium"
+        },
+        {
+          "id": "C",
+          "text": "Jaringan epidermis"
+        },
+        {
+          "id": "D",
+          "text": "Meristem apikal"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Kambium"
+    },
+    {
+      "id": 8,
+      "question": "Fungsi utama batang bagi tumbuhan adalah ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alat perkembangbiakan"
+        },
+        {
+          "id": "B",
+          "text": "Menopang tubuh dan mengangkut zat"
+        },
+        {
+          "id": "C",
+          "text": "Menyerap air dan mineral"
+        },
+        {
+          "id": "D",
+          "text": "Tempat terjadinya fotosintesis utama"
+        }
+      ],
+      "correctAnswer": "B",
+      "correctAnswerText": "Menopang tubuh dan mengangkut zat"
+    },
+    {
+      "id": 9,
+      "question": "Daun merupakan organ utama fotosintesis karena ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Berwarna hijau"
+        },
+        {
+          "id": "B",
+          "text": "Memiliki tulang daun"
+        },
+        {
+          "id": "C",
+          "text": "Memiliki lapisan kutikula"
+        },
+        {
+          "id": "D",
+          "text": "Mengandung klorofil dan stomata"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "Mengandung klorofil dan stomata"
+    },
+    {
+      "id": 10,
+      "question": "Stomata pada daun berfungsi untuk ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengangkut hasil fotosintesis"
+        },
+        {
+          "id": "B",
+          "text": "Menyimpan cadangan makanan"
+        },
+        {
+          "id": "C",
+          "text": "Menyerap mineral"
+        },
+        {
+          "id": "D",
+          "text": "Pertukaran gas dan transpirasi"
+        }
+      ],
+      "correctAnswer": "D",
+      "correctAnswerText": "Pertukaran gas dan transpirasi"
+    }
+  ]
+}

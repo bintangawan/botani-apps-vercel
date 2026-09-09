@@ -328,7 +328,7 @@ Untuk tahap awal, sistem disarankan menggunakan arsitektur **monolit modular** a
 ```mermaid
 flowchart TD
     A[Browser Desktop atau Mobile] --> B[Frontend Website Responsif]
-    B --> C[Backend Application dan REST API]
+    B --> C[Next.js Server dan tRPC API]
     C --> D[(PostgreSQL Database)]
     C --> E[Media Storage]
     C --> G[Reporting dan Analytics]
@@ -339,7 +339,7 @@ flowchart TD
 1. **Frontend**
    - Menampilkan antarmuka pengguna.
    - Responsif untuk desktop, tablet, dan perangkat seluler.
-   - Berkomunikasi dengan backend melalui REST API.
+   - Berkomunikasi dengan backend melalui tRPC yang type-safe.
 
 2. **Backend**
    - Menangani autentikasi.
@@ -363,32 +363,22 @@ flowchart TD
 
 ---
 
-## 9. Rekomendasi Teknologi
+## 9. Teknologi Implementasi
 
-Rekomendasi teknologi dapat disesuaikan dengan kemampuan tim.
+### Stack Utama
 
-### Opsi Utama
-
-| Bagian          | Teknologi                                |
-| --------------- | ---------------------------------------- |
-| Frontend        | React, Next.js, atau Blade               |
-| Backend         | Laravel                                  |
-| Database        | PostgreSQL                               |
-| Styling         | Tailwind CSS                             |
-| Authentication  | Laravel Sanctum                          |
-| API             | REST API                                 |
-| Media Storage   | Local storage atau object storage        |
-| Deployment      | VPS, Railway, Render, atau server kampus |
-| Version Control | GitHub                                   |
-
-### Alternatif Sederhana
-
-| Bagian     | Teknologi                        |
-| ---------- | -------------------------------- |
-| Frontend   | HTML, CSS, JavaScript, Bootstrap |
-| Backend    | Laravel                          |
-| Database   | PostgreSQL atau MySQL            |
-| Deployment | Shared hosting atau VPS          |
+| Bagian          | Teknologi                              |
+| --------------- | -------------------------------------- |
+| Frontend        | React 19 dan Next.js 16 App Router     |
+| Backend         | Next.js Server Components dan tRPC 11  |
+| ORM             | Drizzle ORM                            |
+| Database        | Supabase PostgreSQL                    |
+| Styling         | Tailwind CSS 4                         |
+| Authentication  | Supabase Auth                          |
+| API             | tRPC                                   |
+| Media Storage   | Supabase Storage                       |
+| Deployment      | Vercel                                 |
+| Version Control | GitHub                                 |
 
 ---
 
