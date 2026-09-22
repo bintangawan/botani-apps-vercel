@@ -1,20 +1,19 @@
 import { NextResponse } from "next/server";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
 
-function safeNextPath(value: string | null): string {
-  return value?.startsWith("/") && !value.startsWith("//") ? value : "/mahasiswa/dashboard";
-}
-
 export async function GET(request: Request): Promise<Response> {
   const url = new URL(request.url);
   const code = url.searchParams.get("code");
-  const next = safeNextPath(url.searchParams.get("next"));
 
   if (code) {
     const supabase = await createSupabaseServerClient();
     const { error } = await supabase.auth.exchangeCodeForSession(code);
     if (!error) {
-      return NextResponse.redirect(new URL(next, url.origin));
+      // Confirmation finishes registration; users sign in explicitly afterward.
+      await supabase.auth.signOut();
+      const loginUrl = new URL("/login", url.origin);
+      loginUrl.searchParams.set("confirmed", crypto.randomUUID());
+      return NextResponse.redirect(loginUrl);
     }
   }
 

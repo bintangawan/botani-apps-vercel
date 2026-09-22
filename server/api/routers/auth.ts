@@ -74,7 +74,7 @@ export const authRouter = createTRPCRouter({
             name: input.name,
             institution: input.institution ?? "",
           },
-          emailRedirectTo: `${env.NEXT_PUBLIC_SITE_URL}/auth/callback?next=/mahasiswa/dashboard`,
+          emailRedirectTo: `${env.NEXT_PUBLIC_SITE_URL}/auth/callback`,
         },
       });
 
