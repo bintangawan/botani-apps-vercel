@@ -1,6 +1,5 @@
 import { TRPCError } from "@trpc/server";
 import { z } from "zod";
-import { getPublicEnv } from "@/lib/env";
 import { createTRPCRouter, publicProcedure } from "@/server/api/trpc";
 import { throwDatabaseError } from "@/server/api/helpers";
 
@@ -65,26 +64,30 @@ export const authRouter = createTRPCRouter({
   signUp: publicProcedure
     .input(credentialsSchema.extend({ password: z.string().min(8).max(128), name: z.string().trim().min(2).max(255), institution: z.string().trim().max(255).optional() }))
     .mutation(async ({ ctx, input }) => {
-      const env = getPublicEnv();
-      const { data, error } = await ctx.supabase.auth.signUp({
+      const { createSupabaseAdminClient } = await import("@/lib/supabase/admin");
+      const admin = createSupabaseAdminClient();
+      const { data, error } = await admin.auth.admin.createUser({
         email: input.email,
         password: input.password,
-        options: {
-          data: {
-            name: input.name,
-            institution: input.institution ?? "",
-          },
-          emailRedirectTo: `${env.NEXT_PUBLIC_SITE_URL}/auth/callback`,
+        email_confirm: true,
+        user_metadata: {
+          name: input.name,
+          institution: input.institution ?? "",
         },
       });
 
-      if (error) {
-        throw new TRPCError({ code: "BAD_REQUEST", message: error.message });
+      if (error || !data.user) {
+        throw new TRPCError({ code: "BAD_REQUEST", message: error?.message ?? "Akun gagal dibuat." });
       }
 
+      const { data: sessionData, error: sessionError } = await ctx.supabase.auth.signInWithPassword({
+        email: input.email,
+        password: input.password,
+      });
+
       return {
-        requiresEmailConfirmation: data.session === null,
-        redirectTo: data.session ? "/mahasiswa/dashboard" : "/login?registered=1",
+        signedIn: !sessionError && Boolean(sessionData.user),
+        redirectTo: !sessionError && sessionData.user ? "/mahasiswa/dashboard" : "/login?registered=1",
       };
     }),
 

@@ -6,7 +6,6 @@ import { useRouter } from "next/navigation";
 import { useForm } from "react-hook-form";
 import { toast } from "sonner";
 import { z } from "zod";
-import { confirmAction } from "@/lib/confirm-action";
 import { trpc } from "@/lib/trpc/client";
 
 const schema = z
@@ -40,25 +39,18 @@ export function RegisterForm() {
     },
   });
   const mutation = trpc.auth.signUp.useMutation({
-    onSuccess: ({ redirectTo, requiresEmailConfirmation }) => {
+    onSuccess: ({ redirectTo, signedIn }) => {
       toast.success(
-        requiresEmailConfirmation
-          ? "Cek email untuk mengonfirmasi akun."
-          : "Akun berhasil dibuat.",
+        signedIn
+          ? "Akun berhasil dibuat. Kamu bisa langsung memakai aplikasi."
+          : "Akun berhasil dibuat. Silakan masuk dengan email dan kata sandi yang baru dibuat.",
       );
-      router.push(redirectTo);
+      router.replace(redirectTo);
       router.refresh();
     },
     onError: (error) => toast.error(error.message),
   });
-  const onSubmit = async (values: Values): Promise<void> => {
-    const confirmed = await confirmAction({
-      title: "Buat akun sekarang?",
-      text: `Pastikan nama dan alamat email ${values.email} sudah benar sebelum melanjutkan.`,
-      confirmText: "Ya, buat akun",
-    });
-    if (!confirmed) return;
-
+  const onSubmit = (values: Values): void => {
     mutation.mutate({
       name: values.name,
       email: values.email,
